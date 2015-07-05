@@ -1,5 +1,5 @@
 <main class="curtain">
-  {% for articleData in site.data.lockwood %}
+  {% for articleData in sortedArticles %}
     {% assign article = articleData[1] %}
     <article class="{% for class in article.page %}{{ class }} {% endfor %}">
       <div class="bg">
