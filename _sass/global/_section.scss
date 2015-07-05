@@ -11,6 +11,19 @@ section {
     color: shade($white, 10%);
   }
 
+  ol,
+  ul {
+    margin: $small-spacing 0;
+  }
+
+  ul {
+    @extend %default-ul;
+  }
+
+  ol {
+    @extend %default-ol;
+  }
+
   @include media($medium-screen-up) {
     min-height: 100vh;
     padding-top: $base-spacing * 4;

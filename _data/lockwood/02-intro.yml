@@ -10,5 +10,5 @@ layout:
 content:
   -
     - width: full
-      content: >
+      content: |
         Here's a sentence. Or two.

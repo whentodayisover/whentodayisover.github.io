@@ -6,7 +6,7 @@ layout:
 content:
   -
     - width: third
-      content: >
+      content: |
         Test edit.
     - width: third
       content: >

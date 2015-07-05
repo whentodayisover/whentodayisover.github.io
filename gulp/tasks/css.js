@@ -12,6 +12,7 @@ gulp.task('css', function() {
   return sass('_sass/all.scss', { style: 'expanded' })
     .pipe(plumber())
     .pipe(autoprefixer('last 2 version', 'ie 9'))
+    .pipe(gulp.dest('css'))
     .pipe(rename({suffix: '.min'}))
     .pipe(minifycss())
     .pipe(gulp.dest('css'))
