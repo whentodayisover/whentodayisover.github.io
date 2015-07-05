@@ -1,0 +1,32 @@
+$nav-transition: 0.333s $ease-out-expo;
+
+.nav {
+  @include position(fixed, 0 null 0 0);
+  background-color: $white;
+  max-width: 20rem;
+  transform: translateX(-100%);
+  transition: transform $nav-transition;
+  width: 100%;
+  z-index: $z-nav;
+}
+
+.nav-overlay {
+  @include position(fixed, 0);
+  background-color: $purple;
+  opacity: 0;
+  transform: translateX(-100%);
+  transition: opacity, $nav-transition, transform $nav-transition;
+  z-index: $z-nav - 1;
+}
+
+.nav-open {
+  overflow: hidden;
+
+  .nav {
+    transform: translateX(0);
+  }
+  .nav-overlay {
+    opacity: 0.888;
+    transform: translateX(0);
+  }
+}

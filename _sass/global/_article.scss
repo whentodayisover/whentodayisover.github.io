@@ -1,0 +1,25 @@
+article {
+  @include row;
+  background-color: $base-background-color;
+  overflow: hidden;
+  position: relative;
+
+  &::before {
+    @include position(absolute, 0 0 null);
+    background: linear-gradient(rgba(black, 1), rgba(black, 0));
+    content: "";
+    height: $small-spacing / 2;
+    opacity: 0.333;
+    pointer-events: none;
+    z-index: 2;
+  }
+
+  @include media($medium-screen-up) {
+    min-height: 100vh;
+    padding-bottom: 100vh;
+
+    &.short {
+      padding: 0;
+    }
+  }
+}

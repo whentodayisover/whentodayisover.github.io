@@ -1,0 +1,9 @@
+.hamburger {
+  @include position(fixed, $base-spacing null null $base-spacing);
+  @include size($base-spacing * 1.5);
+  background-color: rgba($purple, 0.888);
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px $white;
+  cursor: pointer;
+  z-index: $z-hamburger;
+}

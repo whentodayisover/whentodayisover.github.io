@@ -1,0 +1,42 @@
+section {
+  background-color: $white;
+  box-shadow: 0 1px 0 rgba($purple, 0.666);
+  padding: ($base-spacing * 2) $base-spacing;
+  position: relative;
+  transform: translate3d(0,0,0);
+  z-index: 1;
+
+  &.dark {
+    background-color: #2a2f3a;
+    color: shade($white, 10%);
+  }
+
+  @include media($medium-screen-up) {
+    min-height: 100vh;
+    padding-top: $base-spacing * 4;
+
+    &.half,
+    &.third {
+      float: left;
+    }
+
+    &.half,
+    &.third {
+      width: 50%;
+
+      &.right {
+        margin-left: 50%;
+      }
+    }
+  }
+
+  @include media($large-screen-up) {
+    &.third {
+      width: 33.333%;
+
+      &.right {
+        margin-left: 66.666%;
+      }
+    }
+  }
+}

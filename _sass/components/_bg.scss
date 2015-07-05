@@ -1,0 +1,24 @@
+.bg {
+  height: 75vw;
+  pointer-events: none;
+  position: relative;
+  width: 100vw;
+
+  @include media($medium-screen-up) {
+    @include position(fixed, 0);
+    height: 100vh;
+  }
+}
+
+.frame {
+  @include position(absolute, 0);
+
+  &.mask {
+    height: 0vh;
+    top: auto;
+  }
+}
+
+.frame-shim {
+  height: 100vh;
+}

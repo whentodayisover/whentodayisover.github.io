@@ -1,0 +1,16 @@
+title: Hi
+page:
+  - short
+layout:
+  - full
+content:
+  -
+    - width: third
+      content: >
+        Here's a sentence.
+    - width: third
+      content: >
+        Here's a sentence.
+    - width: third
+      content: >
+        Here's a sentence.

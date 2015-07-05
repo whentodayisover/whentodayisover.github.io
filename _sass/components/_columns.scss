@@ -1,0 +1,45 @@
+.grid {
+  align-items: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 (-$small-spacing);
+}
+
+.column {
+  margin-bottom: $small-spacing;
+  padding: 0 $small-spacing;
+}
+
+.half {
+  .column {
+    @include span-columns(6 of 9);
+  }
+
+  .column.narrow {
+    @include span-columns(3 of 9);
+  }
+}
+
+.full {
+
+  @include media($medium-screen-up) {
+    .column {
+      flex-basis: 50%;
+    }
+  }
+
+  @include media($large-screen-up) {
+    .column {
+      flex-basis: 33.333%;
+    }
+
+    .column.narrow {
+      flex-basis: 16.666%;
+
+      p {
+        @include vertical-rhythm(-1);
+      }
+    }
+  }
+}

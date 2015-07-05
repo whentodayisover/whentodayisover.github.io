@@ -1,0 +1,23 @@
+<main class="curtain">
+  {% for articleData in site.data.lockwood %}
+    {% assign article = articleData[1] %}
+    <article class="{% for class in article.page %}{{ class }} {% endfor %}">
+      <div class="bg">
+        {% for image in article.images %}
+          <img src="{{ image }}" class="cover frame">
+        {% endfor %}
+      </div>
+      <section class="{% for class in article.layout %}{{ class }} {% endfor %}">
+        {% for row in article.content %}
+          <div class="grid">
+            {% for column in row %}
+              <div class="column {{ column.width}}">
+                {{ column.content | markdownify }}
+              </div>
+            {% endfor %}
+          </div>
+        {% endfor %}
+      </section>
+    </article>
+  {% endfor %}
+</main>

@@ -1,0 +1,19 @@
+.lede {
+  h1 {
+    margin-top: $base-spacing * 2;
+  }
+
+  h3 {
+    margin: ($base-spacing * 3) 0 ($small-spacing / 2);
+  }
+
+  h4 {
+    font-weight: normal;
+    margin: ($small-spacing / 2) 0;
+  }
+
+  p {
+    @include vertical-rhythm(1);
+    margin-right: $base-spacing * 2;
+  }
+}

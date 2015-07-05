@@ -1,0 +1,9 @@
+# Site settings
+title: When Today Is Over
+email: your-email@domain.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Build settings
+exclude: [node_modules, gulpfile.js, package.json]
+markdown: kramdown

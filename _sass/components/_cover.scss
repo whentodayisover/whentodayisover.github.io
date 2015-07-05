@@ -1,0 +1,12 @@
+.cover {
+  height: 75vw;
+  max-width: none;
+  object-fit: cover;
+  object-position: center top;
+  overflow: hidden;
+  width: 100vw;
+
+  @include media($medium-screen-up) {
+    height: 100vh;
+  }
+}

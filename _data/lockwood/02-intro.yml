@@ -1,0 +1,14 @@
+title: Hi
+page:
+  - short
+images:
+  - lockwood/02.png
+layout:
+  - half
+  - dark
+  - lede
+content:
+  -
+    - width: full
+      content: >
+        Here's a sentence. Or two.

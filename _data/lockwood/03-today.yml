@@ -1,0 +1,10 @@
+title: Hi
+images:
+  - lockwood/03.png
+layout:
+  - third
+content:
+  -
+    - width: full
+      content: >
+        Here's a sentence.
