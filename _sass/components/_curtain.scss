@@ -16,6 +16,7 @@
 
   @include media($large-screen-up) {
     @include position(fixed, 0);
+    display: block;
     z-index: $z-curtain + 1;
   }
 }

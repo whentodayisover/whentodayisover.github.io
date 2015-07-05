@@ -936,6 +936,7 @@ section ul {
     right: 0;
     bottom: 0;
     left: 0;
+    display: block;
     z-index: 102;
   }
 }
