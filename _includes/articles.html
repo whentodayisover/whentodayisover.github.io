@@ -1,7 +1,7 @@
 <main class="curtain">
   {% for articleData in sortedArticles %}
     {% assign article = articleData[1] %}
-    <article class="{% for class in article.page %}{{ class }} {% endfor %}">
+    <article class="{% for class in article.section %}{{ class }} {% endfor %}">
       <div class="bg">
         {% for image in article.images %}
           <img src="{{ image }}" class="cover frame">
