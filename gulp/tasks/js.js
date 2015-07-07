@@ -8,8 +8,8 @@ var gulp = require('gulp'),
 gulp.task('js', function() {
   return gulp.src(['_js/vendor/*.js', '_js/**/*.js'])
     .pipe(concat('all.js'))
-    .pipe(jshint())
-    .pipe(jshint.reporter('default'))
+    // .pipe(jshint())
+    // .pipe(jshint.reporter('default'))
     .pipe(gulp.dest('js'))
     .pipe(rename({suffix: '.min'}))
     .pipe(uglify())

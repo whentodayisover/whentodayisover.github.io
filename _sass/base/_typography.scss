@@ -30,7 +30,12 @@ h4 {
 }
 
 h5 {
-  @include vertical-rhythm(0);
+  @include vertical-rhythm(-1);
+  margin: $small-spacing 0;
+}
+
+h6 {
+  @include vertical-rhythm(-2);
   margin: $small-spacing 0;
 }
 

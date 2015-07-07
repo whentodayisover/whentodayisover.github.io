@@ -23855,6 +23855,12 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 	var _animFrame;
 }(window, document));
 
+$('img[alt*=" "]').each(function(){
+  var captionText = $(this).attr('alt');
+  var caption = $('<h6 class="caption">').html(captionText);
+  $(this).parent().append(caption);
+});
+
 (function($) {
 
   function Curtain($curtains) {
