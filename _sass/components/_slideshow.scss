@@ -1,0 +1,23 @@
+section ol {
+  position: relative;
+}
+
+.slideshow-nav {
+  @include position(absolute, null 0 0 null);
+  display: flex;
+  z-index: 101;
+}
+
+.slideshow-dot {
+  @include size($small-spacing);
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 2px currentColor;
+  cursor: pointer;
+  display: block;
+  margin-left: $small-spacing / 2;
+
+  &.cycle-pager-active {
+    background: currentColor;
+    box-shadow: none;
+  }
+}

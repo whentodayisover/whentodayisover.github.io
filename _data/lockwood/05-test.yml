@@ -8,3 +8,6 @@ content:
     - width: full
       content: |
         I added this section with GitHub.
+
+        1. ![First Example Image](/images/fpo.png)
+        2. ![Second Example Image](/images/fpo.png)

@@ -15,21 +15,13 @@ section {
     margin: $base-spacing 0;
   }
 
-  li {
-    margin: ($small-spacing / 2) 0;
-  }
-
-  ol,
-  ul {
-    margin: $small-spacing 0;
-  }
-
   ul {
     @extend %default-ul;
-  }
+    margin: $small-spacing 0;
 
-  ol {
-    @extend %default-ol;
+    li {
+      margin: ($small-spacing / 2) 0;
+    }
   }
 
   @include media($medium-screen-up) {

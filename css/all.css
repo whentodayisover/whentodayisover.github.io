@@ -553,12 +553,6 @@ section ul {
   margin-bottom: 0.93713rem;
   padding-left: 1.87425rem;
 }
-section ol {
-  list-style-type: decimal;
-  margin-bottom: 0.93713rem;
-  padding-left: 1.87425rem;
-}
-
 dl {
   margin-bottom: 0.93713rem;
 }
@@ -728,12 +722,11 @@ section.dark {
 section img {
   margin: 1.87425rem 0;
 }
-section li {
-  margin: 0.46856rem 0;
-}
-section ol,
 section ul {
   margin: 0.93713rem 0;
+}
+section ul li {
+  margin: 0.46856rem 0;
 }
 @media screen and (min-width: 700px) {
   section {
@@ -829,7 +822,7 @@ section ul {
 }
 
 img[alt*=" "] {
-  margin-bottom: 0.93713rem;
+  margin-bottom: 0.46856rem;
 }
 
 .caption {
@@ -1053,4 +1046,33 @@ figure {
   -webkit-transform: translateX(0);
       -ms-transform: translateX(0);
           transform: translateX(0);
+}
+
+section ol {
+  position: relative;
+}
+
+.slideshow-nav {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  z-index: 101;
+}
+
+.slideshow-dot {
+  height: 0.93713rem;
+  width: 0.93713rem;
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 2px currentColor;
+  cursor: pointer;
+  display: block;
+  margin-left: 0.46856rem;
+}
+.slideshow-dot.cycle-pager-active {
+  background: currentColor;
+  box-shadow: none;
 }
