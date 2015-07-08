@@ -11,10 +11,6 @@ section {
     color: shade($white, 10%);
   }
 
-  img {
-    margin: $base-spacing 0;
-  }
-
   ul {
     @extend %default-ul;
     margin: $small-spacing 0;

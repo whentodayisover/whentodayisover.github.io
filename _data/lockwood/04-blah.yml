@@ -6,21 +6,50 @@ layout:
 content:
   -
     - width: third
-      content: |
-        Test edit.
+      content: >
+        ![](/images/fpo.png)
+
+        <div class="grid">
+          <div class="column half" markdown="1">
+          ![](/images/fpo.png)
+
+          Test edit.
+          </div>
+          <div class="column half" markdown="1">
+          ![](/images/fpo.png)
+
+          Test edit.
+          </div>
+        </div>
     - width: third
       content: >
-        Here's a sentence.
+        ![](/images/fpo.png)
+
+        <div class="grid">
+          <div class="column half" markdown="1">
+          ![](/images/fpo.png)
+
+          Test edit.
+          </div>
+          <div class="column half" markdown="1">
+          ![](/images/fpo.png)
+
+          Test edit.
+          </div>
+        </div>
     - width: third
       content: >
-        Here's a sentence.
-  -
-    - width: third
-      content: |
-        Test edit.
-    - width: third
-      content: >
-        Here's a sentence.
-    - width: third
-      content: >
-        Here's a sentence.
+        ![](/images/fpo.png)
+
+        <div class="grid">
+          <div class="column half" markdown="1">
+          ![](/images/fpo.png)
+
+          Test edit.
+          </div>
+          <div class="column half" markdown="1">
+          ![](/images/fpo.png)
+
+          Test edit.
+          </div>
+        </div>
