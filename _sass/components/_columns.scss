@@ -4,6 +4,19 @@
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 0 (-$small-spacing);
+  position: relative;
+
+  & + & {
+    padding-top: $small-spacing;
+
+    &::before {
+      @include position(absolute, 0 $small-spacing null);
+      background-color: currentColor;
+      content: "";
+      height: 1px;
+      opacity: 0.222;
+    }
+  }
 }
 
 .column {

@@ -14,3 +14,13 @@ content:
     - width: third
       content: >
         Here's a sentence.
+  -
+    - width: third
+      content: |
+        Test edit.
+    - width: third
+      content: >
+        Here's a sentence.
+    - width: third
+      content: >
+        Here's a sentence.
