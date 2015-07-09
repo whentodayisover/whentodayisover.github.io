@@ -1,7 +1,8 @@
 title: Hi
 section:
   - short
-background: lockwood/02.png
+backgrounds:
+  - lockwood/02.png
 layout:
   - half
   - dark

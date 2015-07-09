@@ -3,9 +3,11 @@
     {% assign article = articleData[1] %}
     <article class="{% for class in article.section %}{{ class }} {% endfor %}">
 
-      {% if article.background %}
+      {% if article.backgrounds %}
         <div class="bg">
-          <img src="{{ article.background }}" class="cover frame">
+          {% for background in article.backgrounds %}
+            <img src="{{ background }}" class="cover frame">
+          {% endfor %}
         </div>
       {% endif %}
 
@@ -30,7 +32,7 @@
           {% endfor %}
         </section>
       {% endif %}
-      
+
     </article>
   {% endfor %}
 </main>

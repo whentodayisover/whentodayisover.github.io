@@ -1,5 +1,6 @@
 title: Hi
-background: lockwood/02.png
+backgrounds:
+  - lockwood/02.png
 animation: stop
 animationFrames:
   - lockwood/03.png
