@@ -1,25 +1,7 @@
 title: Hi
-background: lockwood/03.png
+background: lockwood/02.png
 animation: stop
 animationFrames:
+  - lockwood/03.png
   - lockwood/02.png
   - lockwood/03.png
-layout:
-  - third
-content:
-  -
-    - width: full
-      content: |
-        ### This is a headline.
-
-        This is a paragraph. The best way to communicate is compatible.
-        Compatible communication is listening with open ears and an open mind,
-        and not being fearful or judgemental about what you're hearing.
-
-        When you get lost in your imaginatory vagueness, your foresight will
-        become a nimble vagrant.
-
-        - Bullet point.
-        - Bullet point.
-
-        ![Example Image](/images/fpo.png)

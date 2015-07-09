@@ -17,17 +17,20 @@
         </div>
       {% endif %}
 
-      <section class="{% for class in article.layout %}{{ class }} {% endfor %}">
-        {% for row in article.content %}
-          <div class="grid">
-            {% for column in row %}
-              <div class="column {{ column.width}}">
-                {{ column.content | markdownify }}
-              </div>
-            {% endfor %}
-          </div>
-        {% endfor %}
-      </section>
+      {% if article.content %}
+        <section class="{% for class in article.layout %}{{ class }} {% endfor %}">
+          {% for row in article.content %}
+            <div class="grid">
+              {% for column in row %}
+                <div class="column {{ column.width}}">
+                  {{ column.content | markdownify }}
+                </div>
+              {% endfor %}
+            </div>
+          {% endfor %}
+        </section>
+      {% endif %}
+      
     </article>
   {% endfor %}
 </main>
