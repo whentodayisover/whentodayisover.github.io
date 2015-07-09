@@ -1,6 +1,6 @@
 title: Hi
 background: lockwood/03.png
-animation: fade
+animation: stop
 animationFrames:
   - lockwood/02.png
   - lockwood/03.png

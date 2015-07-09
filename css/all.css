@@ -749,42 +749,6 @@ section ul li {
   }
 }
 
-@-webkit-keyframes fade {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-@keyframes fade {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-.fade {
-  -webkit-animation: fade-in 0.25s;
-          animation: fade-in 0.25s;
-  -webkit-animation-fill-mode: both;
-          animation-fill-mode: both;
-}
-.fade:nth-child(2) {
-  -webkit-animation-delay: 0.25s;
-          animation-delay: 0.25s;
-}
-.fade:nth-child(3) {
-  -webkit-animation-delay: 0.25s;
-          animation-delay: 0.25s;
-}
-.fade:nth-child(4) {
-  -webkit-animation-delay: 0.25s;
-          animation-delay: 0.25s;
-}
-
 .bg {
   height: 75vw;
   pointer-events: none;
@@ -809,13 +773,19 @@ section ul li {
   bottom: 0;
   left: 0;
 }
-.frame.mask {
-  height: 0vh;
-  top: auto;
+.frame.fade, .frame.stop {
+  opacity: 0;
 }
 
 .frame-shim {
-  height: 100vh;
+  height: 50vh;
+  margin: 0;
+}
+.frame-shim:nth-of-type(1) {
+  margin-top: 25vh;
+}
+.frame-shim:last-of-type {
+  margin-bottom: -25vh;
 }
 
 img[alt*=" "] {

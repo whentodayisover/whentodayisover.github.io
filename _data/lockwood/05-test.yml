@@ -1,6 +1,5 @@
 title: Hi
-images:
-  - lockwood/03.png
+background: lockwood/03.png
 layout:
   - third
 content:

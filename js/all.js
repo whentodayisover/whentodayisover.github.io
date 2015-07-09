@@ -25403,6 +25403,68 @@ $.extend($.fn.cycle.API, {
 
 })(jQuery);
 
+var scrollMagic = new ScrollMagic.Controller();
+
+var s = skrollr.init();
+
+var curtainId = 0;
+
+$('.curtain').each(function(){
+  $(this).attr('id', 'curtain'+curtainId++);
+});
+
+var articleId = 100;
+
+$('article').each(function(){
+  $(this).attr('id', 'article'+articleId).css('z-index', articleId--);
+});
+
+var bgId = 0;
+
+$('.bg').each(function(){
+  $(this).attr('id', 'bg'+bgId++);
+});
+
+var frameId = 0;
+
+$('.frame').each(function(){
+  $(this).attr('id', 'frame'+frameId++);
+});
+
+$('.animation .frame').each(function(){
+  var $frame = $(this),
+      frameId = $frame.attr('id'),
+      frameShim = frameId + '-shim',
+      $article = $frame.parents('article');
+
+  var shim = $('<figure>')
+      .attr('id', frameShim)
+      .addClass('frame-shim')
+      .appendTo($article);
+});
+
+$('.frame.fade').each(function(){
+  var $frame = $(this),
+      frameId = $frame.attr('id'),
+      frameShim = frameId + '-shim';
+
+  var scene = new ScrollMagic.Scene({triggerElement: '#' + frameShim, duration: '25%'})
+    .setTween('#' + frameId, { opacity: 1 })
+    .addIndicators()
+    .addTo(scrollMagic);
+});
+
+$('.frame.stop').each(function(){
+  var $frame = $(this),
+      frameId = $frame.attr('id'),
+      frameShim = frameId + '-shim';
+
+  var scene = new ScrollMagic.Scene({triggerElement: '#' + frameShim, duration: '1'})
+    .setTween('#' + frameId, { opacity: 1 })
+    .addIndicators()
+    .addTo(scrollMagic);
+});
+
 $('img[alt*=" "]').each(function(){
   var captionText = $(this).attr('alt');
   var caption = $('<h6 class="caption">').html(captionText);
@@ -25509,31 +25571,3 @@ $('.nav-toggle').click(function(e){
   e.preventDefault;
   $('html').toggleClass('nav-open');
 });
-
-var curtainId = 0;
-
-$('.curtain').each(function(){
-  $(this).attr('id', 'curtain'+curtainId++);
-});
-
-var articleId = 100;
-
-$('article').each(function(){
-  $(this).attr('id', 'article'+articleId).css('z-index', articleId--);
-});
-
-var bgId = 0;
-
-$('.bg').each(function(){
-  $(this).attr('id', 'bg'+bgId++);
-});
-
-var frameId = 0;
-
-$('.frame').each(function(){
-  $(this).attr('id', 'frame'+frameId++);
-});
-
-var scrollMagic = new ScrollMagic.Controller();
-
-var s = skrollr.init();

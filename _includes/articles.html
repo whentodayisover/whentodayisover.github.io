@@ -2,11 +2,21 @@
   {% for articleData in sortedArticles %}
     {% assign article = articleData[1] %}
     <article class="{% for class in article.section %}{{ class }} {% endfor %}">
-      <div class="bg">
-        {% for image in article.images %}
-          <img src="{{ image }}" class="cover frame">
-        {% endfor %}
-      </div>
+
+      {% if article.background %}
+        <div class="bg">
+          <img src="{{ article.background }}" class="cover frame">
+        </div>
+      {% endif %}
+
+      {% if article.animationFrames %}
+        <div class="bg animation">
+          {% for frame in article.animationFrames %}
+            <img src="{{ frame }}" class="cover frame {{ article.animation }}">
+          {% endfor %}
+        </div>
+      {% endif %}
+
       <section class="{% for class in article.layout %}{{ class }} {% endfor %}">
         {% for row in article.content %}
           <div class="grid">

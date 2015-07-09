@@ -13,12 +13,21 @@
 .frame {
   @include position(absolute, 0);
 
-  &.mask {
-    height: 0vh;
-    top: auto;
+  &.fade,
+  &.stop {
+    opacity: 0;
   }
 }
 
 .frame-shim {
-  height: 100vh;
+  height: 50vh;
+  margin: 0;
+
+  &:nth-of-type(1) {
+    margin-top: 25vh;
+  }
+
+  &:last-of-type {
+    margin-bottom: -25vh;
+  }
 }
