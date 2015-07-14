@@ -8,6 +8,7 @@ content:
     - width: full
       content: |
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ligula nisl, ornare eget sem quis, laoreet aliquet ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam laoreet mauris id dui ultrices, sed molestie quam ultrices. Fusce non semper lectus, quis porta nunc. Nam eu sem nec mauris euismod tincidunt. Nam bibendum arcu a lorem pellentesque ornare. Proin imperdiet viverra tortor eu convallis. Nulla eu justo sollicitudin, pulvinar diam id, convallis magna. Donec arcu lorem, placerat sit amet commodo a, tincidunt posuere tortor. Maecenas dui nunc, elementum ut metus eget, ullamcorper tempus sem. Donec auctor lacus nec nisl commodo sodales.
-
-        ![Example Image](/images/fpo.png)
+        
+        1. ![First Example Image](/images/fpo.png)
+        2. ![Second Example Image](/images/fpo.png)
 
