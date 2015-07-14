@@ -21,6 +21,13 @@
 
       {% if article.content %}
         <section class="{% for class in article.layout %}{{ class }} {% endfor %}">
+
+          {% if article.title %}
+            <header class="article-title">
+              <h1>{{ article.title }}</h1>
+            </header>
+          {% endif %}
+
           {% for row in article.content %}
             <div class="grid">
               {% for column in row %}
