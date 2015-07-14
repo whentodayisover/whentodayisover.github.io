@@ -1,4 +1,4 @@
-title: Hi
+title: Gregg Today
 backgrounds:
   - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-ana_today.png
 layout:
@@ -7,17 +7,7 @@ content:
   -
     - width: full
       content: |
-        ### This is a headline.
-
-        This is a paragraph. The best way to communicate is compatible.
-        Compatible communication is listening with open ears and an open mind,
-        and not being fearful or judgemental about what you're hearing.
-
-        When you get lost in your imaginatory vagueness, your foresight will
-        become a nimble vagrant.
-
-        - Bullet point.
-        - Bullet point.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ligula nisl, ornare eget sem quis, laoreet aliquet ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam laoreet mauris id dui ultrices, sed molestie quam ultrices. Fusce non semper lectus, quis porta nunc. Nam eu sem nec mauris euismod tincidunt. Nam bibendum arcu a lorem pellentesque ornare. Proin imperdiet viverra tortor eu convallis. Nulla eu justo sollicitudin, pulvinar diam id, convallis magna. Donec arcu lorem, placerat sit amet commodo a, tincidunt posuere tortor. Maecenas dui nunc, elementum ut metus eget, ullamcorper tempus sem. Donec auctor lacus nec nisl commodo sodales.
 
         ![Example Image](/images/fpo.png)
 
