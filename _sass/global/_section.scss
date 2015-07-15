@@ -7,8 +7,8 @@ section {
   z-index: 1;
 
   &.dark {
-    background-color: #2a2f3a;
-    color: shade($white, 10%);
+    background-color: $purple;
+    color: $white;
   }
 
   ul {

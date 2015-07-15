@@ -20,24 +20,20 @@ $z-hamburger: 195;
 $z-nav: 200;
 
 // Colors
-$purple: #2a2f3a;
+$purple: #282c33;
 $dark-purple: darken($purple, 10%);
-$blue: #477dca;
-$dark-gray: #333;
-$medium-gray: #999;
-$light-gray: #ddd;
-$white: #fff;
+$white: #f5f6f8;
 
 // Font Colors
 $base-background-color: $white;
-$base-font-color: $dark-gray;
+$base-font-color: $purple;
 $action-color: $purple;
 
 // Font Weights
 $normal-weight: 400;
 
 // Border
-$base-border-color: $light-gray;
+$base-border-color: $white;
 $base-border: 1px solid $base-border-color;
 
 // Forms
