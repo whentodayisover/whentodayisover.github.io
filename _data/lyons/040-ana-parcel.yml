@@ -1,4 +1,4 @@
-title: Hi
+title: Parcels & Blocks
 backgrounds:
   - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-ana_block.png
 layout:
@@ -7,17 +7,8 @@ content:
   -
     - width: full
       content: |
-        ### This is a headline.
-
-        This is a paragraph. The best way to communicate is compatible.
-        Compatible communication is listening with open ears and an open mind,
-        and not being fearful or judgemental about what you're hearing.
-
-        When you get lost in your imaginatory vagueness, your foresight will
-        become a nimble vagrant.
-
-        - Bullet point.
-        - Bullet point.
-
-        ![Example Image](/images/fpo.png)
+        Praesent ullamcorper felis in venenatis accumsan. Donec lobortis libero nec lectus convallis condimentum. Mauris ac leo magna. Phasellus est enim, varius a bibendum ut, pretium eu orci. Vivamus pellentesque vel nulla vitae egestas. Nunc condimentum posuere lorem a dapibus. Nulla facilisi. Donec quis nulla imperdiet odio ornare auctor. Donec vel massa id eros pharetra varius in quis dui.
+        
+        Parcel Sample Map
+        ![](/images/fpo.png)
 
