@@ -20,7 +20,6 @@
 }
 
 .column {
-  margin-bottom: $small-spacing;
   padding: 0 $small-spacing;
 }
 
@@ -36,23 +35,30 @@
 
 .full {
 
+  @include media($small-screen-up) {
+    .third {
+      .sixth {
+        flex-basis: 50%;
+      }
+    }
+  }
+
   @include media($medium-screen-up) {
-    .column {
+    .sixth,
+    .third {
       flex-basis: 50%;
     }
   }
 
   @include media($large-screen-up) {
-    .column {
+    .sixth {
+      flex-basis: 16.666%;
+    }
+    .third {
       flex-basis: 33.333%;
     }
-
-    .column.narrow {
-      flex-basis: 16.666%;
-
-      p {
-        @include vertical-rhythm(-1);
-      }
+    .half {
+      flex-basis: 50%;
     }
   }
 }

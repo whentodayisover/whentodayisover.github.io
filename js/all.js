@@ -25448,7 +25448,7 @@ $('.frame.fade').each(function(){
       frameId = $frame.attr('id'),
       frameShim = frameId + '-shim';
 
-  var scene = new ScrollMagic.Scene({triggerElement: '#' + frameShim, duration: '25%'})
+  var scene = new ScrollMagic.Scene({triggerElement: '#' + frameShim, triggerHook: 0.5, duration: '25%'})
     .setTween('#' + frameId, { opacity: 1 })
     .addIndicators()
     .addTo(scrollMagic);
@@ -25459,7 +25459,7 @@ $('.frame.stop').each(function(){
       frameId = $frame.attr('id'),
       frameShim = frameId + '-shim';
 
-  var scene = new ScrollMagic.Scene({triggerElement: '#' + frameShim, duration: '1'})
+  var scene = new ScrollMagic.Scene({triggerElement: '#' + frameShim, triggerHook: 0.5, duration: '1'})
     .setTween('#' + frameId, { opacity: 1 })
     .addIndicators()
     .addTo(scrollMagic);

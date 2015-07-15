@@ -13,10 +13,10 @@ section {
 
   ul {
     @extend %default-ul;
-    margin: $small-spacing 0;
+    margin: $base-spacing 0;
 
     li {
-      margin: ($small-spacing / 2) 0;
+      margin: $small-spacing 0;
     }
   }
 

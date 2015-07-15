@@ -1,13 +1,15 @@
-title: Hi
-backgrounds:
-  - lockwood/03.png
+section:
+  - short
 layout:
-  - third
+  - full
 content:
   -
-    - width: full
+    - width: third
       content: |
-        I added this section with GitHub.
-
-        1. ![First Example Image](/images/fpo.png)
-        2. ![Second Example Image](/images/fpo.png)
+        ![](/images/fpo.png)
+    - width: sixth
+      content: |
+        ![](/images/fpo.png)
+    - width: half
+      content: |
+        ![](/images/fpo.png)
