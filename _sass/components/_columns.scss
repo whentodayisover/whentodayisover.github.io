@@ -2,7 +2,7 @@
   align-items: stretch;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: flex-start;
   margin: 0 (-$small-spacing);
   position: relative;
 
@@ -36,6 +36,10 @@
 .full {
 
   @include media($small-screen-up) {
+    .sixth {
+      flex-basis: 50%;
+    }
+
     .third {
       .sixth {
         flex-basis: 50%;
@@ -44,7 +48,10 @@
   }
 
   @include media($medium-screen-up) {
-    .sixth,
+    .sixth {
+      flex-basis: 25%;
+    }
+
     .third {
       flex-basis: 50%;
     }
@@ -54,9 +61,11 @@
     .sixth {
       flex-basis: 16.666%;
     }
+
     .third {
       flex-basis: 33.333%;
     }
+
     .half {
       flex-basis: 50%;
     }
