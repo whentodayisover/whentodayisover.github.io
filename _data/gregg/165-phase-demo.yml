@@ -1,0 +1,8 @@
+title: Tree Machine
+backgrounds:
+  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_demo1.png
+animation: fade
+animationFrames:
+  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_demo2.png
+  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_demo3.png
+  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_demo4.png
