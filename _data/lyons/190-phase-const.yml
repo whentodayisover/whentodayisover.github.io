@@ -1,10 +1,7 @@
 title: Distrcit Construction
+section:
+  - short
 backgrounds:
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_const3.png
-animation: fade
-animationFrames:
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_const1.png
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_const2.png
   - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_const3.png
 layout:
   - third
