@@ -1,10 +1,7 @@
 title: Lyons Tomorrow
+section:
+  - short
 backgrounds:
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_all3.png
-animation: fade
-animationFrames:
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_all1.png
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_all2.png
   - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_all3.png
 layout:
   - third
