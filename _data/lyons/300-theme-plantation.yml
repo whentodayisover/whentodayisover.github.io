@@ -1,0 +1,12 @@
+title: Plantation
+section:
+  - short
+backgrounds:
+  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-theme_plantation.png
+layout:
+  - half
+content:
+  -
+    - width: full
+      content: |
+        Quickly removing carbon from the atmosphere and putting it somewhere else longterm are two seperate and somewhat competing goals, which translate into the two spatial plantation types in the project. The best way to capture carbon is with short growth cycles and dense plantations, leading to the  square planting pattern below. Since the amount of carbon absorbed per year diminishes over the lifetime of a tree, a series of short growth cycles will lead to more carbon uptake than a single long cycle over the same time period. (the left side of the diagram to the right)However, short growth cycles yield wood products with both shorter lifespans and less economic value: pulpwood, paper, laminated veneer lumber are some examples.
