@@ -3,6 +3,7 @@ section:
   - short
 layout:
   - full
+  - dark
 content:
   -
     - width: third
