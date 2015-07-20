@@ -25471,7 +25471,6 @@ $('img[alt*=" "]').each(function(){
   $(this).parent().append(caption);
 });
 
-/*
 (function($) {
 
   function Curtain($curtains) {
@@ -25557,7 +25556,6 @@ $('img[alt*=" "]').each(function(){
   });
 
 })(jQuery);
-*/
 
 $('section ol').append('<div class="slideshow-nav">');
 

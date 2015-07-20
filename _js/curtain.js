@@ -1,4 +1,3 @@
-/*
 (function($) {
 
   function Curtain($curtains) {
@@ -84,4 +83,3 @@
   });
 
 })(jQuery);
-*/
