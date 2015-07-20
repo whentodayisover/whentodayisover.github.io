@@ -3,7 +3,7 @@ section ol {
 }
 
 .slideshow-nav {
-  @include position(absolute, null 0 0 null);
+  @include position(absolute, null 0 $small-spacing null);
   display: flex;
   z-index: 101;
 }
