@@ -719,6 +719,9 @@ section.dark {
   background-color: #282c33;
   color: #f5f6f8;
 }
+section h4 {
+  text-decoration: underline;
+}
 section ul {
   margin: 1.37531rem 0;
 }
@@ -828,25 +831,6 @@ section ul li {
 
 .column {
   padding: 0 0.68766rem;
-}
-
-.half .column {
-  float: left;
-  display: block;
-  margin-right: 3.16844%;
-  width: 65.61052%;
-}
-.half .column:last-child {
-  margin-right: 0;
-}
-.half .column.narrow {
-  float: left;
-  display: block;
-  margin-right: 3.16844%;
-  width: 31.22104%;
-}
-.half .column.narrow:last-child {
-  margin-right: 0;
 }
 
 @media screen and (min-width: 375px) {

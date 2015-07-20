@@ -11,6 +11,10 @@ section {
     color: $white;
   }
 
+  h4 {
+    text-decoration: underline;
+  }
+
   ul {
     @extend %default-ul;
     margin: $base-spacing 0;
