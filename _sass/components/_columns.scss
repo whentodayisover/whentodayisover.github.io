@@ -7,7 +7,7 @@
   position: relative;
 
   & + & {
-    padding-top: $small-spacing;
+    padding-top: $base-spacing;
 
     &::before {
       @include position(absolute, 0 $small-spacing null);
