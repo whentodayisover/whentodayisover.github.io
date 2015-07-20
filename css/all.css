@@ -996,6 +996,54 @@ figure {
   z-index: 200;
 }
 
+.nav-close {
+  height: 2.06297rem;
+  width: 2.06297rem;
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px #282c33;
+  cursor: pointer;
+  margin: 1.37531rem;
+  position: relative;
+  -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+.nav-close::after, .nav-close::before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #282c33;
+  border-radius: 3px;
+  content: "";
+  margin: auto;
+}
+.nav-close::after {
+  height: 1.37531rem;
+  width: 3px;
+}
+.nav-close::before {
+  height: 3px;
+  width: 1.37531rem;
+}
+
+.nav-header {
+  font-size: 2.40542rem;
+  line-height: 2.75063rem;
+  margin: 2.75063rem 1.37531rem 1.37531rem;
+}
+
+.nav-item {
+  font-size: 1.50169rem;
+  line-height: 2.06297rem;
+  display: block;
+  padding: 0.68766rem 1.37531rem;
+}
+.nav-item:hover {
+  background-color: #e9eaec;
+}
+
 .nav-overlay {
   position: fixed;
   top: 0;

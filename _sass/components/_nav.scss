@@ -10,6 +10,48 @@ $nav-transition: 0.333s $ease-out-expo;
   z-index: $z-nav;
 }
 
+.nav-close {
+  @include size($base-spacing * 1.5);
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px $purple;
+  cursor: pointer;
+  margin: $base-spacing;
+  position: relative;
+  transform: rotate(45deg);
+
+  &::after,
+  &::before {
+    @include position(absolute, 0);
+    background-color: $purple;
+    border-radius: 3px;
+    content: "";
+    margin: auto;
+  }
+
+  &::after {
+    @include size(3px $base-spacing);
+  }
+
+  &::before {
+    @include size($base-spacing 3px);
+  }
+}
+
+.nav-header {
+  @include vertical-rhythm(8);
+  margin: ($base-spacing * 2) $base-spacing $base-spacing;
+}
+
+.nav-item {
+  @include vertical-rhythm(4);
+  display: block;
+  padding: $small-spacing $base-spacing;
+
+  &:hover {
+    background-color: shade($white, 5%);
+  }
+}
+
 .nav-overlay {
   @include position(fixed, 0);
   background-color: $purple;
