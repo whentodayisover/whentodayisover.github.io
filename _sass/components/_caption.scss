@@ -1,4 +1,5 @@
 .caption {
   font-weight: $normal-weight;
-  margin: $small-spacing 0 0 0;
+  line-height: $base-spacing;
+  margin: 0 0 (-$small-spacing);
 }
