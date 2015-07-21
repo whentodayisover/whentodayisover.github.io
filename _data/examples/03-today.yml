@@ -11,7 +11,7 @@ content:
   -
     - width: full
       content: |
-        This is a paragraph. The best way to communicate is compatible.
+        This is a paragraph. **The best way to communicate is compatible.**
         Compatible communication is listening with open ears and an open mind,
         and not being fearful or judgemental about what you're hearing.
 
