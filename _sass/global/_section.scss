@@ -23,7 +23,12 @@ section {
 
   ul {
     @extend %default-ul;
-    margin: $base-spacing 0;
+    margin: $small-spacing 0;
+
+    li {
+      font-size: 0.875rem;
+      line-height: 1.125rem;
+    }
   }
 
   @include media($medium-screen-up) {
