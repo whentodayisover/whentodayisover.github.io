@@ -11,7 +11,7 @@ $nav-transition: 0.333s $ease-out-expo;
 }
 
 .nav-close {
-  @include size($base-spacing * 1.5);
+  @include size($base-spacing * 1.25);
   border-radius: 50%;
   box-shadow: 0 0 0 3px $purple;
   cursor: pointer;
@@ -29,11 +29,11 @@ $nav-transition: 0.333s $ease-out-expo;
   }
 
   &::after {
-    @include size(3px $base-spacing);
+    @include size(3px 1.5rem);
   }
 
   &::before {
-    @include size($base-spacing 3px);
+    @include size(1.5rem 3px);
   }
 }
 

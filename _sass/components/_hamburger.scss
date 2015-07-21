@@ -1,6 +1,6 @@
 .hamburger {
   @include position(fixed, $base-spacing null null $base-spacing);
-  @include size($base-spacing * 1.5);
+  @include size($base-spacing * 1.25);
   align-items: center;
   background-color: rgba($purple, 0.888);
   border-radius: 50%;
