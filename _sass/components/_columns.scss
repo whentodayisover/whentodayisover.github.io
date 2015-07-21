@@ -24,6 +24,19 @@
   padding: 0 $small-spacing;
 }
 
+.half {
+
+  @include media($large-screen-up) {
+    .sixth {
+      flex-basis: 33%;
+    }
+
+    .third {
+      flex-basis: 66%;
+    }
+  }
+}
+
 .full {
 
   @include media($small-screen-up) {

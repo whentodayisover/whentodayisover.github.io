@@ -1,0 +1,29 @@
+title: Hi
+backgrounds:
+  - lockwood/03.png
+animation: fade
+animationFrames:
+  - lockwood/02.png
+  - lockwood/03.png
+layout:
+  - half
+content:
+  -
+    - width: third
+      content: |
+        This is a paragraph. **The best way to communicate is compatible.**
+        Compatible communication is listening with open ears and an open mind,
+        and not being fearful or judgemental about what you're hearing.
+
+        When you get lost in your imaginatory vagueness, your foresight will
+        become a nimble vagrant.
+
+        - Bullet point.
+        - Bullet point.
+
+        1. ![Example Image](/images/fpo.png)
+        2. ![Example Image](/images/fpo.png)
+        3. ![Example Image](/images/fpo.png)
+    - width: sixth
+      content: |
+        ![Example Image](/images/fpo.png)

@@ -841,6 +841,19 @@ section ul li {
   padding: 0 1.125rem;
 }
 
+@media screen and (min-width: 1100px) {
+  .half .sixth {
+    -webkit-flex-basis: 33%;
+        -ms-flex-preferred-size: 33%;
+            flex-basis: 33%;
+  }
+  .half .third {
+    -webkit-flex-basis: 66%;
+        -ms-flex-preferred-size: 66%;
+            flex-basis: 66%;
+  }
+}
+
 @media screen and (min-width: 375px) {
   .full .sixth {
     -webkit-flex-basis: 50%;
