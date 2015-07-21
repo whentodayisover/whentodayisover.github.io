@@ -11,8 +11,6 @@ content:
   -
     - width: full
       content: |
-        ### This is a headline.
-
         This is a paragraph. The best way to communicate is compatible.
         Compatible communication is listening with open ears and an open mind,
         and not being fearful or judgemental about what you're hearing.
@@ -23,4 +21,6 @@ content:
         - Bullet point.
         - Bullet point.
 
-        ![Example Image](/images/fpo.png)
+        1. ![Example Image](/images/fpo.png)
+        2. ![Example Image](/images/fpo.png)
+        3. ![Example Image](/images/fpo.png)
