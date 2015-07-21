@@ -439,8 +439,8 @@ html {
 fieldset {
   background-color: white;
   border: 1px solid #f5f6f8;
-  margin: 0 0 1rem;
-  padding: 2rem;
+  margin: 0 0 1.125rem;
+  padding: 2.25rem;
 }
 
 input,
@@ -453,7 +453,7 @@ select {
 
 label {
   font-weight: 600;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.5625rem;
 }
 label.required::after {
   content: "*";
@@ -472,8 +472,8 @@ textarea {
   box-sizing: border-box;
   font-family: "Circular", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   font-size: 0.9375rem;
-  margin-bottom: 1rem;
-  padding: 0.66667rem;
+  margin-bottom: 1.125rem;
+  padding: 0.75rem;
   -webkit-transition: border-color;
           transition: border-color;
   width: 100%;
@@ -506,16 +506,16 @@ input[type="search"] {
 input[type="checkbox"],
 input[type="radio"] {
   display: inline;
-  margin-right: 0.5rem;
+  margin-right: 0.5625rem;
 }
 
 input[type="file"] {
-  padding-bottom: 1rem;
+  padding-bottom: 1.125rem;
   width: 100%;
 }
 
 select {
-  margin-bottom: 2rem;
+  margin-bottom: 2.25rem;
   max-width: 100%;
   width: auto;
 }
@@ -550,15 +550,15 @@ ol {
 }
 section ul {
   list-style-type: disc;
-  margin-bottom: 1rem;
-  padding-left: 2rem;
+  margin-bottom: 1.125rem;
+  padding-left: 2.25rem;
 }
 dl {
-  margin-bottom: 1rem;
+  margin-bottom: 1.125rem;
 }
 dl dt {
   font-weight: bold;
-  margin-top: 1rem;
+  margin-top: 1.125rem;
 }
 dl dd {
   margin: 0;
@@ -570,7 +570,7 @@ table {
   -ms-font-feature-settings: "kern", "liga", "tnum";
   font-feature-settings: "kern", "liga", "tnum";
   border-collapse: collapse;
-  margin: 1rem 0;
+  margin: 1.125rem 0;
   table-layout: fixed;
   width: 100%;
 }
@@ -578,13 +578,13 @@ table {
 th {
   border-bottom: 1px solid #c8ced9;
   font-weight: 600;
-  padding: 1rem 0;
+  padding: 1.125rem 0;
   text-align: left;
 }
 
 td {
   border-bottom: 1px solid #f5f6f8;
-  padding: 1rem 0;
+  padding: 1.125rem 0;
 }
 
 tr,
@@ -609,44 +609,44 @@ h1 {
   font-size: 2.5rem;
   line-height: 2.75rem;
   font-weight: normal;
-  margin: 0 0 1rem;
+  margin: 0 0 1.125rem;
 }
 
 h2 {
   font-size: 1.75rem;
   line-height: 1.875rem;
   font-weight: normal;
-  margin: 0 0 1rem;
+  margin: 0 0 1.125rem;
 }
 
 h3 {
   font-size: 1.125rem;
   line-height: 1.25rem;
-  margin: 0 0 1rem;
+  margin: 0 0 1.125rem;
 }
 
 h4 {
   font-size: 0.875rem;
   line-height: 1.125rem;
-  margin: 0 0 1rem;
+  margin: 0 0 1.125rem;
 }
 
 h5 {
   font-size: 0.75rem;
   line-height: 1rem;
-  margin: 0 0 1rem;
+  margin: 0 0 1.125rem;
 }
 
 h6 {
   font-size: 0.6875rem;
   line-height: 1rem;
-  margin: 0 0 1rem;
+  margin: 0 0 1.125rem;
 }
 
 p {
   font-size: 0.875rem;
-  line-height: 1.125rem;
-  margin: 1rem 0;
+  line-height: 1.25rem;
+  margin: 1.125rem 0;
 }
 
 a {
@@ -662,7 +662,7 @@ hr {
   border-left: none;
   border-right: none;
   border-top: none;
-  margin: 2rem 0;
+  margin: 2.25rem 0;
 }
 
 img,
@@ -691,7 +691,7 @@ article::before {
   background: -webkit-linear-gradient(black, transparent);
   background: linear-gradient(black, transparent);
   content: "";
-  height: 0.5rem;
+  height: 0.5625rem;
   opacity: 0.333;
   pointer-events: none;
   z-index: 2;
@@ -709,7 +709,7 @@ article::before {
 section {
   background-color: #f5f6f8;
   box-shadow: 0 1px 0 rgba(40, 44, 51, 0.666);
-  padding: 4rem 2rem;
+  padding: 4.5rem 2.25rem;
   position: relative;
   -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0);
@@ -725,10 +725,10 @@ section h4 {
 }
 section ol {
   box-shadow: 0 1px 0 #282c33;
-  padding-bottom: 1rem;
+  padding-bottom: 1.125rem;
 }
 section ul {
-  margin: 1rem 0;
+  margin: 1.125rem 0;
 }
 section ul li {
   font-size: 0.875rem;
@@ -737,7 +737,7 @@ section ul li {
 @media screen and (min-width: 700px) {
   section {
     min-height: 100vh;
-    padding-top: 8rem;
+    padding-top: 9rem;
   }
   section.half, section.third {
     float: left;
@@ -799,8 +799,8 @@ section ul li {
 
 .caption {
   font-weight: 400;
-  line-height: 2rem;
-  margin: 0 0 -1rem;
+  line-height: 2.25rem;
+  margin: 0 0 -1.125rem;
 }
 
 .grid {
@@ -819,18 +819,18 @@ section ul li {
   -webkit-justify-content: flex-start;
       -ms-flex-pack: start;
           justify-content: flex-start;
-  margin: 0 -1rem;
+  margin: 0 -1.125rem;
   position: relative;
 }
 .grid + .grid {
-  margin-top: 1rem;
-  padding-top: 1rem;
+  margin-top: 1.125rem;
+  padding-top: 1.125rem;
 }
 .grid + .grid::before {
   position: absolute;
   top: 0;
-  right: 1rem;
-  left: 1rem;
+  right: 1.125rem;
+  left: 1.125rem;
   background-color: currentColor;
   content: "";
   height: 1px;
@@ -838,7 +838,7 @@ section ul li {
 }
 
 .column {
-  padding: 0 1rem;
+  padding: 0 1.125rem;
 }
 
 @media screen and (min-width: 375px) {
@@ -887,9 +887,9 @@ section ul li {
   -webkit-columns: 18rem 2;
      -moz-columns: 18rem 2;
           columns: 18rem 2;
-  -webkit-column-gap: 2rem;
-     -moz-column-gap: 2rem;
-          column-gap: 2rem;
+  -webkit-column-gap: 2.25rem;
+     -moz-column-gap: 2.25rem;
+          column-gap: 2.25rem;
 }
 
 .cover {
@@ -910,7 +910,7 @@ section ul li {
 
 @media screen and (min-width: 1100px) {
   .curtain {
-    box-shadow: 0 0 4rem black;
+    box-shadow: 0 0 4.5rem black;
     min-height: 100vh;
     position: relative;
     z-index: 101;
@@ -956,27 +956,52 @@ section ul li {
 }
 
 figure {
-  margin: 0 0 2rem;
+  margin: 0 0 2.25rem;
 }
 
 .hamburger {
   position: fixed;
-  top: 2rem;
-  left: 2rem;
-  height: 3rem;
-  width: 3rem;
+  top: 2.25rem;
+  left: 2.25rem;
+  height: 3.375rem;
+  width: 3.375rem;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
   background-color: rgba(40, 44, 51, 0.888);
   border-radius: 50%;
   box-shadow: 0 0 0 3px #f5f6f8;
   cursor: pointer;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   z-index: 195;
 }
 
+.hamburger-bar {
+  height: 3px;
+  width: 1.5rem;
+  background-color: #f5f6f8;
+  border-radius: 3px;
+  margin: 2px 0;
+}
+
 .lede h1 {
-  margin-top: 4rem;
+  margin-top: 4.5rem;
 }
 .lede h3 {
-  margin: 6rem 0 0.5rem;
+  margin: 6.75rem 0 0.5625rem;
 }
 .lede h4 {
   font-weight: normal;
@@ -1003,12 +1028,12 @@ figure {
 }
 
 .nav-close {
-  height: 3rem;
-  width: 3rem;
+  height: 3.375rem;
+  width: 3.375rem;
   border-radius: 50%;
   box-shadow: 0 0 0 3px #282c33;
   cursor: pointer;
-  margin: 2rem;
+  margin: 2.25rem;
   position: relative;
   -webkit-transform: rotate(45deg);
       -ms-transform: rotate(45deg);
@@ -1026,25 +1051,25 @@ figure {
   margin: auto;
 }
 .nav-close::after {
-  height: 2rem;
+  height: 2.25rem;
   width: 3px;
 }
 .nav-close::before {
   height: 3px;
-  width: 2rem;
+  width: 2.25rem;
 }
 
 .nav-header {
   font-size: 2.5rem;
   line-height: 2.75rem;
-  margin: 4rem 2rem 2rem;
+  margin: 4.5rem 2.25rem 2.25rem;
 }
 
 .nav-item {
   display: block;
   font-size: 1.25rem;
   line-height: 1.75rem;
-  padding: 1rem 2rem;
+  padding: 1.125rem 2.25rem;
 }
 .nav-item:hover {
   background-color: #e9eaec;
@@ -1088,7 +1113,7 @@ section ol {
 .slideshow-nav {
   position: absolute;
   right: 0;
-  bottom: 0.5rem;
+  bottom: 0.5625rem;
   -webkit-box-align: center;
   -webkit-align-items: center;
       -ms-flex-align: center;
@@ -1097,7 +1122,7 @@ section ol {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  height: 1rem;
+  height: 1.125rem;
   z-index: 101;
 }
 
@@ -1108,7 +1133,7 @@ section ol {
   box-shadow: inset 0 0 0 2px currentColor;
   cursor: pointer;
   display: block;
-  margin-left: 0.5rem;
+  margin-left: 0.5625rem;
 }
 .slideshow-dot.cycle-pager-active {
   background: currentColor;

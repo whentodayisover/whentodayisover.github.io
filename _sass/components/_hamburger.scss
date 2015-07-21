@@ -1,9 +1,20 @@
 .hamburger {
   @include position(fixed, $base-spacing null null $base-spacing);
   @include size($base-spacing * 1.5);
+  align-items: center;
   background-color: rgba($purple, 0.888);
   border-radius: 50%;
   box-shadow: 0 0 0 3px $white;
   cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   z-index: $z-hamburger;
+}
+
+.hamburger-bar {
+  @include size(1.5rem 3px);
+  background-color: $white;
+  border-radius: 3px;
+  margin: 2px 0;
 }
