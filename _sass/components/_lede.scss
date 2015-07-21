@@ -36,9 +36,6 @@
   p {
     font-size: 1.125rem;
     line-height: 1.5rem;
-
-    @include media($large-screen-up) {
-      margin-right: $base-spacing * 2;
-    }
+    max-width: 35rem;
   }
 }

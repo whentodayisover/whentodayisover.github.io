@@ -1045,11 +1045,7 @@ figure {
 .lede p {
   font-size: 1.125rem;
   line-height: 1.5rem;
-}
-@media screen and (min-width: 1100px) {
-  .lede p {
-    margin-right: 4.5rem;
-  }
+  max-width: 35rem;
 }
 
 .nav {
