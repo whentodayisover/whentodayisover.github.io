@@ -6,10 +6,13 @@ content:
   -
     - width: third
       content: |
+        #Test 1
         ![](/images/fpo.png)
     - width: sixth
       content: |
+        #Test 2
         ![](/images/fpo.png)
     - width: half
       content: |
+        #Test 3
         ![](/images/fpo.png)
