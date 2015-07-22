@@ -41,3 +41,16 @@ content:
           The pine trees in a plantation are finally harvested between age 30 and 35. The logs from this final harvest provide most of the building timber for Australian houses and are also used for furniture. The logs are cut then processed into lengths by a mechanical harvest. 
           </div>
         </div>
+        
+  -
+    - width: third
+      content: |
+        ![](/images/fpo.png)
+        
+    - width: third
+      content: |
+        ![](/images/fpo.png)
+        
+    - width: third
+      content: |
+        ![](/images/fpo.png)
