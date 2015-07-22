@@ -45,12 +45,15 @@ content:
   -
     - width: third
       content: |
+        #Typical Band Length
         ![](/images/fpo.png)
         
     - width: third
       content: |
+        #Typical Band Construction
         ![](/images/fpo.png)
         
     - width: third
       content: |
+        #Typical Band Expansion
         ![](/images/fpo.png)
