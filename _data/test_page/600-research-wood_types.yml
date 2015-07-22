@@ -25,7 +25,7 @@ content:
           </div>
           <div class="column sixth" markdown="1">
           
-          <h4>Oak Uses</h4>
+          <h4><br/>Oak Uses</h4>
           
           ![](/images/fpo.png)
           
@@ -48,12 +48,10 @@ content:
         1. ![Example Image](/images/fpo.png)
         2. ![Example Image](/images/fpo.png)
         
-        <br/>
-        
         <div class="grid">
           <div class="column sixth" markdown="1">
           
-          <h4>Pulpwood</h4>
+          <h4><br/>Pulpwood</h4>
           
           ![](/images/fpo.png)
           
@@ -61,7 +59,7 @@ content:
           </div>
           <div class="column sixth" markdown="1">
           
-          <h4>Sawlogs</h4>
+          <h4><br/>Sawlogs</h4>
           
           ![](/images/fpo.png)
           
@@ -84,9 +82,7 @@ content:
         1. ![Example Image](/images/fpo.png)
         2. ![Example Image](/images/fpo.png)
         
-        <br/>
-        
-        #### Sawlogs
+        <h4><br/>Sawlogs</h4>
         
         ![Example Image](/images/fpo.png)
         
