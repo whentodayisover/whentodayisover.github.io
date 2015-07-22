@@ -17,19 +17,19 @@ content:
         <div class="grid">
           <div class="column sixth" markdown="1">
           
-          #### Oak Harvest
+          <h4>Oak Harvest</h4>
           
           ![](/images/fpo.png)
           
-          <h6 style="font-weight: normal;"><br/>The wood was hewn from green logs, by axe and wedge, to produce radial planks, similar to quarter-sawn timber. Wide, quarter-sawn boards of oak have been prized since the Middle Ages for</h6>
+          <h6 style="font-weight: normal;">The wood was hewn from green logs, by axe and wedge, to produce radial planks, similar to quarter-sawn timber. Wide, quarter-sawn boards of oak have been prized since the Middle Ages for</h6>
           </div>
           <div class="column sixth" markdown="1">
           
-          #### Oak Uses
+          <h4>Oak Uses</h4>
           
           ![](/images/fpo.png)
           
-          <h6 style="font-weight: normal;"><br/>Oak wood has a great strength and hardness, and is very resistant to insect and fungal attack because of its high tannin content. Oak planking was common on high status Viking</h6>
+          <h6 style="font-weight: normal;">Oak wood has a great strength and hardness, and is very resistant to insect and fungal attack because of its high tannin content. Oak planking was common on high status Viking</h6>
           </div>
         </div>
         
@@ -51,19 +51,19 @@ content:
         <div class="grid">
           <div class="column sixth" markdown="1">
           
-          #### Pulpwood
+          <h4>Pulpwood</h4>
           
           ![](/images/fpo.png)
           
-          <h6 style="font-weight: normal;"><br/>Used for making reconstituted timbers (medium density fiberboard, particleboard, oriented strand board), paper product, other preserved timbers. Lorem ipsum dolor sit amet</h6>
+          <h6 style="font-weight: normal;">Used for making reconstituted timbers (medium density fiberboard, particleboard, oriented strand board), paper product, other preserved timbers. Lorem ipsum dolor sit amet</h6>
           </div>
           <div class="column sixth" markdown="1">
           
-          #### Sawlogs
+          <h4>Sawlogs</h4>
           
           ![](/images/fpo.png)
           
-          <h6 style="font-weight: normal;"><br/>Unpruned sawlogs are used for house frames, decking and paneling, fencing and landscaping, flooring, joinery and furniture, bearers and joists, select flooring veneer - furniture and bench</h6>
+          <h6 style="font-weight: normal;">Unpruned sawlogs are used for house frames, decking and paneling, fencing and landscaping, flooring, joinery and furniture, bearers and joists, select flooring veneer - furniture and bench</h6>
           </div>
         </div>
         
@@ -77,13 +77,16 @@ content:
       content: |
         # Grasses
         
-        Bamboo is a tribe of flowering perennial evergreen plants in the grass family Poaceae, subfamily Bambusoideae, tribe Bambuseae. Giant bamboos are the largest members of the grass family. Bamboo has a higher compressive strength than wood, brick or concrete and a tensile strength that rivals steel.
+        Bamboo is a tribe of flowering perennial evergreen plants in the grass family Poaceae, subfamily Bambusoideae, tribe Bambuseae. Giant bamboos are the largest members of the grass family. Bamboo has a higher compressive strength than wood, brick or concrete and a tensile strength that rivals steel. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean erat augue, dignissim eget posuere ac, lobortis a lorem. Proin bibendum maximus aliquet.
         
         1. ![Example Image](/images/fpo.png)
         2. ![Example Image](/images/fpo.png)
         
         #### Sawlogs
-        <h6 style="font-weight: normal;"><br/>Unpruned sawlogs are used for house frames, decking and paneling, fencing and landscaping, flooring, joinery and furniture, bearers and joists, select flooring veneer - furniture and bench</h6>
+        
+        ![Example Image](/images/fpo.png)
+        
+        Unpruned sawlogs are used for house frames, decking and paneling, fencing and landscaping, flooring, joinery and furniture, bearers and joists, select flooring veneer - furniture and bench
         
         #### Degraded Lands
 
