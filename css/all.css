@@ -1146,6 +1146,9 @@ figure {
 section ol {
   position: relative;
 }
+section ol .cycle-slide {
+  cursor: pointer;
+}
 
 .slideshow-nav {
   position: absolute;
