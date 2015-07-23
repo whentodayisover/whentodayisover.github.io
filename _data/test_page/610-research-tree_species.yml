@@ -76,15 +76,15 @@ content:
       
         <div class="grid">
           <div class="column sixth" markdown="1">
-          <h4><br/>Oak Plantations</h4>
+          #### <br/>Pine Plantations
 
-          **Crop rotation**<br/>
-          25 years<br/>
+          **Crop Rotation**<br/>
+          15 Years<br/>
           **Carbon Sequestration**<br/>
-          33.25 tons/acre in one rotation<br/>
+          33.75 Tons/Acre (one rotation)<br/>
           **Timber Production**<br/>
-          50 m2/acre<br/>
-          Planted on a closer spacing.
+          180 M3/Acre<br/>
+          Planted On A Closer Spacing.
           
           </div>
           <div class="column sixth" markdown="1">
@@ -96,14 +96,14 @@ content:
         
         <div class="grid">
           <div class="column sixth" markdown="1">
-          <h4><br/>Oak Forest</h4>
+          <h4><br/>Pine Forest</h4>
 
           **Crop rotation**<br/>
           30 years<br/>
           **Carbon Sequestration**<br/>
-          6.0 tons/acre/year<br/>
+          2.6 tons/acre/year<br/>
           **Timber Production**<br/>
-          175 m2/acre<br/>
+          180 m2/acre<br/>
           Planted on a wider spacing.
           
           </div>
@@ -119,14 +119,14 @@ content:
         
         <div class="grid">
           <div class="column sixth" markdown="1">
-          <h4><br/>Oak Plantations</h4>
+          <h4><br/>Bamboo Plantations</h4>
 
           **Crop rotation**<br/>
-          25 years<br/>
+          5 years<br/>
           **Carbon Sequestration**<br/>
-          33.25 tons/acre in one rotation<br/>
+          17.2 tons/acre in one rotation<br/>
           **Timber Production**<br/>
-          50 m2/acre<br/>
+          175 m2/acre<br/>
           Planted on a closer spacing.
           
           </div>
@@ -139,7 +139,7 @@ content:
         
         <div class="grid">
           <div class="column sixth" markdown="1">
-          <h4><br/>Oak Forest</h4>
+          <h4><br/>Bamboo Forest</h4>
 
           **Crop rotation**<br/>
           30 years<br/>
