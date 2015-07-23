@@ -1,4 +1,3 @@
-title: Research On Tree Species
 section:
   - short
 layout:
@@ -7,3 +6,149 @@ content:
   -
     - width: third
       content: |
+        # Oak
+        
+        An oak is a tree or shrub in the genus Quercus of the beech family Fagaceae, having approximately 600 extant species. The genus is native to the Northern Hemisphere, and includes deciduous and evergreen species extending from cool temperate to tropical latitudes in Asia and the Americas. North America contains the largest number of oak species, with approximately 90 occurring in the United States. Mexico has 160 species, of which 109 are endemic. The second greatest center of oak diversity is China, which contains approximately 100 species.
+        
+        ![Oak tree density growth](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-oak_graph.png)
+
+    - width: third
+      content: |
+        # Pine
+        
+        Hailed as the leading commercial timber tree in the southeast United States, the native Loblolly pine grows rapidly with a straight trunk clear of branches.  It reaches 50 feet in just 20 years, and when mature can top 100 feet with a trunk diameter between 2-3 feet.  The bark on young trees is usually dark, blackish-brown and scaly. Mature Loblolly pines are more deeply fissured, have large irregular plates and are reddish-brown. Slender yellow green needles are about 9 inches long. They are stiff, in bundles of 3 (rarely 2) and make quality litter. Female cones are oval to conical, between 2-6 
+        
+        ![Pine tree density growth](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-pine_graph.png)
+
+    - width: third
+      content: |
+        # Bamboo
+        
+        Bamboo’s biological characteristics – fast growth and high renewability – make it an excel- lent tool for combating climate change.
+
+        Renewability: Bamboo culms can be harvested regularly and used to make many different types of durable products, such as houses, floorboards or furniture, so the potential for the forest to sequester carbon also depends on the use, lifetime and durability of the harvested material or the prod- ucts it is used to make.
+
+        ![Bamboo density growth](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-bamboo_graph.png)
+  -
+    - width: third
+      content: |
+        
+        <div class="grid">
+          <div class="column sixth" markdown="1">
+          <h4><br/>Oak Plantations</h4>
+          **Crop rotation**<br/>
+          25 years<br/>
+          **Carbon Sequestration**<br/>
+          33.25 tons/acre in one rotation<br/>
+          **Timber Production**<br/>
+          50 m2/acre<br/>
+          Planted on a closer spacing.
+          
+          </div>
+          <div class="column sixth" markdown="1">
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-oak_plantation.png)
+          </div>
+        </div>
+        
+        ![Oak plantation before harvest](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-oak_plantation_cav.png)
+        
+        <div class="grid">
+          <div class="column sixth" markdown="1">
+          <h4><br/>Oak Forest</h4>
+          **Crop rotation**<br/>
+          30 years<br/>
+          **Carbon Sequestration**<br/>
+          6.0 tons/acre/year<br/>
+          **Timber Production**<br/>
+          175 m2/acre<br/>
+          Planted on a wider spacing.
+          
+          </div>
+          <div class="column sixth" markdown="1">
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-oak_forest.png)
+          </div>
+        </div>
+        
+        ![Oak forest at age 20](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-oak_forest_cav.png)
+        
+    - width: third
+      content: |
+      
+        <div class="grid">
+          <div class="column sixth" markdown="1">
+          <h4><br/>Pine Plantations</h4>
+          **Crop Rotation**<br/>
+          15 Years<br/>
+          **Carbon Sequestration**<br/>
+          33.75 Tons/Acre (one rotation)<br/>
+          **Timber Production**<br/>
+          180 M3/Acre<br/>
+          Planted On A Closer Spacing.
+          
+          </div>
+          <div class="column sixth" markdown="1">
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-pine_plantation.png)
+          </div>
+        </div>
+        
+        ![Pine plantation at Lyons 2045](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-pine_plantation_cav.png)
+        
+        <div class="grid">
+          <div class="column sixth" markdown="1">
+          <h4><br/>Pine Forest</h4>
+          **Crop rotation**<br/>
+          30 years<br/>
+          **Carbon Sequestration**<br/>
+          2.6 tons/acre/year<br/>
+          **Timber Production**<br/>
+          180 m2/acre<br/>
+          Planted on a wider spacing.
+          
+          </div>
+          <div class="column sixth" markdown="1">
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-pine_forest.png)
+          </div>
+        </div>
+        
+        ![Pine forest at Lyons 2045](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-pine_forest_cav.png)
+        
+    - width: third
+      content: |
+        
+        <div class="grid">
+          <div class="column sixth" markdown="1">
+          <h4><br/>Bamboo Plantations</h4>
+          **Crop rotation**<br/>
+          5 years<br/>
+          **Carbon Sequestration**<br/>
+          17.2 tons/acre in one rotation<br/>
+          **Timber Production**<br/>
+          175 m2/acre<br/>
+          Planted on a closer spacing.
+          
+          </div>
+          <div class="column sixth" markdown="1">
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-bamboo_plantation.png)
+          </div>
+        </div>
+        
+        ![Bamboo plantation before harvest](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-bamboo_plantation_cav.png)
+        
+        <div class="grid">
+          <div class="column sixth" markdown="1">
+          <h4><br/>Bamboo Forest</h4>
+          **Crop rotation**<br/>
+          30 years<br/>
+          **Carbon Sequestration**<br/>
+          6.0 tons/acre/year<br/>
+          **Timber Production**<br/>
+          175 m2/acre<br/>
+          Planted on a wider spacing.
+          
+          </div>
+          <div class="column sixth" markdown="1">
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-bamboo_forest.png)
+          </div>
+        </div>
+        
+        ![Bamboo forest at Lyons 2045](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_lyons-assets/theme-bamboo_forest_cav.png)
