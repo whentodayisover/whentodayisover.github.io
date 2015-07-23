@@ -33,7 +33,7 @@ content:
         
         <div class="grid">
           <div class="column sixth" markdown="1">
-          <h4><br/>Oak Plantations</h4>
+          #### <br/>Oak Plantations
 
           **Crop rotation**<br/>
           25 years<br/>
@@ -53,7 +53,7 @@ content:
         
         <div class="grid">
           <div class="column sixth" markdown="1">
-          <h4><br/>Oak Forest</h4>
+          #### <br/>Oak Forest
 
           **Crop rotation**<br/>
           30 years<br/>
@@ -96,7 +96,7 @@ content:
         
         <div class="grid">
           <div class="column sixth" markdown="1">
-          <h4><br/>Pine Forest</h4>
+          #### <br/>Pine Forest
 
           **Crop rotation**<br/>
           30 years<br/>
@@ -119,7 +119,7 @@ content:
         
         <div class="grid">
           <div class="column sixth" markdown="1">
-          <h4><br/>Bamboo Plantations</h4>
+          #### <br/>Bamboo Plantations
 
           **Crop rotation**<br/>
           5 years<br/>
@@ -139,7 +139,7 @@ content:
         
         <div class="grid">
           <div class="column sixth" markdown="1">
-          <h4><br/>Bamboo Forest</h4>
+          #### <br/>Bamboo Forest
 
           **Crop rotation**<br/>
           30 years<br/>
