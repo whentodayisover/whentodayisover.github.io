@@ -639,6 +639,7 @@ h5 {
 
 h6 {
   font-size: 0.6875rem;
+  font-weight: normal;
   line-height: 1rem;
   margin: 0 0 1.125rem;
 }
@@ -647,6 +648,10 @@ p {
   font-size: 0.875rem;
   line-height: 1.25rem;
   margin: 1.125rem 0;
+}
+.sixth p {
+  font-size: 0.6875rem;
+  line-height: 1rem;
 }
 
 a {
