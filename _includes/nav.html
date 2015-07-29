@@ -1,26 +1,18 @@
 <nav class="nav nav-toggle">
   <div class="nav-close"></div>
   <header class="nav-header">Carbon 2065</header>
-  <ul>
-    <li>
-      <a href="gregg-a.html" class="nav-item">Gregg A</a>
-    </li>
-    <li>
-      <a href="gregg-b.html" class="nav-item">Gregg B</a>
-    </li>
-    <li>
-      <a href="lockwood-a.html" class="nav-item">Lockwood A</a>
-    </li>
-    <li>
-      <a href="lockwood-b.html" class="nav-item">Lockwood B</a>
-    </li>
-    <li>
-      <a href="lyons-a.html" class="nav-item">Lyons A</a>
-    </li>
-    <li>
-      <a href="lyons-b.html" class="nav-item">Lyons B</a>
-    </li>
-  </ul>
+  {% for section_hash in site.data.sections %}
+    {% assign section = section_hash[1] %}
+    <header class="nav-section-header">{{ section.title }}</header>
+    <ul>
+      {% for page_hash in section.pages %}
+        {% assign page = page_hash[1] %}
+        <li>
+          <a href="{{ page.id }}.html" class="nav-item">{{ page.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
 </nav>
 
 <div class="nav-overlay nav-toggle"></div>

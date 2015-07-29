@@ -981,8 +981,8 @@ figure {
   position: fixed;
   top: 2.25rem;
   left: 2.25rem;
-  height: 2.8125rem;
-  width: 2.8125rem;
+  height: 2.6875rem;
+  width: 2.6875rem;
   -webkit-box-align: center;
   -webkit-align-items: center;
       -ms-flex-align: center;
@@ -1060,6 +1060,7 @@ figure {
   left: 0;
   background-color: #f5f6f8;
   max-width: 20rem;
+  padding: 0 2.25rem;
   -webkit-transform: translateX(-100%);
       -ms-transform: translateX(-100%);
           transform: translateX(-100%);
@@ -1070,12 +1071,12 @@ figure {
 }
 
 .nav-close {
-  height: 2.8125rem;
-  width: 2.8125rem;
+  height: 2.6875rem;
+  width: 2.6875rem;
   border-radius: 50%;
   box-shadow: 0 0 0 3px #282c33;
   cursor: pointer;
-  margin: 2.25rem;
+  margin: 2.25rem 0;
   position: relative;
   -webkit-transform: rotate(45deg);
       -ms-transform: rotate(45deg);
@@ -1102,19 +1103,28 @@ figure {
 }
 
 .nav-header {
-  font-size: 2.5rem;
-  line-height: 2.75rem;
-  margin: 4.5rem 2.25rem 2.25rem;
+  font-size: 2.1875rem;
+  line-height: 2.25rem;
+  margin: 2.25rem 0;
+}
+
+.nav-section-header {
+  box-shadow: 0 1px 0 rgba(40, 44, 51, 0.3);
+  font-size: 1.375rem;
+  font-weight: 700;
+  line-height: 2.5rem;
+  margin-top: 2.25rem;
 }
 
 .nav-item {
+  box-shadow: inset 0 -1px 0 rgba(40, 44, 51, 0.3);
   display: block;
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-  padding: 1.125rem 2.25rem;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  padding: 0.5rem 0;
 }
 .nav-item:hover {
-  background-color: #e9eaec;
+  background-color: rgba(40, 44, 51, 0.03);
 }
 
 .nav-overlay {

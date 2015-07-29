@@ -1,0 +1,32 @@
+lockwood:
+  id: lockwood
+  title: Lockwood District
+  pages:
+    lockwood-a:
+      id: lockwood-a
+      title: Today – 2035
+    lockwood-b:
+      id: lockwood-b
+      title: Redevelopment
+
+lyons:
+  id: lyons
+  title: Lyons District
+  pages:
+    lyons-a:
+      id: lyons-a
+      title: Today – 2045
+    lyons-b:
+      id: lyons-b
+      title: Urban Forestry
+
+gregg:
+  id: gregg
+  title: Gregg District
+  pages:
+    gregg-a:
+      id: gregg-a
+      title: Today – 2055
+    gregg-b:
+      id: gregg-b
+      title: Economies of Scale
