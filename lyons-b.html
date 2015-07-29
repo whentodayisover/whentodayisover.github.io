@@ -1,0 +1,10 @@
+---
+layout: default
+cover: lockwood/01.jpg
+---
+
+{% include cover.html %}
+
+{% assign sortedArticles = site.data.lyons_b | sort: name %}
+
+{% include articles.html %}
