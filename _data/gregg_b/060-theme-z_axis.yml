@@ -13,7 +13,7 @@ content:
       
         <div class="grid">
         
-          <div class="column third" markdown="1">
+          <div class="column sixth" markdown="1">
         
           ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_y.png)
         
@@ -23,7 +23,7 @@ content:
 
           </div>
         
-          <div class="column third" markdown="1">
+          <div class="column sixth" markdown="1">
         
           ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_z.png)
         
@@ -33,7 +33,7 @@ content:
 
           </div>
           
-          <div class="column third" markdown="1">
+          <div class="column sixth" markdown="1">
         
           ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_x.png)
 
