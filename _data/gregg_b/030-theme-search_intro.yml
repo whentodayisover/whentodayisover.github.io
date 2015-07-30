@@ -11,13 +11,13 @@ content:
         
         <div class="grid">
         
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
         
           ![Example Image](/images/fpo.png)
         
           </div>
         
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
         
           #### Y. Slab Development
 
@@ -29,13 +29,13 @@ content:
         
         <div class="grid">
         
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
         
           ![Example Image](/images/fpo.png)
         
           </div>
         
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
         
           #### Y. Slab Development
 
@@ -47,13 +47,13 @@ content:
         
         <div class="grid">
         
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
         
           ![Example Image](/images/fpo.png)
         
           </div>
         
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
         
           #### Y. Slab Development
 
