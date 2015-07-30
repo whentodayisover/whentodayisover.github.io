@@ -1202,12 +1202,18 @@ section ol .cycle-slide {
           align-items: stretch;
   background-color: #3e4147;
   color: #7b869b;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
   min-height: 100vh;
+  position: relative;
   width: 100vw;
+  z-index: 190;
+}
+@media screen and (min-width: 700px) {
+  .toc {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
 }
 
 .toc-section {
@@ -1232,7 +1238,7 @@ section ol .cycle-slide {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding: 2.25rem;
+  padding: 4.5rem 2.25rem;
   position: relative;
 }
 .toc-section.current + .toc-section {
@@ -1240,7 +1246,7 @@ section ol .cycle-slide {
   color: #f5f6f8;
 }
 .toc-section.current + .toc-section .toc-overlay {
-  display: none;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .toc-header {
@@ -1277,5 +1283,7 @@ section ol .cycle-slide {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(40, 44, 51, 0.7);
+  background-color: rgba(29, 32, 37, 0.9);
+  background-position: center center;
+  background-size: cover;
 }

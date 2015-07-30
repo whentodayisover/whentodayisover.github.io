@@ -2,9 +2,14 @@
   align-items: stretch;
   background-color: tint($purple, 10%);
   color: #7b869b;
-  display: flex;
   min-height: 100vh;
+  position: relative;
   width: 100vw;
+  z-index: $z-toc;
+
+  @include media($medium-screen-up) {
+    display: flex;
+  }
 }
 
 .toc-section {
@@ -13,7 +18,7 @@
   flex: 1;
   flex-direction: column;
   justify-content: center;
-  padding: $base-spacing;
+  padding: ($base-spacing * 2) $base-spacing;
   position: relative;
 
   .toc-section.current + & {
@@ -21,7 +26,7 @@
     color: $white;
 
     .toc-overlay {
-      display: none;
+      background-color: rgba(darken($purple, 20%), 0.5);
     }
   }
 }
@@ -58,5 +63,7 @@
 
 .toc-overlay {
   @include position(absolute, 0);
-  background-color: rgba($purple, 0.7);
+  background-color: rgba(darken($purple, 5%), 0.9);
+  background-position: center center;
+  background-size: cover;
 }

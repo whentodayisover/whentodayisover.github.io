@@ -3,6 +3,7 @@ lockwood:
   title: Lockwood District
   description: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit.
+  background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_all3.png
   pages:
     lockwood-a:
       id: lockwood-a
@@ -16,6 +17,7 @@ lyons:
   title: Lyons District
   description: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit.
+  background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lockwood-assets/bg-phase_all3.png
   pages:
     lyons-a:
       id: lyons-a
@@ -29,6 +31,7 @@ gregg:
   title: Gregg District
   description: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit.
+  background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_all4.png
   pages:
     gregg-a:
       id: gregg-a

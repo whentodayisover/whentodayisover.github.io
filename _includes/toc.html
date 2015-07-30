@@ -1,8 +1,7 @@
-<div class="curtain">
-  <div class="toc">
+<div class="toc">
     {% for section_hash in site.data.sections %}
       {% assign section = section_hash[1] %}
-      <div class="toc-section {% if section.id == page.section %}current{% endif %}">
+      <div class="toc-section {% if section.id == page.section %}current{% endif %}" style="background-image: url({{ section.background }})">
         <div class="toc-overlay"></div>
         <div class="toc-info">
           <header class="toc-header">{{ section.title }}</header>
@@ -29,4 +28,3 @@
       </div>
     {% endfor %}
   </div>
-</div>

@@ -1,7 +1,5 @@
 var scrollMagic = new ScrollMagic.Controller();
 
-// var s = skrollr.init();
-
 var curtainId = 0;
 
 $('.curtain').each(function(){
