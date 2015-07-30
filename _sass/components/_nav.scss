@@ -57,7 +57,7 @@ $nav-transition: 0.333s $ease-out-expo;
   display: block;
   font-size: rem(16);
   line-height: rem(20);
-  padding: rem(8) 0;
+  padding: rem(8) rem(4);
 
   &:hover {
     background-color: rgba($base-font-color, 0.03);

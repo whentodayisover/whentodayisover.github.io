@@ -1,6 +1,8 @@
 lockwood:
   id: lockwood
   title: Lockwood District
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit.
   pages:
     lockwood-a:
       id: lockwood-a
@@ -12,6 +14,8 @@ lockwood:
 lyons:
   id: lyons
   title: Lyons District
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit.
   pages:
     lyons-a:
       id: lyons-a
@@ -23,6 +27,8 @@ lyons:
 gregg:
   id: gregg
   title: Gregg District
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit.
   pages:
     gregg-a:
       id: gregg-a

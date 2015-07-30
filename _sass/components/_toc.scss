@@ -1,0 +1,62 @@
+.toc {
+  align-items: stretch;
+  background-color: tint($purple, 10%);
+  color: #7b869b;
+  display: flex;
+  min-height: 100vh;
+  width: 100vw;
+}
+
+.toc-section {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  padding: $base-spacing;
+  position: relative;
+
+  .toc-section.current + & {
+    box-shadow: 0 0 $small-spacing rgba(black, 0.3);
+    color: $white;
+
+    .toc-overlay {
+      display: none;
+    }
+  }
+}
+
+.toc-header {
+  font-size: rem(42);
+  line-height: rem(48);
+  margin: rem(4) 0;
+}
+
+.toc-info {
+  position: relative;
+
+  ul {
+    box-shadow: 0 -1px 0 currentColor;
+    margin-top: $base-spacing;
+  }
+}
+
+.toc-item {
+  box-shadow: inset 0 -1px 0 currentColor;
+  color: currentColor;
+  display: block;
+  font-size: rem(18);
+  font-weight: $bold-weight;
+  line-height: rem(24);
+  padding: rem(24) rem(12);
+  text-transform: uppercase;
+
+  &:hover {
+    background-color: rgba($purple, 0.03);
+  }
+}
+
+.toc-overlay {
+  @include position(absolute, 0);
+  background-color: rgba($purple, 0.7);
+}

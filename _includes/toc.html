@@ -1,0 +1,32 @@
+<div class="curtain">
+  <div class="toc">
+    {% for section_hash in site.data.sections %}
+      {% assign section = section_hash[1] %}
+      <div class="toc-section {% if section.id == page.section %}current{% endif %}">
+        <div class="toc-overlay"></div>
+        <div class="toc-info">
+          <header class="toc-header">{{ section.title }}</header>
+          <p>{{ section.description }}</p>
+          <ul>
+            {% for section_page_hash in section.pages %}
+              {% assign section_page = section_page_hash[1] %}
+              <li>
+                <a href="{{ section_page.id }}.html" class="toc-item">
+                  {% if section.id == page.section %}
+                    {% assign page_modified = page.name | remove: ".html" %}
+                    {% if page_modified == section_page.id %}
+                      Back to
+                    {% else %}
+                      Review
+                    {% endif %}
+                  {% endif %}
+                  {{ section_page.title }}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
