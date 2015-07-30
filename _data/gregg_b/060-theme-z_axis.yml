@@ -11,15 +11,15 @@ content:
 
         <div class="grid">
         
-          <div class="column" markdown="1">
+          <div class="column half" markdown="1">
 
           The z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.
         
           </div>
           
-          <div class="column third" markdown="1">
+          <div class="column half" markdown="1">
         
-          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_y.png)
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_z.png)
 
           </div>
           
@@ -29,7 +29,7 @@ content:
         
           <div class="column third" markdown="1">
         
-          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_y.png)
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-z_axis-element.png)
         
           <h4><br/>Elements</h4>
 
@@ -39,7 +39,7 @@ content:
         
           <div class="column third" markdown="1">
         
-          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_z.png)
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-z_axis-combine.png)
         
           <h4><br/>Combine</h4>
 
@@ -49,7 +49,7 @@ content:
           
           <div class="column third" markdown="1">
         
-          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_x.png)
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-z_axis-compound.png)
 
           <h4><br/>Compound</h4>
 
@@ -62,4 +62,4 @@ content:
     - width: half
       content: |
       
-        ![Tower Plane Showing Highlighted Towers, Sheds And Slabs](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro-matrix.png)
+        ![Tower Plane Showing Highlighted Towers, Sheds And Slabs](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-z_axis-matrix.png)
