@@ -1,0 +1,62 @@
+section:
+  - short
+layout:
+  - full
+content:
+  -
+    - width: third
+      content: |
+        
+        # Title
+        
+        <div class="grid">
+        
+          <div class="column sixth" markdown="1">
+          Text ...
+          </div>
+        
+          <div class="column sixth" markdown="1">
+          ![Caption Here](/images/fpo.png)
+          </div>
+        
+        </div>
+        
+        ![Caption Here](/images/fpo.png)
+        
+    - width: third
+      content: |
+        
+        # Title
+        
+        <div class="grid">
+        
+          <div class="column sixth" markdown="1">
+          Text ...
+          </div>
+        
+          <div class="column sixth" markdown="1">
+          ![Caption Here](/images/fpo.png)
+          </div>
+        
+        </div>
+        
+        ![Caption Here](/images/fpo.png)
+        
+    - width: third
+      content: |
+       
+       # Title
+        
+        <div class="grid">
+        
+          <div class="column sixth" markdown="1">
+          Text ...
+          </div>
+        
+          <div class="column sixth" markdown="1">
+          ![Caption Here](/images/fpo.png)
+          </div>
+        
+        </div>
+        
+        ![Caption Here](/images/fpo.png)
