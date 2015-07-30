@@ -2,6 +2,7 @@
 layout: default
 section: lyons
 cover: lockwood/01.jpg
+next: lyons-b
 ---
 
 {% include cover.html %}
@@ -9,3 +10,5 @@ cover: lockwood/01.jpg
 {% assign sortedArticles = site.data.lyons_a | sort: name %}
 
 {% include articles.html %}
+
+{% include next.html %}

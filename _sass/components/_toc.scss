@@ -1,7 +1,10 @@
 .toc {
   align-items: stretch;
   background-color: tint($purple, 10%);
+  background-position: center center;
+  background-size: cover;
   color: #7b869b;
+  justify-content: center;
   min-height: 100vh;
   position: relative;
   width: 100vw;
@@ -28,6 +31,15 @@
     .toc-overlay {
       background-color: rgba(darken($purple, 20%), 0.5);
     }
+  }
+
+  &.white {
+    color: $white;
+  }
+
+  &.narrow {
+    flex-basis: 30rem;
+    flex-grow: 0;
   }
 }
 
@@ -59,6 +71,11 @@
   &:hover {
     background-color: rgba($purple, 0.03);
   }
+}
+
+.toc-circle {
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px $white, 0 0 $small-spacing rgba(black, 0.3);
 }
 
 .toc-overlay {

@@ -1201,7 +1201,13 @@ section ol .cycle-slide {
       -ms-flex-align: stretch;
           align-items: stretch;
   background-color: #3e4147;
+  background-position: center center;
+  background-size: cover;
   color: #7b869b;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   min-height: 100vh;
   position: relative;
   width: 100vw;
@@ -1248,6 +1254,18 @@ section ol .cycle-slide {
 .toc-section.current + .toc-section .toc-overlay {
   background-color: rgba(0, 0, 0, 0.5);
 }
+.toc-section.white {
+  color: #f5f6f8;
+}
+.toc-section.narrow {
+  -webkit-flex-basis: 30rem;
+      -ms-flex-preferred-size: 30rem;
+          flex-basis: 30rem;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+}
 
 .toc-header {
   font-size: 2.625rem;
@@ -1275,6 +1293,11 @@ section ol .cycle-slide {
 }
 .toc-item:hover {
   background-color: rgba(40, 44, 51, 0.03);
+}
+
+.toc-circle {
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px #f5f6f8, 0 0 1.125rem rgba(0, 0, 0, 0.3);
 }
 
 .toc-overlay {

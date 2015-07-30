@@ -2,6 +2,7 @@
 layout: default
 section: gregg
 cover: lockwood/01.jpg
+next: gregg-b
 ---
 
 {% include cover.html %}
@@ -9,3 +10,5 @@ cover: lockwood/01.jpg
 {% assign sortedArticles = site.data.gregg_a | sort: name %}
 
 {% include articles.html %}
+
+{% include next.html %}

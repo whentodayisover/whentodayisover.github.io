@@ -1,0 +1,26 @@
+{% assign next = site.data.sections[page.section].pages[page.next] %}
+
+<div class="toc" style="background-image: url({{ next.background }})">
+  <div class="toc-overlay"></div>
+  <div class="toc-section narrow">
+    <img src="{{ next.image }}" class="toc-circle">
+  </div>
+  <div class="toc-section narrow white">
+    <div class="toc-info">
+      <header class="toc-header">{{ next.title }}</header>
+      <p>{{ next.description }}</p>
+      <ul>
+        <li>
+          <a href="{{ next.id }}.html" class="toc-item">
+            Continue to {{ next.title }}
+          </a>
+        </li>
+        <li>
+          <a href="#top" class="toc-item">
+            Back to Top
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
