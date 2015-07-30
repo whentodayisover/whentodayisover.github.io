@@ -1,0 +1,53 @@
+title: Z Axis
+section:
+  - short
+layout:
+  - full
+  - dark
+content:
+  -
+    - width: half
+      content: |
+      
+      #### Block Type
+      
+      The z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.
+      
+        <div class="grid">
+        
+          <div class="column third" markdown="1">
+        
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_y.png)
+        
+          <h4><br/>Elements</h4>
+
+          <h6>Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as  aggregate elements incapable of standing alone.</h6>
+
+          </div>
+        
+          <div class="column third" markdown="1">
+        
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_z.png)
+        
+          <h4><br/>Combine</h4>
+
+          <h6>TCombines Occupy The Middle Three Planes Of The Search Space. Because They Combine Two Base Forms, Combines Are Capable Of Hosting Multiple Variations Of A Single Use. Being More Complete In And Of Themselves, They Are Aggregate Elements Capable Of Standing Alone.</h6>
+
+          </div>
+          
+          <div class="column third" markdown="1">
+        
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_x.png)
+
+          <h4><br/>Compound</h4>
+
+          <h6>Combines occupy the middle three planes of the search space. Because they combine two base types, combines are capable of hosting multiple variations of a single use. Being more complete in and of themselves, they are aggregate elements capable of standing alone. Compounds are defined by the combination of three base forms.</h6>
+
+          </div>
+        
+        </div>
+        
+    - width: half
+      content: |
+      
+        ![Tower Plane Showing Highlighted Towers, Sheds And Slabs](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro-matrix.png)
