@@ -5,6 +5,7 @@ layout:
   - full
   - dark
 content:
+  -
     - width: half
       content: |
         ![](/images/fpo.png)
