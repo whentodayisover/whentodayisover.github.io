@@ -17,7 +17,7 @@ $('.frame.fade').each(function(){
 
   var scene = new ScrollMagic.Scene({triggerElement: '#' + frameShim, triggerHook: 0.25, duration: '25%'})
     .setTween('#' + frameId, { opacity: 1 })
-    .addIndicators()
+    // .addIndicators()
     .addTo(scrollMagic);
 });
 
@@ -28,6 +28,6 @@ $('.frame.stop').each(function(){
 
   var scene = new ScrollMagic.Scene({triggerElement: '#' + frameShim, triggerHook: 0.25, duration: '1'})
     .setTween('#' + frameId, { opacity: 1 })
-    .addIndicators()
+    // .addIndicators()
     .addTo(scrollMagic);
 });
