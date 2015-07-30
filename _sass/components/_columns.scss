@@ -57,6 +57,12 @@
     .third {
       flex-basis: 50%;
     }
+
+    .half {
+      .sixth {
+        flex-basis: 33.333%;
+      }
+    }
   }
 
   @include media($large-screen-up) {
@@ -70,6 +76,10 @@
 
     .half {
       flex-basis: 50%;
+
+      .sixth {
+        flex-basis: 33.333%;
+      }
     }
   }
 }

@@ -8,48 +8,48 @@ content:
   -
     - width: half
       content: |
-      
-        Traditionally, urban development relied heavily on the deployment of typical forms. In american cities, these forms remain recognizable today as street grids hosting a regular arrangement of urban blocks. On these blocks, other typical forms were deployed. Familiar o-shape, u-shape, t-shape and even e-shaped buildings can still to be found today in our older central business districts.  
 
-        We no longer build traditional urban grids, nor do we deploy typical forms upon them. For the past fifty years, instead of constructing continuous grids, we have constructed discontinuous, spine-base forms that are synonymous with the suburban cul-de-sac. On these spine forms, we do not build classic urban buildings of years gone by—the letter shaped forms that once accounted for a full range of urban programs. In short, the rich typology of continuous street grids populated by a related series of urban blocks has given way to the more primitive typologies of the discontinuous spine populated either by the office slab or the tract house. In order to meet the demands for a sharp increase in density, we will have to be able to deliver a far more robust set of forms than have been offered in the traditional city, and in the city at large today. 
+        Traditionally, urban development relied heavily on the deployment of typical forms. In american cities, these forms remain recognizable today as street grids hosting a regular arrangement of urban blocks. On these blocks, other typical forms were deployed. Familiar o-shape, u-shape, t-shape and even e-shaped buildings can still to be found today in our older central business districts.
+
+        We no longer build traditional urban grids, nor do we deploy typical forms upon them. For the past fifty years, instead of constructing continuous grids, we have constructed discontinuous, spine-base forms that are synonymous with the suburban cul-de-sac. On these spine forms, we do not build classic urban buildings of years gone by—the letter shaped forms that once accounted for a full range of urban programs. In short, the rich typology of continuous street grids populated by a related series of urban blocks has given way to the more primitive typologies of the discontinuous spine populated either by the office slab or the tract house. In order to meet the demands for a sharp increase in density, we will have to be able to deliver a far more robust set of forms than have been offered in the traditional city, and in the city at large today.
 
         The static spine or grid must give way to a far more diverse set of blocks sizes, and a far more diverse set of block types that are distributed with a higher degree of variation that we have had both in the near and distant future.
 
         <div class="grid">
-        
-          <div class="column third" markdown="1">
-        
+
+          <div class="column sixth" markdown="1">
+
           ![Y Axis: Block Size (Y/Z Plane)](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_y.png)
-        
+
           <h4><br/>Y. Slab Development</h4>
 
-          <h6>A range of block sizes are built into the y axis of the search space. The sizes are based on the 300’ square dimension of the fifth ward city block. They range from 300’ x 300’ traditional block size to the 300’ x 1500’ superblock size capable of accommodating large building projects and of achieving significant economies of scale. Past a length of 1500’ the blocks transition into bands of cultivation.</h6>
+          <p>A range of block sizes are built into the y axis of the search space. The sizes are based on the 300’ square dimension of the fifth ward city block. They range from 300’ x 300’ traditional block size to the 300’ x 1500’ superblock size capable of accommodating large building projects and of achieving significant economies of scale. Past a length of 1500’ the blocks transition into bands of cultivation.</p>
 
           </div>
-        
-          <div class="column third" markdown="1">
-        
+
+          <div class="column sixth" markdown="1">
+
           ![Z Axis: Block Types (X/Y Plane)](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_z.png)
-        
+
           <h4><br/>Z. Tower Development</h4>
 
-          <h6>The z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.</h6>
+          <p>The z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.</p>
 
           </div>
-          
-          <div class="column third" markdown="1">
-        
+
+          <div class="column sixth" markdown="1">
+
           ![X Axis: Block Distribution (Z/X Plane)](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_x.png)
 
           <h4><br/>X. Shed Development</h4>
 
-          <h6>The y axis of the search space introduces the size of the block while the z axis introduces the building type. The third axis of the search space introduces the distribution of the building types  across variable block sizes. Based on directionality and emphasis, it introduces  variations into the first order of block aggregation.</h6>
+          <p>The y axis of the search space introduces the size of the block while the z axis introduces the building type. The third axis of the search space introduces the distribution of the building types  across variable block sizes. Based on directionality and emphasis, it introduces  variations into the first order of block aggregation.</p>
 
           </div>
-        
+
         </div>
-        
+
     - width: half
       content: |
-      
+
         ![3 X 3 Search Space: First Level Aggregation Of Tower Slab And Shed](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro-matrix.png)
