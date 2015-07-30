@@ -38,15 +38,15 @@ content:
         
         Text...
         
-      - width: third
-        content: |
+    - width: third
+      content: |
       
         ![](/images/fpo.png)
         
         Text...
         
-      - width: third
-        content: |
+    - width: third
+      content: |
       
         ![](/images/fpo.png)
         
