@@ -7,17 +7,13 @@ content:
   -
     - width: third
       content: |
-        .
-    
-    - width: sixth
-      content: |
         In the next 40 years, world population will grow from 7 billion to 9 billion. In 2030, energy demand is estimated to grow 50% from now. Biofuel such as coal, gas and oil supplys 80% of world’s need for energy today, and it takes decades to change the energy structure to renewable sources. One thing directly from burning biofuels is the emission of carbon dioxide, it leads to global warming and irreversible climate changes, which will threat the living environment of human beings. In order to offset the affects from global warming, people have to take actions.
 
         Most analyses to date of options for mitigating the risk of global climate change have focused on reducing emissions of carbon dioxide and other greenhouse gases (GHGs). Much less attention has been given to the potential for storing (or “sequestering”) significant amounts of carbon in forests and other ecosystems as an alternative means of offsetting the effect of future emissions on GHG concentrations in the atmosphere.
 
         Rather than working with carbon capture and storage technology (CCS), this study has been mostly focused on carbon plantation, which has a potential to integrate forest, urbanism, engineering, economics, and sociology into an organic whole.
 
-    - width: sixth
+    - width: third
       content: |
 
         ![Carbon Plantation](https://dl.dropboxusercontent.com/u/14520747/wtio-images/image_lyons-assets/theme-carbon_plantation.jpg)
