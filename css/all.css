@@ -679,9 +679,7 @@ picture {
 
 article {
   display: block;
-  background-attachment: fixed;
   background-color: #f5f6f8;
-  background-size: cover;
   overflow: hidden;
   position: relative;
 }
@@ -941,6 +939,53 @@ section ul li {
 @media screen and (min-width: 700px) {
   .cover {
     height: 100vh;
+  }
+}
+
+@media screen and (min-width: 1100px) {
+  .curtain {
+    box-shadow: 0 0 4.5rem black;
+    min-height: 100vh;
+    position: relative;
+    z-index: 101;
+  }
+  .curtain.top {
+    z-index: 104;
+  }
+}
+
+#fixed {
+  display: none;
+}
+@media screen and (min-width: 1100px) {
+  #fixed {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    z-index: 102;
+  }
+}
+
+.curtain-shadow {
+  display: none;
+}
+@media screen and (min-width: 1100px) {
+  .curtain-shadow {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    left: 0;
+    background: -webkit-linear-gradient(#121316, rgba(18, 19, 22, 0));
+    background: linear-gradient(#121316, rgba(18, 19, 22, 0));
+    display: block;
+    height: 100vh;
+    pointer-events: none;
+  }
+  .top .curtain-shadow {
+    z-index: 103;
   }
 }
 

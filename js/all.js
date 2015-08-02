@@ -23102,7 +23102,7 @@ $('.curtain').each(function(){
 var articleId = 100;
 
 $('article').each(function(){
-  $(this).attr('id', 'article'+articleId);//.css('z-index', articleId--);
+  $(this).attr('id', 'article'+articleId).css('z-index', articleId--);
 });
 
 var bgId = 0;
