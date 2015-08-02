@@ -1,0 +1,14 @@
+---
+layout: default
+section: lockwood
+cover: lockwood/01.jpg
+next: lockwood-b
+---
+
+{% include cover.html %}
+
+{% assign sortedArticles = site.data.gregg_a | sort: name %}
+
+{% include test-articles.html %}
+
+{% include next.html %}
