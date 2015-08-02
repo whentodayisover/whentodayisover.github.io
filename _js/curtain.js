@@ -6,24 +6,8 @@
         waypoints = [],
         Waypoint = window.Waypoint;
 
-    self.height = 0;
-    self.buffer = 128;
-
     self.init = function() {
-      window.scrollTo(0, 1);
-      // do window size checks
-      self.setBodyHeight();
       self.setWaypoints();
-    }
-
-    self.setBodyHeight = function(){
-      var bodyHeight = 0;
-
-      $curtains.each(function(){
-        bodyHeight += $(this).height();
-      });
-
-      $('body').height(bodyHeight);
     }
 
     self.setTop = function($el){
