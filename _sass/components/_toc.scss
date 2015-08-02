@@ -18,8 +18,8 @@
 .toc-section {
   align-items: center;
   display: flex;
-  flex: 1;
   flex-direction: column;
+  flex-grow: 1;
   justify-content: center;
   padding: ($base-spacing * 2) $base-spacing;
   position: relative;
@@ -41,6 +41,18 @@
     flex-basis: 30rem;
     flex-grow: 0;
   }
+}
+
+.toc-next {
+  align-items: center;
+  color: $white;
+  display: flex;
+  flex-basis: 30rem;
+  flex-direction: column;
+  flex-grow: 0;
+  justify-content: center;
+  padding: ($base-spacing * 2) $base-spacing;
+  position: relative;
 }
 
 .toc-header {
@@ -74,6 +86,7 @@
 }
 
 .toc-circle {
+  @include size(30rem - ($base-spacing * 2));
   border-radius: 50%;
   box-shadow: 0 0 0 2px $white, 0 0 $small-spacing rgba(black, 0.3);
 }

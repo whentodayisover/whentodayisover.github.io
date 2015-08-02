@@ -16,9 +16,19 @@ section {
     text-decoration: underline;
   }
 
+  p {
+    img {
+      width: 100%;
+    }
+  }
+
   ol {
     box-shadow: 0 1px 0 $purple;
     padding-bottom: $small-spacing;
+
+    img {
+      width: 100%;
+    }
   }
 
   ul {
