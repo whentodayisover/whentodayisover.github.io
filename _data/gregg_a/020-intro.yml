@@ -1,6 +1,5 @@
 title: Economies of Scale
-backgrounds:
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_all4.png
+background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_all4.png
 layout:
   - half
   - dark

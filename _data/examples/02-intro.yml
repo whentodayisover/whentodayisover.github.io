@@ -1,7 +1,6 @@
 section:
   - short
-backgrounds:
-  - lockwood/02.png
+background: lockwood/02.png
 layout:
   - half
   - dark

@@ -1,6 +1,5 @@
 title: Infrastructure
-backgrounds:
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lockwood-assets/bg-phase_infra1.png
+background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lockwood-assets/bg-phase_infra1.png
 animation: fade
 animationFrames:
   - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lockwood-assets/bg-phase_infra2.png

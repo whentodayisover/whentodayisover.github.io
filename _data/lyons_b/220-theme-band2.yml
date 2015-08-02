@@ -1,8 +1,7 @@
 title: Typical Band
 section:
   - short
-backgrounds:
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-theme_band2.png
+background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-theme_band2.png
 layout:
   - half
   - dark

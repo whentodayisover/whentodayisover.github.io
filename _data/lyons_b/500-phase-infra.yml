@@ -1,8 +1,7 @@
 title: Infrastructure
 section:
   - short
-backgrounds:
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_infra3.png
+background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_infra3.png
 layout:
   - third
   - dark
