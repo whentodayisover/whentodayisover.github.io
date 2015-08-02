@@ -2,7 +2,8 @@ article {
   @include row;
   background-attachment: fixed;
   background-color: $base-background-color;
-  background-size: cover;
+  background-position: center center;
+  background-size: auto 75vh;
   overflow: hidden;
   position: relative;
 
@@ -17,6 +18,7 @@ article {
   }
 
   @include media($medium-screen-up) {
+    background-size: auto 100vh;
     min-height: 100vh;
     padding-bottom: 100vh;
 

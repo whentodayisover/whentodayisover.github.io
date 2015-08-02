@@ -1,18 +1,12 @@
 <main class="curtain">
   {% for articleData in sortedArticles %}
     {% assign article = articleData[1] %}
-    <article class="{% for class in article.section %}{{ class }} {% endfor %}">
-
-      {% if article.background %}
-        <div class="bg">
-          <img src="{{ article.background }}" class="cover frame">
-        </div>
-      {% endif %}
+    <article class="{% for class in article.section %}{{ class }} {% endfor %}" {% if article.background %}style="background-image: url({{ article.background }})"{% endif %}>
 
       {% if article.animationFrames %}
         <div class="bg animation">
           {% for frame in article.animationFrames %}
-            <img src="{{ frame }}" class="cover frame {{ article.animation }}">
+            <div class="frame {{ article.animation }}" style="background-image: url({{ frame }})"></div>
           {% endfor %}
         </div>
       {% endif %}

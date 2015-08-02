@@ -1,17 +1,13 @@
-.bg {
-  height: 75vw;
+.animation {
+  @include position(absolute, 0);
   pointer-events: none;
-  position: relative;
-  width: 100vw;
-
-  @include media($medium-screen-up) {
-    @include position(absolute, 0);
-    height: 100vh;
-  }
 }
 
 .frame {
-  @include position(fixed, 0);
+  @include position(absolute, 0);
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: auto 100vh;
 
   &.fade,
   &.stop {

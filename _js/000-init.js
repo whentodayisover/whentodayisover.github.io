@@ -1,21 +1,21 @@
 var scrollMagic = new ScrollMagic.Controller();
 
-var curtainId = 0;
+// var curtainId = 0;
+//
+// $('.curtain').each(function(){
+//   $(this).attr('id', 'curtain'+curtainId++);
+// });
 
-$('.curtain').each(function(){
-  $(this).attr('id', 'curtain'+curtainId++);
-});
-
-var articleId = 100;
+var articleId = 0;
 
 $('article').each(function(){
-  $(this).attr('id', 'article'+articleId).css('z-index', articleId--);
+  $(this).attr('id', 'article'+articleId);
 });
 
-var bgId = 0;
+var animationId = 0;
 
-$('.bg').each(function(){
-  $(this).attr('id', 'bg'+bgId++);
+$('.animation').each(function(){
+  $(this).attr('id', 'animation'+animationId++);
 });
 
 var frameId = 0;

@@ -681,7 +681,8 @@ article {
   display: block;
   background-attachment: fixed;
   background-color: #f5f6f8;
-  background-size: cover;
+  background-position: center center;
+  background-size: auto 75vh;
   overflow: hidden;
   position: relative;
 }
@@ -705,6 +706,7 @@ article::before {
 }
 @media screen and (min-width: 700px) {
   article {
+    background-size: auto 100vh;
     min-height: 100vh;
     padding-bottom: 100vh;
   }
@@ -718,8 +720,6 @@ section {
   box-shadow: 0 1px 0 rgba(40, 44, 51, 0.666);
   padding: 4.5rem 2.25rem;
   position: relative;
-  -webkit-transform: translate3d(0, 0, 0);
-          transform: translate3d(0, 0, 0);
   z-index: 1;
 }
 section.dark {
@@ -771,29 +771,24 @@ section ul li {
   }
 }
 
-.bg {
-  height: 75vw;
-  pointer-events: none;
-  position: relative;
-  width: 100vw;
-}
-@media screen and (min-width: 700px) {
-  .bg {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    height: 100vh;
-  }
-}
-
-.frame {
-  position: fixed;
+.animation {
+  position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
+  pointer-events: none;
+}
+
+.frame {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: auto 100vh;
 }
 .frame.fade, .frame.stop {
   opacity: 0;
