@@ -7,7 +7,6 @@
   justify-content: center;
   min-height: 100vh;
   position: relative;
-  width: 100vw;
   z-index: $z-toc;
 
   @include media($medium-screen-up) {
