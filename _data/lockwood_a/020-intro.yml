@@ -1,9 +1,8 @@
-title: Carbon Redevelopment
+title: Carbon2 Redevelopment
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/bg-phase_all4.png
 layout:
   - half
   - dark
-  - lede
 content:
   -
     - width: half
