@@ -3,11 +3,12 @@ background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood
 layout:
   - half
   - dark
+  - lede
 content:
   -
-    - width: half
+    - width: full
       content: |
-        ![Lockwood District](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Ward_Lockwood.png)
+        ![###Lockwood District](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Ward_Lockwood.png)
         
         Solutions that work only for wealthy countries, wealthy cities, wealthy neighborhoods or wealthy individuals, are ineffective inasmuch as any solutions to climate change must go mainstream in order to work. Like nothing else before it, climate change is an interconnected problem that is global in scope. Anything less than broad based solutions end up creating life-rafts for those who can afford them leaving behind an increasingly dysfunctional world. In other words, environmental problems and social problems have to be taken on together. To that end, we have chosen one of the most disadvantaged communities in the city of Houston — the historic Fifth Ward — to make our best case demonstration for redevelopment. 
         
