@@ -6,7 +6,7 @@ layout:
   - lede
 content:
   -
-    - width: full
+    - width: half
       content: |
         ![Lockwood District](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Ward_Lockwood.png)
         
