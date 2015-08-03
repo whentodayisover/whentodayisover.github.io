@@ -1,37 +1,35 @@
-<main class="curtain">
-  {% for articleData in sortedArticles %}
-    {% assign article = articleData[1] %}
-    <article class="{% for class in article.section %}{{ class }} {% endfor %}" {% if article.background %}style="background-image: url({{ article.background }})"{% endif %}>
+{% for articleData in sortedArticles %}
+  {% assign article = articleData[1] %}
+  <article class="b-lazy {% for class in article.section %}{{ class }} {% endfor %}" {% if article.background %}data-src="{{ article.background }}"{% endif %}>
 
-      {% if article.animationFrames %}
-        <div class="bg animation">
-          {% for frame in article.animationFrames %}
-            <div class="frame {{ article.animation }}" style="background-image: url({{ frame }})"></div>
-          {% endfor %}
-        </div>
-      {% endif %}
+    {% if article.animationFrames %}
+      <div class="bg animation">
+        {% for frame in article.animationFrames %}
+          <div class="b-lazy frame {{ article.animation }}" data-src="{{ frame }}"></div>
+        {% endfor %}
+      </div>
+    {% endif %}
 
-      {% if article.content %}
-        <section class="{% for class in article.layout %}{{ class }} {% endfor %}">
+    {% if article.content %}
+      <section class="{% for class in article.layout %}{{ class }} {% endfor %}">
 
-          {% if article.title %}
-            <header class="article-title">
-              <h1>{{ article.title }}</h1>
-            </header>
-          {% endif %}
+        {% if article.title %}
+          <header class="article-title">
+            <h1>{{ article.title }}</h1>
+          </header>
+        {% endif %}
 
-          {% for row in article.content %}
-            <div class="grid">
-              {% for column in row %}
-                <div class="column {{ column.width}}">
-                  {{ column.content | markdownify }}
-                </div>
-              {% endfor %}
-            </div>
-          {% endfor %}
-        </section>
-      {% endif %}
+        {% for row in article.content %}
+          <div class="grid">
+            {% for column in row %}
+              <div class="column {{ column.width}}">
+                {{ column.content | markdownify }}
+              </div>
+            {% endfor %}
+          </div>
+        {% endfor %}
+      </section>
+    {% endif %}
 
-    </article>
-  {% endfor %}
-</main>
+  </article>
+{% endfor %}
