@@ -682,7 +682,7 @@ article {
   background-attachment: fixed;
   background-color: #f5f6f8;
   background-position: center center;
-  background-size: auto 75vh;
+  background-size: cover;
   overflow: hidden;
   position: relative;
 }
@@ -706,7 +706,6 @@ article::before {
 }
 @media screen and (min-width: 700px) {
   article {
-    background-size: auto 100vh;
     min-height: 100vh;
     padding-bottom: 100vh;
   }
@@ -788,7 +787,7 @@ section ul li {
   left: 0;
   background-attachment: fixed;
   background-position: center center;
-  background-size: auto 100vh;
+  background-size: cover;
 }
 .frame.fade, .frame.stop {
   opacity: 0;
