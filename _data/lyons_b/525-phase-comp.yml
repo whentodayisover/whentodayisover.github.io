@@ -2,6 +2,10 @@ title: Lyons Transformed
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2020aa_Composite.png
 animation: fade
 animationFrames:
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2020aa_Composite.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2030aa_Composite.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2030aa_Composite.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2040aa_Composite.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2040aa_Composite.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2050aa_Composite.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2050aa_Composite.png
