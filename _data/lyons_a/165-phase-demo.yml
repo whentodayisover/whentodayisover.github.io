@@ -1,6 +1,7 @@
 title: Demolition
-background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_demo1.png
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2020c_Demo.png
 animation: fade
 animationFrames:
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_demo2.png
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lyons-assets/bg-phase_demo3.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2030c_Demo.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2040c_Demo.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2050c_Demo.png
