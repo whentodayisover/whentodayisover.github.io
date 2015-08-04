@@ -1,8 +1,7 @@
 title: Underlying Structure
-background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_Parcel.png
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2020bb_Parcel.png
 animation: fade
 animationFrames:
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2020bb_Parcel.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2030bb_Parcel.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2040bb_Parcel.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2050bb_Parcel.png
