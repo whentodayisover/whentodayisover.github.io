@@ -1,6 +1,6 @@
 .toc {
   align-items: stretch;
-  background-color: tint($purple, 10%);
+  background-color: tint($dark-background-color, 10%);
   background-position: center center;
   background-size: cover;
   color: #7b869b;
@@ -25,15 +25,15 @@
 
   .toc-section.current + & {
     box-shadow: 0 0 $small-spacing rgba(black, 0.3);
-    color: $white;
+    color: $dark-font-color;
 
     .toc-overlay {
-      background-color: rgba(darken($purple, 20%), 0.5);
+      background-color: rgba(darken($dark-background-color, 10%), 0.75);
     }
   }
 
   &.white {
-    color: $white;
+    color: $dark-font-color;
   }
 
   &.narrow {
@@ -44,7 +44,7 @@
 
 .toc-next {
   align-items: center;
-  color: $white;
+  color: $dark-font-color;
   display: flex;
   flex-basis: 30rem;
   flex-direction: column;
@@ -80,19 +80,19 @@
   text-transform: uppercase;
 
   &:hover {
-    background-color: rgba($purple, 0.03);
+    background-color: rgba($dark-background-color, 0.03);
   }
 }
 
 .toc-circle {
   @include size(30rem - ($base-spacing * 2));
   border-radius: 50%;
-  box-shadow: 0 0 0 2px $white, 0 0 $small-spacing rgba(black, 0.3);
+  box-shadow: 0 0 0 2px $dark-font-color, 0 0 $small-spacing rgba(black, 0.3);
 }
 
 .toc-overlay {
   @include position(absolute, 0);
-  background-color: rgba(darken($purple, 5%), 0.9);
+  background-color: rgba(darken($dark-background-color, 5%), 0.9);
   background-position: center center;
   background-size: cover;
 }

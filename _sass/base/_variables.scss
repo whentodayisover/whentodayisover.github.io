@@ -21,21 +21,23 @@ $z-hamburger: 195;
 $z-nav: 200;
 
 // Colors
-$purple: #282c33;
-$dark-purple: darken($purple, 10%);
-$white: #f5f6f8;
+$light-background-color: #f2f6ff;
+$light-font-color: #525967;
+
+$dark-background-color: #282c33;
+$dark-font-color: #cfd7e7;
 
 // Font Colors
-$base-background-color: $white;
-$base-font-color: $purple;
-$action-color: $purple;
+$base-background-color: $light-background-color;
+$base-font-color: $light-font-color;
+$action-color: $light-font-color;
 
 // Font Weights
 $normal-weight: 400;
 $bold-weight: 700;
 
 // Border
-$base-border-color: $white;
+$base-border-color: $light-background-color;
 $base-border: 1px solid $base-border-color;
 
 // Forms

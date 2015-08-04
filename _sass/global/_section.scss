@@ -1,14 +1,8 @@
 section {
-  background-color: $white;
-  box-shadow: 0 1px 0 rgba($purple, 0.666);
+  background-color: $light-background-color;
   padding: ($base-spacing * 2) $base-spacing;
   position: relative;
   z-index: 1;
-
-  &.dark {
-    background-color: $purple;
-    color: $white;
-  }
 
   h4 {
     font-weight: $normal-weight;
@@ -22,7 +16,7 @@ section {
   }
 
   ol {
-    box-shadow: 0 1px 0 $purple;
+    box-shadow: 0 1px 0 currentColor;
     padding-bottom: $small-spacing;
 
     img {

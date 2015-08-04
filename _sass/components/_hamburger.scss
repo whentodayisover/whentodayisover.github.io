@@ -2,9 +2,9 @@
   @include position(fixed, $base-spacing null null $base-spacing);
   @include size(rem(43));
   align-items: center;
-  background-color: rgba($purple, 0.888);
+  background-color: rgba($dark-background-color, 0.888);
   border-radius: 50%;
-  box-shadow: 0 0 0 3px $white;
+  box-shadow: 0 0 0 3px $dark-font-color;
   cursor: pointer;
   display: flex;
   flex-direction: column;
@@ -14,7 +14,7 @@
 
 .hamburger-bar {
   @include size(1.5rem 3px);
-  background-color: $white;
+  background-color: $dark-font-color;
   border-radius: 3px;
   margin: 2px 0;
 }
