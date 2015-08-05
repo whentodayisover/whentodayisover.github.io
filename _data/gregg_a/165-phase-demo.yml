@@ -1,7 +1,8 @@
 title: Tree Machine
-background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_demo1.png
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2065c_Demolition.png
 animation: fade
 animationFrames:
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_demo2.png
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_demo3.png
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_demo4.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2035c_Demolition.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2045c_Demolition.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2055c_Demolition.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2065c_Demolition.png
