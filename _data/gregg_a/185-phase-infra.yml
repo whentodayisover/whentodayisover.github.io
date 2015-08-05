@@ -1,7 +1,8 @@
 title: Spine Infrastructure
-background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_infra1.png
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2035d_Infrastructure.png
 animation: fade
 animationFrames:
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_infra2.png
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_infra3.png
-  - https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_infra4.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2045d_Infrastructure.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2055d_Infrastructure.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2065d_Infrastructure.png
+  
