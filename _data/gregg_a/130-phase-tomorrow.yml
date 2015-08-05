@@ -3,8 +3,8 @@ section:
   - short
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2065a_Gregg.png
 layout:
-  - half
-  - dark
+  - third
+
 content:
   -
     - width: full
