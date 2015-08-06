@@ -1,0 +1,13 @@
+title: Gregg District
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2065a_Gregg.png
+section:
+  - short
+layout:
+  - dark
+  - lede
+
+content:
+  -
+    - width: full
+      content: 
+       !{[](https://www.dropbox.com/s/4ectcops797dwna/Gregg-East.gif?dl=0)
