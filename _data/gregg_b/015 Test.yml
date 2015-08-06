@@ -7,7 +7,7 @@ layout:
   - dark
   - lede
 
-content:
+content: |
   -
     - width: full
       content: 
