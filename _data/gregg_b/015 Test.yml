@@ -3,12 +3,14 @@ background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-as
 section:
   - short
 layout:
-  - full
+  - half
   - dark
   - lede
 
-content: |
+content:
   -
     - width: full
-      content: 
+      content: |
+
+        ##Economies of Scale
        ![](https://www.dropbox.com/s/4ectcops797dwna/Gregg-East.gif?dl=0)
