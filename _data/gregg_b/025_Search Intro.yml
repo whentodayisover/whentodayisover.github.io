@@ -60,27 +60,28 @@ content:
         <div class="grid">
 
           <div class="column half" markdown="1">
-
+          
+          <center>
+          <h3> Tower
+          </h3>
+          </center>
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Tower.png)
+          <br>
+          </br>
           
           <center>
-          <h2> Tower
-          </h2>
+          <h3> Slab
+          </h3>
           </center>
-          
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Slab.png)
+          <br>
+          </br>
           
           <center>
-          <h2> Slab
-          </h2>
+          <h3> Shed
+          </h3>
           </center>
-          
           ![Shed](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Shed.png)
-          
-          <center>
-          <h2> Shed
-          </h2>
-          </center>
           
           </div>
 
