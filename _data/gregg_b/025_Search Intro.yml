@@ -57,13 +57,15 @@ content:
 
         </div>
         
-                <div class="grid">
+        <div class="grid">
 
           <div class="column half" markdown="1">
 
           ![Tower](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Tower.png)
+          <br>
           
           ![Slab](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Slab.png)
+          <br>
           
           ![Shed](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Shed.png)
           
