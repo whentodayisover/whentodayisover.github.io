@@ -25,7 +25,7 @@ content:
 
         <div class="grid">
 
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
 
           ![Y Axis: Block Size (Y/Z Plane)](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_y.png)
 
@@ -35,7 +35,7 @@ content:
 
           </div>
 
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
 
           ![Z Axis: Block Types (X/Y Plane)](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_z.png)
 
@@ -45,7 +45,7 @@ content:
 
           </div>
 
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
 
           ![X Axis: Block Distribution (Z/X Plane)](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_x.png)
 
@@ -56,3 +56,5 @@ content:
           </div>
 
         </div>
+        
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Square_Blue.png)
