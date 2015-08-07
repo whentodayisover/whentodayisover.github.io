@@ -2,7 +2,7 @@ title: Search Space
 section:
   - long
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Type_None.png
-animation: click
+animation: stop
 animationFrames:
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Type_Elements.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Type_Combines.png
