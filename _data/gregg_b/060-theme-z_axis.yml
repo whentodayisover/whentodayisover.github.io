@@ -96,7 +96,9 @@ content:
         #### The Slab
         
         The slab is the classic middle ground element of the plan. Primarily containing residential spaces, the slab mediates between the tower and the ground plane of sheds and tree plantations.  Smaller building lots are concentrated in gregg south. Here, economies of scale and large block sizes have not yet reached their peak in the first neighborhood to be constructed. 
-   -width: half
+        
+  -
+   - width: half
      content: |
        
         ## Combines
