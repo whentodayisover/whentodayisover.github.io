@@ -6,7 +6,7 @@ layout:
   - half
 
 content:
-  -
+  - width: half
     - width: half
       content: |
         ![Pope, Inner-City New Town, 2010, V-2](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-typology-spine.png)
