@@ -1,4 +1,4 @@
-title: A Flexible Typology
+title: A Flexible TypologyD
 section:
   - short
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/South_2045.png
@@ -6,12 +6,12 @@ layout:
   - half
 
 content:
-  - width: half
-    - width: half
+  -
+    - width: quarter
       content: |
-        ![Pope, Inner-City New Town, 2010, V-2](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-typology-spine.png)
+        ![Pope, Inner-City New Town, 2010, V-2](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/theme-typology-spine.png)
         
-    - width: half
+    - width: quarter
       content: |
         ![Sejima, Gifu Kitagata Housing, Search Space Of Unit Sections](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-typology-gifu_diagram.png)
   -
