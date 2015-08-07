@@ -58,11 +58,11 @@ content:
         
         </div>
         
-        ## Elements
+        ## Elements2
         
         <div class="grid">
         
-          <div class="column half" markdown="1">
+          <div class="column third" markdown="1">
           
           Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
           
