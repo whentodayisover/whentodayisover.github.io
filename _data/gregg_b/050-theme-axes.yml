@@ -9,6 +9,54 @@ content:
   -
     - width: third
       content: |
+      
+        # X Block Size
+        
+        <div class="grid">
+        
+          <div class="column sixth" markdown="1">
+
+          1. ![Size](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size-Still.png)
+          2. ![Small Blocks, 200' to 500 ft](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Small.gif)
+          3. ![Large Blocks, 600' to 900 ft](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Large.gif)
+          4. ![Superblocks, over 1000 ft](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Super.gif)
+
+          </div>
+          
+          <div class="column sixth" markdown="1">
+
+          A range of block sizes are built into the y axis of the search space. The sizes are based on the 300’ square dimension of the fifth ward city block. They range from 300’ x 300’ traditional block size to the 300’ x 1500’ superblock size capable of accommodating large building projects and of achieving significant economies of scale. Past a length of 1500’ the blocks transition into bands of cultivation.
+          
+          </div>
+          
+        </div>
+
+    - width: third
+      content: |
+
+        # Y Block Distribution
+        
+        <div class="grid">
+        
+          <div class="column sixth" markdown="1">
+
+          1. ![Shape and Distribution](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Distribution-Still.png)
+          2. ![I-shapes, most open](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Distribution-I.gif)
+          3. ![L-shapes, partially closed](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Distribution-L.gif)
+          4. ![U-shapes, most closed](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Distribution-U.gif)
+
+          </div>
+          
+          <div class="column sixth" markdown="1">
+
+          The y axis of the search space introduces the size of the block while the z axis introduces the building type. The third axis of the search space introduces the distribution of the building types  across variable block sizes. Based on directionality and emphasis, it introduces  variations into the first order of block aggregation.
+          
+          </div>
+          
+        </div>
+        
+    - width: third
+      content: |
         
         # Z Block Type
         
@@ -30,64 +78,9 @@ content:
           </div>
         
         </div>
-
-    - width: third
-      content: |
-      
-        # X Block Size
-        
-        <div class="grid">
-        
-          <div class="column sixth" markdown="1">
-
-          1. ![Small Blocks, 200' to 500 ft](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Small.gif)
-          2. ![Large Blocks, 600' to 900 ft](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Large.gif)
-          3. ![Superblocks, over 1000 ft](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Super.gif)
-
-          </div>
-          
-          <div class="column sixth" markdown="1">
-
-          A range of block sizes are built into the y axis of the search space. The sizes are based on the 300’ square dimension of the fifth ward city block. They range from 300’ x 300’ traditional block size to the 300’ x 1500’ superblock size capable of accommodating large building projects and of achieving significant economies of scale. Past a length of 1500’ the blocks transition into bands of cultivation.
-          
-          </div>
-          
-        </div>
-
-    - width: third
-      content: |
-
-        # Y Block Distribution
-        
-        <div class="grid">
-        
-          <div class="column sixth" markdown="1">
-
-          1. ![I-shapes, most open](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Distribution-I.gif)
-          2. ![L-shapes, partially closed](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Distribution-L.gif)
-          3. ![U-shapes, most closed](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Distribution-U.gif)
-
-          </div>
-          
-          <div class="column sixth" markdown="1">
-
-          The y axis of the search space introduces the size of the block while the z axis introduces the building type. The third axis of the search space introduces the distribution of the building types  across variable block sizes. Based on directionality and emphasis, it introduces  variations into the first order of block aggregation.
-          
-          </div>
-          
-        </div>
   -
-    - width: third
+    - width: full
       content: |
 
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Block-Type.gif)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/XYZ_Block.gif)
         
-    - width: third
-      content: |
-      
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Block-Size.gif)
-        
-    - width: third
-      content: |
-
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Block-Distribution.gif)
