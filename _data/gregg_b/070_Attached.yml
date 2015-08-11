@@ -11,7 +11,7 @@ layout:
   - Right
 content:
   -
-    - width: full
+    - width: sixth
       content: |
         ### More Single-Use Elements
         
