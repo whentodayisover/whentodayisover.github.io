@@ -16,9 +16,9 @@ content:
         
           <div class="column sixth" markdown="1">
         
-          1. ![Small Blocks, 200' to 500 ft](<img alt="" border="0" https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Small.gifsrc="=<?=rand(1,1000);?" />)
-          2. ![Large Blocks, 600' to 900 ft]((<img alt="" border="0" https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Large.gifsrc="=<?=rand(1,1000);?" />))
-          3. ![Superblocks, over 1000 ft]((<img alt="" border="0" https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Super.gifsrc="=<?=rand(1,1000);?" />))
+          1. ![Small Blocks, 200' to 500 ft](<img alt="" border="0" https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Small.gifsrc="=<?=rand(1,1000);?" /></img>)
+          2. ![Large Blocks, 600' to 900 ft]((<img alt="" border="0" https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Large.gifsrc="=<?=rand(1,1000);?" /></img>))
+          3. ![Superblocks, over 1000 ft]((<img alt="" border="0" https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Super.gifsrc="=<?=rand(1,1000);?" /></img>))
 
           </div>
         
