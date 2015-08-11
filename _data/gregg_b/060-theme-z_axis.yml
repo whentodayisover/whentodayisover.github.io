@@ -28,7 +28,7 @@ content:
         
           <div class="column sixth" markdown="1">
         
-          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-z_axis-element.png)
+          ![]https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type_Element.gif)
         
           <h4><br/>Elements</h4>
 
@@ -38,7 +38,7 @@ content:
         
           <div class="column sixth" markdown="1">
         
-          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-z_axis-combine.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type_Combine.gif)
         
           <h4><br/>Combine</h4>
 
@@ -48,7 +48,7 @@ content:
           
           <div class="column sixth" markdown="1">
         
-          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-z_axis-compound.png)
+          ![]https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type-Compound.gif)
 
           <h4><br/>Compound</h4>
 
@@ -66,14 +66,14 @@ content:
           
           Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
           
-          ![Shed and Slab Elements](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/theme-elements-matrix_crop.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/theme-elements-matrix_crop.png)
           </div>
         </div>
 
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-elements-shed.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Element_Shed.png)
         
         #### The Shed
         
@@ -82,7 +82,7 @@ content:
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-elements-tower.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Element_Tower.png)
         
         #### The Tower
         
@@ -91,7 +91,7 @@ content:
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-elements-slab.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Element_Slab.png)
         
         #### The Slab
         
@@ -108,14 +108,14 @@ content:
           
           Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
           
-          ![Shed and Slab Elements](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/theme-elements-matrix_crop.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Search_Combines.png)
           </div>
         </div>
 
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-elements-shed.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Combine_Slab-Shed.png)
         
         #### Slab Shed
         
@@ -124,7 +124,7 @@ content:
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-elements-tower.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Combine_Tower-Shed.png)
         
         #### Tower Shed
         
@@ -133,7 +133,7 @@ content:
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-elements-slab.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Combine_Tower-Slab.png)
         
         #### Tower Slab
         
@@ -150,14 +150,14 @@ content:
           
           Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
           
-          ![Shed and Slab Elements](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/theme-elements-matrix_crop.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Search_Compounds.png)
           </div>
         </div>
 
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-elements-shed.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Compound_222.png)
         
         #### Tower Slab Shed
         
@@ -166,7 +166,7 @@ content:
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-elements-tower.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Compound_211.png)
         
         #### Shed Slab Tower
         
@@ -175,7 +175,7 @@ content:
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-elements-slab.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Compound_122.png)
         
         #### Slab Tower Shed
         
