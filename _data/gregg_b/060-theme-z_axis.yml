@@ -23,13 +23,14 @@ content:
       content: |
 
         The z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.
+        
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z-Types-Close.gif)
 
         <div class="grid">
         
           <div class="column sixth" markdown="1">
         
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type_Element.gif)
-        
+
           <h4><br/>Elements</h4>
 
           <h6>Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as  aggregate elements incapable of standing alone.</h6>
@@ -38,8 +39,7 @@ content:
         
           <div class="column sixth" markdown="1">
         
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type_Combine.gif)
-        
+
           <h4><br/>Combine</h4>
 
           <h6>Combines Occupy The Middle Three Planes Of The Search Space. Because They Combine Two Base Forms, Combines Are Capable Of Hosting Multiple Variations Of A Single Use. Being More Complete In And Of Themselves, They Are Aggregate Elements Capable Of Standing Alone.</h6>
@@ -48,7 +48,6 @@ content:
           
           <div class="column sixth" markdown="1">
         
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type-Compound.gif)
 
           <h4><br/>Compound</h4>
 
