@@ -2,15 +2,15 @@ title: Z Axis – Block Type
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z0.png
 animation: stop
 animationFrames:
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z9.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z8.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z7.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z6.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z5.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z4.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z3.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z2.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z1.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Y9.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Y8.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Y7.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Y6.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Y5.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Y4.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Y3.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Y2.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Y1.png
   
 section:
  - short
@@ -22,9 +22,9 @@ content:
     - width: half
       content: |
 
-        The z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.
+        The Y axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.
         
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z-Types-Close.gif)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Types-Close.gif)
 
         <div class="grid">
         
