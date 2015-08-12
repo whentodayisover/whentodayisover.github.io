@@ -1,0 +1,5 @@
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2045f_Small-Blocks.png
+animation: fade
+animationFrames:
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2055f_Large-Blocks.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2065f_Super-Blocks.png
