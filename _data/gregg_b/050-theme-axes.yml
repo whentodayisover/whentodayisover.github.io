@@ -33,8 +33,32 @@ content:
 
     - width: third
       content: |
+        
+        # Y Block Type
+        
+        <div class="grid">
+        
+          <div class="column sixth" markdown="1">
+        
+          1. ![Type ](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type-Still.png)
+          2. ![Elements, Single Type](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type_Element.gif)
+          3. ![Combines, Two Types](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type_Combine.gif)
+          4. ![Compounds, Three Mixed Types](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type-Compound.gif)
 
-        # Y Block Distribution
+          </div>
+        
+          <div class="column sixth" markdown="1">
+
+          The z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.
+        
+          </div>
+        
+        </div>
+        
+    - width: third
+      content: |
+
+        # Z Block Shape
         
         <div class="grid">
         
@@ -55,29 +79,6 @@ content:
           
         </div>
         
-    - width: third
-      content: |
-        
-        # Z Block Type
-        
-        <div class="grid">
-        
-          <div class="column sixth" markdown="1">
-        
-          1. ![Type ](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type-Still.png)
-          2. ![Elements, Single Type](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type_Element.gif)
-          3. ![Combines, Two Types](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type_Combine.gif)
-          4. ![Compounds, Three Mixed Types](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Type-Compound.gif)
-
-          </div>
-        
-          <div class="column sixth" markdown="1">
-
-          The z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.
-        
-          </div>
-        
-        </div>
   -
     - width: full
       content: |
