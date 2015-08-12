@@ -6,7 +6,7 @@ animationFrames:
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z2.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z3.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z4.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Y5.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z5.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z6.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z7.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z8.png
@@ -24,6 +24,7 @@ content:
         The Z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.
         
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/3Z-Shapes-Close.gif)
+        
         <div class="grid">
         
           <div class="column sixth" markdown="1">
@@ -78,7 +79,7 @@ content:
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z2_I2.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z3_I3.png)
         
         #### Centered
         
@@ -110,7 +111,7 @@ content:
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z4_L2.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z5_L2.png)
         
         #### Away from Spine
         
@@ -119,7 +120,7 @@ content:
     - width: sixth
       content: |
       
-        ![])
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z6_L3.png)
         
         #### Centered
         
@@ -151,7 +152,7 @@ content:
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z7_U2.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z8_U2.png)
         
         #### Away from Spine
         
@@ -160,7 +161,7 @@ content:
     - width: sixth
       content: |
       
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z7_U3.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z9_U3.png)
         
         #### Centered
         
