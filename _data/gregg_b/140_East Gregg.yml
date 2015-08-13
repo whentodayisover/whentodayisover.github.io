@@ -6,14 +6,19 @@ layout:
   - half
 content:
   -
-    - width: third
+    - width: full
       content: |
         
+        <div class="grid">
         
-        Buildings oriented away from the spine create a decentralized neighborhood with maximum open space. Extending into the edges of the holdout, Gregg east blurs the edges between the preserved fabric, the forest and new, large-scale construction. 
-        
-        Idus dolorup tatecab oressit atium, illecte nus suntiaectur sequam core, se mosamus cietur? Cernatur aut re, tem voloresequi nullore rovitib eatemporum veris et omnimolum ipidist, cupta quas et odi dest, te dent endignist, niendae nimolupta coratur esciet quat essuntotam vel magnim sunt volorro remolut ut pra eate aped ut aliquam eum etus quis quis moditatur am liqui quam, consed ute nienimporum quid molore, solendam quam qui ut quibusa nduciis quiaerro beaquisi omnita aut es venieni mporum cusam quati in prae num et es maiorerum et litat.
-        
+          <div class="column third" markdown="1"> 
+          
+          Buildings oriented away from the spine create a decentralized neighborhood with maximum open space. Extending into the edges of the holdout, Gregg east blurs the edges between the preserved fabric, the forest and new, large-scale construction. 
+          
+          Idus dolorup tatecab oressit atium, illecte nus suntiaectur sequam core, se mosamus cietur? Cernatur aut re, tem voloresequi nullore rovitib eatemporum veris et omnimolum ipidist, cupta quas et odi dest, te dent endignist, niendae nimolupta coratur esciet quat essuntotam vel magnim sunt volorro remolut ut pra eate aped ut aliquam eum etus quis quis moditatur am liqui quam, consed ute nienimporum quid molore, solendam quam qui ut quibusa nduciis quiaerro beaquisi omnita aut es venieni mporum cusam quati in prae num et es maiorerum et litat.
+ 
+          </div>
+ 
         <div class="grid">
         
           <div class="column third" markdown="1">
