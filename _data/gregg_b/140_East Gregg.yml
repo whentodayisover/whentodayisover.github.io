@@ -6,7 +6,7 @@ layout:
   - half
 content:
   -
-    - width: full
+    - width: half
       content: |
         
         <div class="grid">
