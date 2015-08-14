@@ -1,0 +1,43 @@
+title: Gregg South
+section:
+  - long
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/s0.png
+layout:
+  - half
+content:
+  -
+    - width: half
+      content: |
+        <div class="grid">
+        
+          <div class="column third" markdown="1">
+          
+          Large buildings centered along Gregg street create a dense urban spine to support offices and retail a short walk away from the preserved fabric of the holdout. Residences retreat along the side streets of this compact new neighborhood.
+         
+          Idus dolorup tatecab oressit atium, illecte nus suntiaectur sequam core, se mosamus cietur coratur esciet quat essuntotam vel magnim sunt volorro remolut ut pra eate aped ut aliquam eum etus quis quis moditatur am liqui quam, consed ute nienimporum quid molore, solendam quam qui ut quibusa nduciis quiaerro beaquisi omnita aut es venieni mporum cusam quati in prae num et es maiorerum et litat.
+         
+         <h2>A dense urban spine of new development steps away from the holdout preserve</h2>
+         </div>
+          
+         <div class="column sixth" markdown="1"> 
+          ![South Gregg Deep Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Plan_Close_South.png)
+          
+          </div>
+        </div>
+        
+        #### Selection Planes
+        <div class="grid">
+          <div class="column sixth" markdown="1">
+        
+          ![I-shapes, Next to Spine](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/I-Spine.png)
+          </div>
+          <div class="column sixth" markdown="1">
+        
+          ![Elements, Away from Spine](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/I-Small.png)
+          </div>
+          
+          <div class="column sixth" markdown="1">
+        
+          ![U-shapes, Away from Spine](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/U-South.png)
+          </div>
+        </div>
