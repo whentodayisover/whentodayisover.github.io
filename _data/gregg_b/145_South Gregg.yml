@@ -1,0 +1,9 @@
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/s1.png
+animation: stop
+animationFrames:
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/s1.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/s2.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/s3.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/s4.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/s5.png
+
