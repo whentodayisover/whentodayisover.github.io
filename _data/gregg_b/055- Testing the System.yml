@@ -1,0 +1,27 @@
+title: Testing the System
+section:
+  - short
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/South_2055.png
+layout:
+  - half
+
+content:
+  -
+    - width: third
+      content: |
+        
+        In the four neighborhoods of the Gregg district, we have sought to test the limits of the Search Space. Each neighborhood is built from different selection criteria: block sizes, type and shape. 
+        
+        Spanning 4 city blocks, the largest buildings are up to two tenths of a mile in length. Such economies of scale will not be reached until the later phases of the plan, so these super-blocks are most prevalent in Gregg North and East, the last neighborhoods to be established. However, a few construction lots in Gregg South were left fallow in early years, hosting plantations until populations and economics could support this largest scale of construction. 
+        
+        ## The four test cases show the diversity of forms the search space enables, from detached self-contained estates to dense, integrated urban spines.
+       
+        <div class="grid">
+          <div class="column third" markdown="1">
+           1. ![Gregg District](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Plan_Diagram_Gregg.png)
+           2. ![East Gregg](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Plan_Close_East.png)
+           3. ![Gregg North](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Plan_Close_North.png)
+           4. ![Gregg South](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Plan_Close_South.png)
+           5. ![West Gregg](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Plan_Close_West.png)
+           </div>
+        </div>
