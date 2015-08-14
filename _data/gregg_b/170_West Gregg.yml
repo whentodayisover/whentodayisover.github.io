@@ -11,10 +11,6 @@ content:
       content: |
         <div class="grid">
          
-         <div class="column sixth" markdown="1"> 
-          ![West Gregg Deep Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Plan_Close_West.png)
-          
-          </div> 
           
           <div class="column third" markdown="1">
           
@@ -24,7 +20,11 @@ content:
          
          <h2>L and U shaped Building selections create a detached autonomous estate.</h2>
          </div>
+         
+         <div class="column sixth" markdown="1"> 
+          ![West Gregg Deep Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Plan_Close_West.png)
           
+          </div> 
 
         </div>
         
