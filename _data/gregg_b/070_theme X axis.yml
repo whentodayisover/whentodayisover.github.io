@@ -31,6 +31,8 @@ content:
         
           <h4><br/><center>Small Blocks</center></h4>
           
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Blank_Blue.png)
+          
           </div>
         
           <div class="column sixth" markdown="1">
@@ -42,11 +44,15 @@ content:
           <div class="column sixth" markdown="1">
         
           <h4><br/><center>Super-blocks</center></h4>
+          
  
-           </div>
+          </div>
         
         </div>
         
+  -
+    - width: half
+      content: |
         ## Small Blocks
         
         <div class="grid">
