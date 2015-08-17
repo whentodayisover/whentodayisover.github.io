@@ -1,4 +1,4 @@
-title: X Axis: Size
+title: X Axis – Size
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/X0.png
 animation: stop
 animationFrames:
@@ -21,7 +21,7 @@ content:
   -
     - width: half
       content: |
-        Leveraging economies of scale, a range of sizes are built into the search space, spanning from today's 300 foot square dimension of a Fifth Ward city block all the way up to extreme 1500'x 300' super-blocks. This broad array of possible sizes allows new scales of building to bridge over time from the historical dimensions of the ward to new heights and densities that can support both affordable unit prices and environmental efficiencies, mass transit and integrated open spaces.
+        Leveraging economies of scale, a range of block sizes are built into the search space, spanning from today's 300 foot square dimension of a Fifth Ward city block all the way up to extreme 1500'x 300' super-blocks. This broad array of possible sizes allows new scales of building to bridge over time from the historical dimensions of the ward to new heights and densities that can support both affordable unit prices and environmental efficiencies, mass transit and integrated open spaces.
         
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/3X-Sizes-Close.gif)
 
