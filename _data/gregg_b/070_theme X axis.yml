@@ -1,0 +1,175 @@
+title: Z Axis – Block Shape
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/X0.png
+animation: stop
+animationFrames:
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/X1.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/X2.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/X3.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/X4.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/X5.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/X6.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/X7.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/X8.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/X9.png
+  
+section:
+  - short
+layout:
+  - half
+  - dark
+content:
+  -
+    - width: half
+      content: |
+        Leveraging economies of scale, a range of sizes are built into the search space, spanning from today's 300 foot square dimension of a Fifth Ward city block all the way up to extreme 1500'x 300' super-blocks. This broad array of possible sizes allows new scales of building to bridge over time from the historical dimensions of the ward to new heights and densities that can support both affordable unit prices and environmental efficiencies, mass transit and integrated open spaces.
+        
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/3X-Sizes-Close.gif)
+        
+        <div class="grid">
+        
+          <div class="column sixth" markdown="1">
+        
+          <h4><br/><center>Small Blocks</center></h4>
+          
+          </div>
+        
+          <div class="column sixth" markdown="1">
+        
+          <h4><br/><center>Large Blocks</center></h4>
+
+          </div>
+          
+          <div class="column sixth" markdown="1">
+        
+          <h4><br/><center>Super-blocks</center></h4>
+ 
+           </div>
+        
+        </div>
+        
+        ## Small Blocks
+        
+        <div class="grid">
+        
+          <div class="column third" markdown="1">
+          
+         Traditional city blocks, 300'x300' plots that contain multiple buildings built by many people over a time, come from a mode of production that cannot replicated en masse today. The economics of modern development can mimic the hodge-podge of building styles we have come to expect from city cores built before 1950 by erecting what appears like a diversity of building types within a single project, but this strategy works against the possible benefits of accumulation. Instead of larger, efficient buildings that could accommodate today's residents at market rates, enclaves of false historicism simulate a style while displacing the population. 
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/SearchX_Small.png)
+          </div>
+        </div>
+    - width: sixth
+      content: |
+      
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/X1_4.png)
+        
+        #### 300', Traditional City Block
+        
+ 
+         
+    - width: sixth
+      content: |
+      
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z2_I2.png)
+        
+        #### 400 feet
+        
+ 
+         
+    - width: sixth
+      content: |
+      
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z3_I3.png)
+        
+        #### 500 feet
+        
+
+        
+  -
+    - width: half
+      content: |
+        ## Large Blocks
+        
+        <div class="grid">
+        
+          <div class="column third" markdown="1">
+          
+          If we are to offer a city that can respond both to the environmental demands of the future and the social responsibilities of the present, larger buildings are needed. Ibus, culestimus iam in serei caequod ictabem suliqui deribus forsuam macivem popterf irturei pubit, utes essenirmanum se ta, se perunte rnitam tesciaes ex se tem viritienduc resicam iu consus, uteri pos virmiliam Palatia Si plicaus viverob sestoribus perfin similiam. Udent, untiusa tilis, nos horum sermaio vil tem moverfin Ita isuam derbis, cre et, Catam publibu ntremulis consi permis, cus me deffrei inatus pro nihil ventiquam quius videtorbene.
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/SearchX_Large.png)
+          </div>
+        </div>
+    - width: sixth
+      content: |
+      
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/X4_10.png)
+        
+        #### 600 feet
+        
+
+        
+    - width: sixth
+      content: |
+      
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/X5_12.png)
+        
+        #### 700 feet
+        
+ 
+        
+    - width: sixth
+      content: |
+      
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/X6_14.png)
+        
+        #### 800 feet
+        
+ 
+        
+  -
+    - width: half
+      content: |
+        ## Super-Blocks
+        
+        <div class="grid">
+        
+          <div class="column third" markdown="1">
+          
+          Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/SearchX_Super.png)
+          </div>
+        </div>
+    - width: sixth
+      content: |
+      
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Z7_U1.png)
+        
+        <h4><center>Weighted to Spine</h4></center>
+        
+ 
+        
+    - width: sixth
+      content: |
+      
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/X7_16.png)
+        
+        #### 900 feet
+        
+
+ 
+    - width: sixth
+      content: |
+      
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/X8_18.png)
+        
+        #### 1000 feet
+        
+
+    - width: sixth
+      content: |
+      
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/X9_20.png)
+        
+        #### 1100 feet 
+ 
