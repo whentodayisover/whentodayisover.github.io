@@ -1,3 +1,4 @@
+title: Three Planes of Selection
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/South_2055.png
 section:
  - short
@@ -15,11 +16,8 @@ content:
         <div class="grid">
         
           <div class="column sixth" markdown="1">
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size-Close.gif)
 
-          1. ![Size ](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size-Still.png)
-          2. ![Small Blocks, 200' to 500 ft](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Small.gif)
-          3. ![Large Blocks, 600' to 900 ft](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Large.gif)
-          4. ![Superblocks, over 1000 ft](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/X-Size_Super.gif)
 
           </div>
           
@@ -40,10 +38,7 @@ content:
         
           <div class="column sixth" markdown="1">
         
-          1. ![Type ](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Type-Still.png)
-          2. ![Elements, Single Type](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Type_Element.gif)
-          3. ![Combines, Two Types](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Type_Combine.gif)
-          4. ![Compounds, Three Mixed Types](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Type-Compound.gif)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Y-Type-Close.gif)
 
           </div>
         
@@ -64,10 +59,7 @@ content:
         
           <div class="column sixth" markdown="1">
 
-          1. ![Shape and Distribution](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Distribution-Still.png)
-          2. ![I-shapes, most open](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Distribution-I.gif)
-          3. ![L-shapes, partially closed](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Distribution-L.gif)
-          4. ![U-shapes, most closed](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Distribution-U.gif)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Z-Shape-Close.gif)
 
           </div>
           
@@ -80,8 +72,44 @@ content:
         </div>
         
   -
-    - width: full
+    - width: third
       content: |
 
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/XYZ_Block.gif)
-        
+        1. ![Size](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_Plane.png)
+        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_300ft.png)
+        3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_400ft.png)
+        4. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_500ft.png)
+        5. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_600ft.png)
+        6. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_700ft.png)
+        7. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_800ft.png)
+        8. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_900ft.png)
+        9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_1000ft.png)
+        10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_1100ft.png)
+
+    - width: third
+      content: |
+
+        1. ![Type](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type0_Plane.png)
+        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type1_Element.png)
+        3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type2_Element.png)
+        4. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type3_Element.png)
+        5. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type4_Combine.png)
+        6. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type5_Combine.png)
+        7. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type6_Combine.png)
+        8. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type7_Compound.png)
+        9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type8_Compound.png)
+        10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type9_Compound.png)
+
+    - width: third
+      content: |
+
+        1. ![Shape](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape0_Plane.png)
+        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape1_I1.png)
+        3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape2_I2.png)
+        4. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape3_I3.png)
+        5. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape4_L1.png)
+        6. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape5_L2.png)
+        7. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape6_L3.png)
+        8. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape7_U1.png)
+        9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape8_U2.png)
+        10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape9_U3.png)
