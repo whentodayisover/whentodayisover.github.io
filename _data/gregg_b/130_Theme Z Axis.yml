@@ -1,4 +1,4 @@
-title: Z Axis – Block Shape
+title: Z – Shape
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/Z0.png
 animation: stop
 animationFrames:
@@ -42,19 +42,24 @@ content:
           <div class="column sixth" markdown="1">
         
           <h4><br/><center>U-Shapes</center></h4>
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Blank_Blue.png)
  
            </div>
         
         </div>
-        
+  -
+    - width: half
+      content: |
         ## I-Shapes
         
+         Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
+ 
         <div class="grid">
         
           <div class="column third" markdown="1">
           
-          Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
-          
+         
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/SearchZ_I.png)
           </div>
         </div>
@@ -65,6 +70,7 @@ content:
         
         <h4><center> Weighted to Spine</h4></center>
         
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/I1.png)
  
          
     - width: sixth
@@ -74,6 +80,7 @@ content:
         
         <h4><center>Away from Spine</h4></center>
         
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/I2.png)
  
          
     - width: sixth
@@ -83,19 +90,22 @@ content:
         
         <h4><center>Centered</h4></center>
         
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/I3.png)
+        
+       ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Blank_Blue.png)
 
         
   -
     - width: half
       content: |
         ## L-Shapes
-        
+          Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
+ 
         <div class="grid">
         
           <div class="column third" markdown="1">
           
-          Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
-          
+         
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/SearchZ_L.png)
           </div>
         </div>
@@ -106,6 +116,7 @@ content:
         
         <h4><center>Weighted to Spine</h4></center>
         
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/L1.png)
 
         
     - width: sixth
@@ -115,6 +126,7 @@ content:
         
         <h4><center>Away from Spine</h4></center>
         
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/L2.png)
  
         
     - width: sixth
@@ -124,19 +136,21 @@ content:
         
         <h4><center>Centered</h4></center>
         
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/L3.png)
  
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Blank_Blue.png)
         
   -
     - width: half
       content: |
         ## U-Shapes
-        
+        Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
+   
         <div class="grid">
         
           <div class="column third" markdown="1">
           
-          Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
-          
+         
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/SearchZ_U.png)
           </div>
         </div>
@@ -147,6 +161,7 @@ content:
         
         <h4><center>Weighted to Spine</h4></center>
         
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/U1.png)
  
         
     - width: sixth
@@ -156,6 +171,7 @@ content:
         
         <h4><center>Away from Spine</h4></center>
         
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/U2.png)
 
  
     - width: sixth
@@ -165,5 +181,7 @@ content:
         
         <h4><center>Centered</h4></center>
         
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/U3.png)
  
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Blank_Blue.png)
  
