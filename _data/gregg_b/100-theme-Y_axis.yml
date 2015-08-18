@@ -45,7 +45,7 @@ content:
           <h4><br/>Combines</h4>
 
           <h6>Combines Occupy The Middle Three Planes Of The Search Space. Because They Combine Two Base Forms, Combines Are Capable Of Hosting Multiple Variations Of A Single Use. Being More Complete In And Of Themselves, They Are Aggregate Elements Capable Of Standing Alone.</h6>
-
+         
           </div>
           
           <div class="column sixth" markdown="1">
@@ -79,6 +79,7 @@ content:
         
         The slab is the classic middle ground element of the plan. Primarily containing residential spaces, the slab mediates between the tower and the ground plane of sheds and tree plantations.  Smaller building lots are concentrated in gregg south. Here, economies of scale and large block sizes have not yet reached their peak in the first neighborhood to be constructed. 
 
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Slab.png)
         
     - width: sixth
       content: |
@@ -88,8 +89,8 @@ content:
         
         #### The Shed
         
-        Because of its predominant orientation to the ground plane, the shed is the principal public element of carbon 2065. In large and superblocks, the shed takes on the role of a podium. Smaller building lots are concentrated in gregg south. Here, economies of scale and large block sizes have not yet reached their peak in the first neighborhood to be constructed. A second cluster of smaller blocks in exists in the northern arm, where the existing infrastructure splits larger blocks in two.
- 
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shed.png)
+
        
     - width: sixth
       content: |
@@ -98,8 +99,9 @@ content:
        
         #### The Tower
         
-        Because of the high densities involved in reducing per capita energy consumption, the tower is the predominant form in carbon 2065. Smaller building lots are concentrated in gregg south. Here, economies of scale and large block sizes have not yet reached their peak in the first neighborhood to be constructed. A second cluster of smaller blocks in exists in the northern arm, where the existing infrastructure splits larger blocks in two.
- 
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Tower.png)
+        
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Blank_Blue.png)
         
         
   -
@@ -107,12 +109,13 @@ content:
       content: |
         ## Combines
         
+        Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
+ 
         <div class="grid">
         
           <div class="column third" markdown="1">
           
-          Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
-          
+         
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Search_Combines.png)
           </div>
         </div>
@@ -124,7 +127,7 @@ content:
         
         #### Slab Shed
         
-        Because of its predominant orientation to the ground plane, the shed is the principal public element of carbon 2065. In large and superblocks, the shed takes on the role of a podium. Smaller building lots are concentrated in gregg south. Here, economies of scale and large block sizes have not yet reached their peak in the first neighborhood to be constructed. A second cluster of smaller blocks in exists in the northern arm, where the existing infrastructure splits larger blocks in two.
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Slab-Shed.png)
         
     - width: sixth
       content: |
@@ -133,7 +136,7 @@ content:
         
         #### Tower Shed
         
-        Because of the high densities involved in reducing per capita energy consumption, the tower is the predominant form in carbon 2065. Smaller building lots are concentrated in gregg south. Here, economies of scale and large block sizes have not yet reached their peak in the first neighborhood to be constructed. A second cluster of smaller blocks in exists in the northern arm, where the existing infrastructure splits larger blocks in two.
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Tower-Shed.png)
         
     - width: sixth
       content: |
@@ -142,31 +145,25 @@ content:
         
         #### Tower Slab
         
-        The slab is the classic middle ground element of the plan. Primarily containing residential spaces, the slab mediates between the tower and the ground plane of sheds and tree plantations.  Smaller building lots are concentrated in gregg south. Here, economies of scale and large block sizes have not yet reached their peak in the first neighborhood to be constructed. 
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Tower-Slab.png)
         
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Blank_Blue.png)
   -
     - width: half
       content: |
         ## Compounds
         
+        Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
+ 
         <div class="grid">
         
           <div class="column third" markdown="1">
-          
-          Elements occupy the top three planes of the search space. Because they contain just one base form, elements typically host a single use. Being incomplete, they can only be deployed as aggregate elements incapable of standing alone. Habussimo condam obultore mera rebus; nonsupio, converi onsimul issimil virtiorum anum consus
           
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Search_Compounds.png)
           </div>
         </div>
 
-    - width: sixth
-      content: |
-      
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Compound_222.png)
-        
-        #### Tower Slab Shed
-        
-        Because of its predominant orientation to the ground plane, the shed is the principal public element of carbon 2065. In large and superblocks, the shed takes on the role of a podium. Smaller building lots are concentrated in gregg south. Here, economies of scale and large block sizes have not yet reached their peak in the first neighborhood to be constructed. A second cluster of smaller blocks in exists in the northern arm, where the existing infrastructure splits larger blocks in two.
+
         
     - width: sixth
       content: |
@@ -175,7 +172,7 @@ content:
         
         #### Shed Slab Tower
         
-        Because of the high densities involved in reducing per capita energy consumption, the tower is the predominant form in carbon 2065. Smaller building lots are concentrated in gregg south. Here, economies of scale and large block sizes have not yet reached their peak in the first neighborhood to be constructed. A second cluster of smaller blocks in exists in the northern arm, where the existing infrastructure splits larger blocks in two.
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shed-Slab-Tower.png)
         
     - width: sixth
       content: |
@@ -184,10 +181,18 @@ content:
         
         #### Slab Tower Shed
         
-        The slab is the classic middle ground element of the plan. Primarily containing residential spaces, the slab mediates between the tower and the ground plane of sheds and tree plantations.  Smaller building lots are concentrated in gregg south. Here, economies of scale and large block sizes have not yet reached their peak in the first neighborhood to be constructed. 
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Slab-Tower-Shed.png)
+        
+     - width: sixth
+      content: |
+      
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Compound_222.png)
+        
+        #### Tower Slab Shed
+        
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Tower-Slab-Shed.png)
 
- 
-
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Blank_Blue.png)
  
  
 
