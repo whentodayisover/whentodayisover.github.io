@@ -50,6 +50,7 @@ content:
         9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape8_U2.png)
         10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape9_U3.png)
         
+  -
     - width: third
       content: |
       
@@ -75,6 +76,7 @@ content:
         
         The y axis of the search space introduces the size of the block while the z axis introduces the building type. The third axis of the search space introduces the distribution of the building types  across variable block sizes. Based on directionality and emphasis, it introduces  variations into the first order of block aggregation.
         
+  -
     - width: full
       content: |
       ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/3XYZ_Close.gif)
