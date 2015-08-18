@@ -11,7 +11,7 @@ content:
     - width: third
       content: |
       
-        # X Block Size
+        ## X Size
         
         <div class="grid">
         
@@ -32,7 +32,7 @@ content:
     - width: third
       content: |
         
-        # Y Block Type
+        ## Y Type
         
         <div class="grid">
         
@@ -53,7 +53,7 @@ content:
     - width: third
       content: |
 
-        # Z Block Shape
+        ## Z Shape
         
         <div class="grid">
         
@@ -76,15 +76,15 @@ content:
       content: |
 
         1. ![Size](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_Plane.png)
-        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_300ft.png)
-        3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_400ft.png)
-        4. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_500ft.png)
-        5. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_600ft.png)
-        6. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_700ft.png)
-        7. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_800ft.png)
-        8. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_900ft.png)
-        9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_1000ft.png)
-        10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_1100ft.png)
+        2. ![asdf](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_300ft.png)
+        3. ![asdf](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_400ft.png)
+        4. ![asdf](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_500ft.png)
+        5. ![asdf](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_600ft.png)
+        6. ![asdf](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_700ft.png)
+        7. ![asdf](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_800ft.png)
+        8. ![asdf](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_900ft.png)
+        9. ![asdf](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_1000ft.png)
+        10. ![asdf](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_1100ft.png)
 
     - width: third
       content: |
