@@ -13,61 +13,64 @@ content:
       
         <div class="grid">
           <div class="column third" markdown="1">
-        1. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_Plane.png)
-        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_300ft.png)
-        3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_400ft.png)
-        4. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_500ft.png)
-        5. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_600ft.png)
-        6. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_700ft.png)
-        7. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_800ft.png)
-        8. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_900ft.png)
-        9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_1000ft.png)
-        10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_1100ft.png)
-        
-        <br>
-        <h2>X Size</h2>
-        
-        A range of block sizes are built into the y axis of the search space. The sizes are based on the 300’ square dimension of the fifth ward city block. They range from 300’ x 300’ traditional block size to the 300’ x 1500’ superblock size capable of accommodating large building projects and of achieving significant economies of scale. Past a length of 1500’ the blocks transition into bands of cultivation.
+          1. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_Plane.png)
+          2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_300ft.png)
+          3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_400ft.png)
+          4. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_500ft.png)
+          5. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_600ft.png)
+          6. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_700ft.png)
+          7. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_800ft.png)
+          8. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_900ft.png)
+          9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_1000ft.png)
+          10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Size_1100ft.png)
+          
+          <br>
+          
+          <h2>X Size</h2>
+          
+          A range of block sizes are built into the y axis of the search space. The sizes are based on the 300’ square dimension of the fifth ward city block. They range from 300’ x 300’ traditional block size to the 300’ x 1500’ superblock size capable of accommodating large building projects and of achieving significant economies of scale. Past a length of 1500’ the blocks transition into bands of cultivation.
           
           </div>
           
           <div class="column third" markdown="1">
-        1. ![Type](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type0_Plane.png)
-        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type1_Element.png)
-        3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type2_Element.png)
-        4. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type3_Element.png)
-        5. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type4_Combine.png)
-        6. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type5_Combine.png)
-        7. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type6_Combine.png)
-        8. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type7_Compound.png)
-        9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type8_Compound.png)
-        10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type9_Compound.png)
-        
-        <br>
-       <h2>Y Type</h2>
-        
-        The z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.
+          1. ![Type](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type0_Plane.png)
+          2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type1_Element.png)
+          3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type2_Element.png)
+          4. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type3_Element.png)
+          5. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type4_Combine.png)
+          6. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type5_Combine.png)
+          7. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type6_Combine.png)
+          8. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type7_Compound.png)
+          9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type8_Compound.png)
+          10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type9_Compound.png)
+          
+          <br>
+          
+          <h2>Y Type</h2>
+          
+          The z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.
           </div>
           
           <div class="column third" markdown="1">
-        1. ![Shape](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape0_Plane.png)
-        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape1_I1.png)
-        3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape2_I2.png)
-        4. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape3_I3.png)
-        5. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape4_L1.png)
-        6. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape5_L2.png)
-        7. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape6_L3.png)
-        8. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape7_U1.png)
-        9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape8_U2.png)
-        10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape9_U3.png)
-        
-        <br>
-        <h2>Z Shape</h2>
-        
-        The y axis of the search space introduces the size of the block while the z axis introduces the building type. The third axis of the search space introduces the distribution of the building types  across variable block sizes. Based on directionality and emphasis, it introduces  variations into the first order of block aggregation.
+          1. ![Shape](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape0_Plane.png)
+          2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape1_I1.png)
+          3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape2_I2.png)
+          4. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape3_I3.png)
+          5. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape4_L1.png)
+          6. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape5_L2.png)
+          7. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape6_L3.png)
+          8. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape7_U1.png)
+          9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape8_U2.png)
+          10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Shape9_U3.png)
+          
+          <br>
+          <h2>Z Shape</h2>
+          
+          The y axis of the search space introduces the size of the block while the z axis introduces the building type. The third axis of the search space introduces the distribution of the building types  across variable block sizes. Based on directionality and emphasis, it introduces  variations into the first order of block aggregation.
+          
           </div>
         </div>
-
-      ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/3XYZ_Close.gif)
+        
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/3XYZ_Close.gif)
 
 
