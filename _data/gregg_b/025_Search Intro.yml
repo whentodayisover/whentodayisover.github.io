@@ -26,19 +26,19 @@ content:
         <div class="grid">
 
           <div class="column third" markdown="1">
-          ![ X](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_z.png)
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_z.png)
           </div>
 
           <div class="column third" markdown="1">
-          ![ Y](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_y.png)
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_y.png)
           </div>
 
           <div class="column third" markdown="1">
-          ![ Z](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_x.png)
+          ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_x.png)
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Blank_Blue.png)
           </div>
           
-    - width: full
+    - width: half
       content: |  
         <div class="grid">
           <div class="column sixth" markdown="1">
@@ -51,7 +51,7 @@ content:
           </div>
         </div>
         
-    - width: full
+    - width: half
       content: |
         <div class="grid">
           <div class="column sixth" markdown="1">
@@ -65,7 +65,7 @@ content:
           </div>
         </div>
         
-    - width: full
+    - width: half
       content: |
         <div class="grid">
           <div class="column sixth" markdown="1">
