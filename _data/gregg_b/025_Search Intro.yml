@@ -14,7 +14,7 @@ layout:
   - dark
 content:
   -
-    - width: half
+    - width: full
       content: |
 
         Traditionally, urban development relied heavily on the deployment of typical forms. In american cities, these forms remain recognizable today as street grids hosting a regular arrangement of urban blocks. On these blocks, other typical forms were deployed. Familiar o-shape, u-shape, t-shape and even e-shaped buildings can still to be found today in our older central business districts.
@@ -24,7 +24,6 @@ content:
         The static spine or grid must give way to a far more diverse set of blocks sizes, and a far more diverse set of block types that are distributed with a higher degree of variation that we have had both in the near and distant future.
 
         <div class="grid">
-
           <div class="column third" markdown="1">
           ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_z.png)
           </div>
@@ -40,12 +39,16 @@ content:
   -
     - width: half
       content: |  
-        ### Tower
-        The Z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.
-
-    - width: third
-      content: |  
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Tower.png)
+        <div class="grid">
+          <div class="column half" markdown="1">
+          ### Tower
+          The Z axis of the search space addresses the building types that are employed throughout the plan.  As opposed to a static typology of houses, slabs, sheds and towers, the search space produces a dynamic set of variations of these base elements integrating them into second and third order forms called combines and compounds. As opposed to a single solution to any given building  problem. The search space delivers a series of potential variations calibrated against the parameters of size and distribution found in the other two axes.
+          </div>
+          
+          <div class="column half" markdown="1">
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Tower.png)
+          </div>
+        </div>
 
   -
     - width: half
