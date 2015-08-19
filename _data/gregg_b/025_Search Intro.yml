@@ -37,6 +37,8 @@ content:
           ![Z](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_z.png)
           </div>
           
+    - width: full
+      content: |  
         </div>
         
         <div class="grid">
@@ -51,7 +53,8 @@ content:
           </div>
         </div>
         
-        
+    - width: full
+      content: |
         <div class="grid">
           <div class="column half" markdown="1">
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Slab.png)
@@ -64,7 +67,9 @@ content:
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Blank_Blue.png)
           </div>
         </div>
-       
+        
+    - width: full
+      content: |
         <div class="grid">
           <div class="column half" markdown="1">
           ![Shed](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Shed.png)
