@@ -51,22 +51,29 @@ content:
         </div>
 
   -
-    - width: half
-      content: |
-        ### Slab
-        A range of block sizes are built into the y axis of the search space. The sizes are based on the 300’ square dimension of the fifth ward city block. They range from 300’ x 300’ traditional block size to the 300’ x 1500’ superblock size capable of accommodating large building projects and of achieving significant economies of scale. Past a length of 1500’ the blocks transition into bands of cultivation.
-
-    - width: third
-      content: |
-       ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Slab.png)
-
+    - width: full
+      content: |  
+        <div class="grid">
+          <div class="column half" markdown="1">
+          <h3> Slab</h3>
+          A range of block sizes are built into the y axis of the search space. The sizes are based on the 300’ square dimension of the fifth ward city block. They range from 300’ x 300’ traditional block size to the 300’ x 1500’ superblock size capable of accommodating large building projects and of achieving significant economies of scale. Past a length of 1500’ the blocks transition into bands of cultivation.
+          </div>
+          
+          <div class="column half" markdown="1">
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Slab.png)
+          </div>
+        </div>
   -
-    - width: half
-      content: |
-        ### Shed
-        The y axis of the search space introduces the size of the block while the z axis introduces the building type. The third axis of the search space introduces the distribution of the building types  across variable block sizes. Based on directionality and emphasis, it introduces  variations into the first order of block aggregation.
-
-    - width: third
-      content: |
-       ![Shed](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Shed.png)
+    - width: full
+      content: |  
+        <div class="grid">
+          <div class="column half" markdown="1">
+          <h3> Shed</h3>
+          The y axis of the search space introduces the size of the block while the z axis introduces the building type. The third axis of the search space introduces the distribution of the building types  across variable block sizes. Based on directionality and emphasis, it introduces  variations into the first order of block aggregation.
+          </div>
+          
+         <div class="column half" markdown="1">
+         ![Shed](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Shed.png)
+         </div>
+        </div>
 
