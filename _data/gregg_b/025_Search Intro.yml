@@ -36,7 +36,8 @@ content:
           ![](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_x.png)
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Blank_Blue.png)
           </div>
-  -
+
+
     - width: full
       content: |  
         <div class="grid">
@@ -50,7 +51,7 @@ content:
           </div>
         </div>
 
-
+  -
     - width: full
       content: |  
         <div class="grid">
@@ -63,7 +64,7 @@ content:
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Slab.png)
           </div>
         </div>
-
+  -
     - width: full
       content: |  
         <div class="grid">
