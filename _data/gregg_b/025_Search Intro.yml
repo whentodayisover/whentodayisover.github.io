@@ -29,9 +29,6 @@ content:
 
           ![Y Axis: Block Size (Y/Z Plane)](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_y.png)
 
-          <h4><br/>Y. Slab Development</h4>
-
-          <p>A range of block sizes are built into the y axis of the search space. The sizes are based on the 300’ square dimension of the fifth ward city block. They range from 300’ x 300’ traditional block size to the 300’ x 1500’ superblock size capable of accommodating large building projects and of achieving significant economies of scale. Past a length of 1500’ the blocks transition into bands of cultivation.</p>
 
           </div>
 
@@ -46,9 +43,6 @@ content:
 
           ![X Axis: Block Distribution (Z/X Plane)](https://dl.dropboxusercontent.com/u/14520747/wtio-images/graphics_gregg-assets/theme-search_intro_x.png)
 
-          <h4><br/>X. Shed Development</h4>
-
-          <p>The y axis of the search space introduces the size of the block while the z axis introduces the building type. The third axis of the search space introduces the distribution of the building types  across variable block sizes. Based on directionality and emphasis, it introduces  variations into the first order of block aggregation.</p>
 
           </div>
 
@@ -76,6 +70,12 @@ content:
           </h3>
           </center>
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Slab.png)
+          
+          <div class="column half" markdown="1">
+          <h4>Y. Slab Development</h4>
+
+          <p>A range of block sizes are built into the y axis of the search space. The sizes are based on the 300’ square dimension of the fifth ward city block. They range from 300’ x 300’ traditional block size to the 300’ x 1500’ superblock size capable of accommodating large building projects and of achieving significant economies of scale. Past a length of 1500’ the blocks transition into bands of cultivation.</p>
+          </div>
           <br>
           
           <center>
@@ -87,6 +87,10 @@ content:
           </div>
 
           <div class="column half" markdown="1">
+          
+          <h4>X. Shed Development</h4>
+
+          <p>The y axis of the search space introduces the size of the block while the z axis introduces the building type. The third axis of the search space introduces the distribution of the building types  across variable block sizes. Based on directionality and emphasis, it introduces  variations into the first order of block aggregation.</p>
 
           </div>
         
