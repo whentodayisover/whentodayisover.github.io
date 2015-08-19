@@ -50,7 +50,7 @@ content:
           </div>
         </div>
 
-  -
+
     - width: full
       content: |  
         <div class="grid">
@@ -63,7 +63,7 @@ content:
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Slab.png)
           </div>
         </div>
-  -
+
     - width: full
       content: |  
         <div class="grid">
