@@ -47,7 +47,7 @@ content:
       content: |  
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Tower.png)
 
-
+  -
     - width: half
       content: |
         ### Slab
@@ -57,6 +57,7 @@ content:
       content: |
        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Type_Slab.png)
 
+  -
     - width: half
       content: |
         ### Shed
