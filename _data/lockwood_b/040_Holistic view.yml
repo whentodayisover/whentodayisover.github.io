@@ -33,8 +33,7 @@ content:
     - width: third
       content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Layer_Infrastructure.png)
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
-        
+
     - width: sixth
       content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
@@ -47,8 +46,7 @@ content:
     - width: third
       content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Layer_Construction.png)
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
-        
+
     - width: sixth
       content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
@@ -61,8 +59,7 @@ content:
     - width: third
       content: |  
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Layer_Parcel.png)
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
-        
+
     - width: sixth
       content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
@@ -75,8 +72,7 @@ content:
     - width: third
       content: |  
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Layer_Change.png)
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
-        
+
     - width: sixth
       content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
@@ -89,8 +85,7 @@ content:
     - width: third
       content: |  
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Layer_Forest.png)
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
-        
+
     - width: sixth
       content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
@@ -100,5 +95,4 @@ content:
         
         ###### Trees, biomass and sequestration potential
         
-    - width: third
-      content: |  
+
