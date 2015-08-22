@@ -19,7 +19,7 @@ content:
   -
     - width: half
       content: |
-        Climate change seems resistant to each of the separate technical, political and social approaches that have been thrown at it so far. It is clear that any solution will instead require a synthesis of them all. In other words, we require generalist rather than specialist solutions. There is no quick fix, no single innovation that will change everything, no silver bullet this time. The drastic cuts in energy consumption and carbon emissions necessary require more than new light bulbs or electric cars, they imply a marked change in our high-energy lifestyles, lifestyles that are encoded in the form of our cities. The city is a comprehensive system, and only by questioning our assumptions about its underlying structure and the very general nature of the city and how we inhabit it can we approach a general solution to the environmental, social, and political crisis we face today. Re-coding our patterns of consumption, replacing car centered single-family houses with dense, transit served environments is simultaneously an engineering, political, economic, and cultural problem. In short, it is an urban problem.
+        Climate change seems resistant to each of the separate technical, political and social approaches that have been thrown at it so far. It is clear that any solution will instead require a synthesis of them all. In other words, we require generalist rather than specialist solutions. There is no quick fix, no single innovation that will change everything, no silver bullet this time. The drastic cuts in energy consumption and carbon emissions necessary require more than new light bulbs or electric cars, they imply a marked change in our high-energy lifestyles, lifestyles that are encoded in the form of our cities. The city is a comprehensive system, and only by questioning our assumptions about its underlying structure and how we inhabit it can we approach a general solution to the environmental, social, and political crisis we face today. Re-coding our patterns of consumption, replacing car centered single-family houses with dense, transit served environments is simultaneously an engineering, political, economic, and cultural problem. In short, it is an urban problem.
         
     - width: third
       content: | 
@@ -38,8 +38,9 @@ content:
         
     - width: sixth
       content: | 
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
-        
+      position: relative;
+      top: 50%;
+      transform: translateY(-50%)
         ## Infrastructure
         
         Spines, streets, and organizational structure
@@ -78,7 +79,7 @@ content:
         
         ## Transformation
         
-        Clearing, demolition, harvest and growth
+        Clearing, demolition, harvest and growth cycles
         
     - width: third
       content: |  
