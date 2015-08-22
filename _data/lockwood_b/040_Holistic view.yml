@@ -37,11 +37,10 @@ content:
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Layer_Infrastructure.png)
         
     - width: sixth
+      position: relative
+      top: 50%
+      transform: translateY(-50%) 
       content: | 
-        position: relative;
-        top: 50%;
-        transform: translateY(-50%)
-       
         ## Infrastructure
         
         Spines, streets, and organizational structure
