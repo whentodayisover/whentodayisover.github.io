@@ -38,9 +38,10 @@ content:
         
     - width: sixth
       content: | 
-      position: relative;
-      top: 50%;
-      transform: translateY(-50%)
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%)
+       
         ## Infrastructure
         
         Spines, streets, and organizational structure
