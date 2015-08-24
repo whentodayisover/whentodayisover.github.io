@@ -13,7 +13,7 @@ animationFrames:
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Detail_2025b.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Detail_2035c.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Detail_2035d.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Detail_2035g.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Detail_2035d.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Detail_2035a.png
   
 content:
@@ -41,6 +41,7 @@ content:
       content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
         
+        <br>
         ## Infrastructure
         
         Spines, streets, and organizational structure
@@ -53,6 +54,7 @@ content:
       content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
         
+        <br>
         ## Construction
         
         New systems to build density
@@ -65,6 +67,7 @@ content:
       content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
         
+        <br>
         ## Governance
         
         Parcel patterns and ownership
@@ -77,23 +80,10 @@ content:
       content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
         
+        <br>
         ## Transformation
         
         Clearing, demolition, harvest and growth cycles
-        
-    - width: third
-      content: |  
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Layer_Forest.png)
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
-        
-    - width: sixth
-      content: | 
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
-        
-        ## Environment
-        
-        Trees, biomass and sequestration potential
         
     - width: third
       content: |  
@@ -105,7 +95,23 @@ content:
       content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
         
+        <br>
         ## Redevelopment
         
         House-by-house renovation and infill, and Block-by-block new development
+         
+    - width: third
+      content: |  
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Layer_Forest.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
         
+    - width: sixth
+      content: | 
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Blank.png)
+        
+        <br>
+        ## Environment
+        
+        Trees, biomass and sequestration potential
+
