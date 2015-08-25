@@ -1,16 +1,15 @@
-title: Test8
+title: Test9
 section:
   - short
 layout:
   - half
   - dark
 
-style:
-  - background-image: https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Ward_Lockwood.png
-
 content: 
   - 
-    - width: third
+style:
+  - background-image: https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Ward_Lockwood.png
+  - width: third
       content: |
       background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2015a_All.png
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_Holdout.png)
