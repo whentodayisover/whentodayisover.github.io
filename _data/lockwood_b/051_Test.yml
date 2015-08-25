@@ -1,4 +1,4 @@
-title: Test1
+title: Test2
 section:
   - short
 layout:
@@ -22,6 +22,7 @@ content:
       content: |
       layout:
         - dark
+        
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_Connection.png)
         <center>
         <h2> Connect
