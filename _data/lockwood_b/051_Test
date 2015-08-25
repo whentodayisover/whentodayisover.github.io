@@ -1,6 +1,7 @@
 title: Lockwood Tomorrow
 section:
   - short
+layout:
 background: 
   -
     - width: full
@@ -25,7 +26,5 @@ background:
           
         </div>
 
-layout:
-  - third
-  - dark
+
 content:
