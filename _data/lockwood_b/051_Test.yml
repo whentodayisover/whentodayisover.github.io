@@ -4,6 +4,7 @@ section:
 layout:
   - half
   - dark
+background-image: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2015a_All.png
 content:
   - 
     - width: third
