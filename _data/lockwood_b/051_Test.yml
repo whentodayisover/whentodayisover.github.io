@@ -23,7 +23,7 @@ title: Test5
 section:
   - short
 layout:
-  - third
+  - full
 content:
   -
     - width: third
@@ -43,7 +43,7 @@ title: Test6
 section:
   - short
 layout:
-  - third
+  - full
 content:
   -
     - width: third
