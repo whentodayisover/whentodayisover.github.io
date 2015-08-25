@@ -2,7 +2,7 @@ title: Test4
 section:
 
 layout:
-  - third
+  - full
 content:
   -
     - width: third
