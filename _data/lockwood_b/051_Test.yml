@@ -7,7 +7,7 @@ layout:
 
 content: 
   - 
-   background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2015a_All.png
+    background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2015a_All.png
     - width: third
       content: |
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_Holdout.png)
