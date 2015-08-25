@@ -799,7 +799,7 @@ section ul li {
 }
 
 .frame-shim {
-  height: 50vh;
+  height: 33vw;
   margin: 0;
 }
 .frame-shim:nth-of-type(1) {
