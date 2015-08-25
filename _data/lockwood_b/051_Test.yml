@@ -1,22 +1,53 @@
-title: Test6
-section:
-  - short
-layout:
-  - half
-  - dark
+lockwood:
+  id: lockwood
+  title: Lockwood District
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit.
+  background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2035a_All.png
+  pages:
+    lockwood-a:
+      id: lockwood-a
+      title: Today – 2035
+    lockwood-b:
+      id: lockwood-b
+      title: Redevelopment
+      description: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit.
+      background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2015a_All.png
+      image: https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Layer_Redevelopment.png
 
-content: 
-  - 
-    - width: third
-      content: |
-      background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2015a_All.png
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_Holdout.png)
-        <center>
-        <h2> Preserve
-        </h2>
-        </center>
-        
-        Transformation of the Fifth Ward begins with a program of preservation. These holdouts contain and collect the historical and cultural richness of the Ward today. They are exempt from wholescale redevelopment and remain in the hands of their owners to develop into the future under preservation constraints that assure its anthropomorphic scale and public dimension are not compromised. The precise locations of the holdouts are flexible, but the proportion of saved area to redeveloped area remains close to 1:4. This area based preservation strategy is less about specific buildings, zones, or designations; instead it focuses on the scale and rhythm of the existing fabric. Selective preservation allows the footprint of communities to survive in the face of extreme development pressure. As population and density grows around the holdouts, new amenities such as grocery stores will appear, ensuring that preservation does not lead to stagnation. As the holdouts fill in, they maintain a continuity with the past that can make the future far richer than the present.
-        
-        ## The holdout is less about preserving specific buildings, zones, or designations; instead it focuses on the human scale and rhythm of the existing fabric.
+lyons:
+  id: lyons
+  title: Lyons District
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit.
+  background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lockwood-assets/bg-phase_all3.png
+  pages:
+    lyons-a:
+      id: lyons-a
+      title: Today – 2045
+    lyons-b:
+      id: lyons-b
+      title: Urban Forestry
+      description: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit.
+      background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_lockwood-assets/bg-phase_all3.png
+      image: /images/fpo.png
 
+gregg:
+  id: gregg
+  title: Gregg District
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit.
+  background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_all4.png
+  pages:
+    gregg-a:
+      id: gregg-a
+      title: Today – 2055
+    gregg-b:
+      id: gregg-b
+      title: Economies of Scale
+      description: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit.
+      background: https://dl.dropboxusercontent.com/u/14520747/wtio-images/bg_gregg-assets/bg-phase_all4.png
+      image: /images/fpo.png
