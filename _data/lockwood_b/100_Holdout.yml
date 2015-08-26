@@ -1,4 +1,4 @@
-title: Getting There by Holding Out
+title: Getting There by Holding Out1
 section:
   - short
 background: 
@@ -7,9 +7,9 @@ layout:
   - dark
 content:
   -
+  <body id="Preserve">
     - width: half
       content: |
-        <h2 id="Preserve"></h2>
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_Holdout.png)
         <center>
         <h2> Preserve
