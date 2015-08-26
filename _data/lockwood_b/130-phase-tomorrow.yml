@@ -4,7 +4,6 @@ section:
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2015a_All.png
 layout:
   - third
-  - dark
 content:
   -
     - width: full
@@ -14,16 +13,16 @@ content:
         <div class="grid">
         
           <div class="column half" markdown="1">
-          ![2035 ](/images/fpo.png)
+          ![2020 ](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Plan_2020a.png)
           
-          ![2055 ](/images/fpo.png)
+          ![2030 ](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Plan_2030a.png)
           
           </div>
           
           <div class="column half" markdown="1">
-          ![2045 ](/images/fpo.png)
+          ![2025 ](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Plan_2025a.png)
           
-          ![2055 ](/images/fpo.png)
+          ![2035 ](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Plan_2035a.png)
          
           </div>
           
