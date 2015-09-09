@@ -10,3 +10,10 @@
     height: 100vh;
   }
 }
+
+.arrow-down {
+  @include position(absolute, null null $base-spacing $base-spacing);
+  @include size(rem(42));
+  color: $dark-font-color;
+  transform: rotate(90deg);
+}

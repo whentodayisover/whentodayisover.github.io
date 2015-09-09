@@ -943,6 +943,18 @@ section ul li {
   }
 }
 
+.arrow-down {
+  position: absolute;
+  bottom: 2.25rem;
+  left: 2.25rem;
+  height: 2.625rem;
+  width: 2.625rem;
+  color: #cfd7e7;
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
 figure {
   margin: 0 0 2.25rem;
 }
