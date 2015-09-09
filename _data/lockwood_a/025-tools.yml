@@ -22,14 +22,14 @@ content:
       content: |
         ![Deep Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Square_Blocks_Numbered.png)
  
-     - width: third
+    - width: third
       content: |
        ![Parcels](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Parcels.png)
        
-     - width: third
+    - width: third
       content: |
        ![Blocks](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Blocks.png)
        
-     - width: third
+    - width: third
       content: |
        ![Deep Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Structure.png)
