@@ -985,6 +985,12 @@ figure {
   margin: 2px 0;
 }
 
+.icon {
+  height: 2.25rem;
+  width: 2.25rem;
+  display: inline-block;
+}
+
 .lede h1 {
   font-size: 2.5rem;
   line-height: 3rem;
@@ -1218,10 +1224,13 @@ section ol .cycle-slide {
 }
 .toc-section.current + .toc-section {
   box-shadow: 0 0 1.125rem rgba(0, 0, 0, 0.3);
-  color: #cfd7e7;
+  color: #fff;
 }
 .toc-section.current + .toc-section .toc-overlay {
   background-color: rgba(18, 19, 22, 0.75);
+}
+.toc-section.current + .toc-section .toc-item:hover {
+  background-color: rgba(207, 215, 231, 0.2);
 }
 .toc-section.white {
   color: #cfd7e7;
@@ -1265,6 +1274,9 @@ section ol .cycle-slide {
   padding: 4.5rem 2.25rem;
   position: relative;
 }
+.toc-next .toc-item:hover {
+  background-color: rgba(207, 215, 231, 0.1);
+}
 
 .toc-header {
   font-size: 2.625rem;
@@ -1281,17 +1293,29 @@ section ol .cycle-slide {
 }
 
 .toc-item {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
   box-shadow: inset 0 -1px 0 currentColor;
   color: currentColor;
-  display: block;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   font-size: 1.125rem;
   font-weight: 700;
   line-height: 1.5rem;
-  padding: 1.5rem 0.75rem;
+  padding: 0.75rem;
   text-transform: uppercase;
 }
 .toc-item:hover {
-  background-color: rgba(40, 44, 51, 0.03);
+  background-color: rgba(207, 215, 231, 0.1);
+}
+.toc-item .icon {
+  height: 2.625rem;
+  width: 2.625rem;
+  margin-right: 0.75rem;
 }
 
 .toc-circle {

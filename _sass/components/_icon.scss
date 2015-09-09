@@ -1,0 +1,4 @@
+.icon {
+  @include size($base-spacing);
+  display: inline-block;
+}

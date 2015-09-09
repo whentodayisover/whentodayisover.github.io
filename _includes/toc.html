@@ -11,6 +11,7 @@
             {% assign section_page = section_page_hash[1] %}
             <li>
               <a href="{{ section_page.id }}.html" class="toc-item">
+                <svg class="icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow"></use></svg>
                 {% if section.id == page.section %}
                   {% assign page_modified = page.name | remove: ".html" %}
                   {% if page_modified == section_page.id %}
