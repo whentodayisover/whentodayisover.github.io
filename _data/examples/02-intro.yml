@@ -1,5 +1,6 @@
 section:
   - short
+sectionBackground: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_gregg-assets/2065a_Gregg.png
 background: lockwood/02.png
 layout:
   - half
@@ -16,15 +17,15 @@ content:
         # Economies of Scale
 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac nibh a orci venenatis vulputate non eget dui. Curabitur massa sap ien, eleifend tincidunt sagittis sit amet, suscipit non tellus. Nullam rhoncus nunc eget lectus lobortis, vel semper turpis vulputate. In vulputate quis lorem ut pretium. Pellentesque habitant morbi tristi que senectus et netus et malesuada fames ac turpis egestas. Morbi non lorem gravida, dapibus arcu non, maximus ante. In vel lacinia risus, ut vulputate risus. Pellentesque habitant morbi tristique senec tus et netus et malesuada fames ac turpis egestas.
-        
+
         #H1
-        
+
         ##H2
-        
+
         ###H3
-        
+
         ####H4
-        
+
         #####H5
-        
+
         ######H6
