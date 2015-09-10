@@ -15,18 +15,8 @@ content:
   -
     - width: full
       content: |
-        <div class="grid">
         
-          <div class="column half" markdown="1">
-          ![Blocks of the Greater 5th Ward](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Real_Blocks_Numbered.png)
-          
-          </div>
-          
-          <div class="column half" markdown="1">
-          ![Deep Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Square_Blocks_Numbered.png)
-          
-          </div>
-        </div>
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Grid_Rationalization.png)
         
         <div class="grid">
           <div class="column third" markdown="1">
