@@ -1,4 +1,4 @@
-title: Tools
+title: Tools2
 section:
   - short
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Tools_Parcels.png
@@ -29,13 +29,18 @@ content:
         </div>
         
         <div class="grid">
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
           ![Parcels](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Parcels.png)
           
-          <div class="column sixth" markdown="1">
+          </div>
+          
+          <div class="column third" markdown="1">
           ![Blocks](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Blocks.png)
           
-          <div class="column sixth" markdown="1">
+          </div>
+          
+          <div class="column third" markdown="1">
           ![Deep Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Structure.png)
+          
           </div>
         </div>
