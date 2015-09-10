@@ -1,4 +1,4 @@
-title: Tools2
+title: Tools
 section:
   - short
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Tools_Parcels.png
@@ -13,25 +13,29 @@ animationFrames:
 
 content:
   -
-    - width: half
+    - width: full
       content: |
         <div class="grid">
+        
           <div class="column half" markdown="1">
           ![Blocks of the Greater 5th Ward](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Real_Blocks_Numbered.png)
+          
           </div>
+          
           <div class="column half" markdown="1">
           ![Deep Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Square_Blocks_Numbered.png)
+          
           </div>
         </div>
         
         <div class="grid">
-          <div class="column third" markdown="1">
+          <div class="column sixth" markdown="1">
           ![Parcels](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Parcels.png)
           
-          <div class="column third" markdown="1">
+          <div class="column sixth" markdown="1">
           ![Blocks](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Blocks.png)
           
-          <div class="column third" markdown="1">
+          <div class="column sixth" markdown="1">
           ![Deep Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Structure.png)
           </div>
         </div>
