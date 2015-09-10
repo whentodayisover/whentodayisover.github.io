@@ -12,7 +12,16 @@ content:
     - width: third
       content: |
         Together, the Third set of pages construct a renewed approach to contemporary urbanism. The argument starts with a definition of the city as “holistic” based on the assumption that cities do not exceed until that moment when the sum of the parts exceed the whole. This is an ancient definition and the succeeding pages argue how the historical city has been conceived holistically, and why holism is still relevant today. While establishing its relevance, the argument nevertheless proceeds to argue that our understanding of holism has to be drastically altered in order to meet the demands on the twenty-fist century city. This redefinition of holism has much to do with reforming the very status of the architectural and urban object. As the background functions of our routine existence proceed to break down, the need to “explicate” what those functions are and how they must be modified is of utmost urgency today. This explication is largely dedicated to a discussion of urban typology—both its necessity and its impossibility in contemporary urbanism. The section ends with speculation on the relation of urbanism to both nature and culture.
-
+        
+        <div class="grid">
+          <div class="column half" markdown="1">
+          
+          1. ![ Urban World](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Worlds_Urban.png)
+          2. ![ Natural World](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Worlds_Natural.png)
+          3. ![ Together](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Worlds_Combined.png)
+          
+          </div>
+        </div>
  
     - width: third
       content: |
