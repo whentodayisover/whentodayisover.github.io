@@ -1,7 +1,9 @@
 title: Two Worlds
 section:
   - short
-sectionBackground: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/BG-Carbon-Depot.jpg
+  
+sectionBackground: https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Blank.png
+Background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/BG-Carbon-Depot.jpg
 
 layout:
   - full
