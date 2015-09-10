@@ -13,7 +13,7 @@ animationFrames:
 
 content:
   -
-    - width: third
+    - width: half
       content: |
         There are important differences between the design of buildings and the design of cities. Urban design is not simply a matter of taking architectural strategies and scaling them up. The difference between designing for a hundred people and designing for thousands are not differences of degree but differences of kind. By this I mean that as we move up in scale, the very “status” of our design objects change. Principle among these changes is the recognition of “background” versus “foreground” objects. Urbanism often forces us to recognize the built environment more as a tool than as a spectacle. The plan will address this changed status and explore several explicit techniques for the design that stem from them. Given that the tools of traditional urban analysis (such as figure/ground diagrams) are ineffective in the analysis, synthesis and design of contemporary urbanism. This third section of the document concerns urban design tools that are specifically conceived in relation to megalopolitan sprawl.
 
@@ -22,17 +22,17 @@ content:
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Grid_Rationalization.png)
         
         <div class="grid">
-          <div class="column third" markdown="1">
+          <div class="column sixth" markdown="1">
           ![ Parcels](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Parcels.png)
           
           </div>
           
-          <div class="column third" markdown="1">
+          <div class="column sixth" markdown="1">
           ![ Blocks](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Blocks.png)
           
           </div>
           
-          <div class="column third" markdown="1">
+          <div class="column sixth" markdown="1">
           ![ Deep Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Structure.png)
           
           </div>
