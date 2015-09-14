@@ -92,7 +92,11 @@ content:
         10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/4way_UPA.png)
         
         <br>
-        <h4>Lockwood District</h4>
+        <h3>Lockwood District</h3>
         
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/District_2015a.png)
+        <div class="grid">
+          <div class="column third" markdown="1">
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/District_2015a.png)
+          </div>
+        </div>
 
