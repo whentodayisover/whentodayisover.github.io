@@ -14,22 +14,10 @@ content:
         
         <br>
         
-        1. ![ Urban World](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Worlds_Urban.png)
-        2. ![ Natural World](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Worlds_Natural.png)
-        3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Worlds_Combined.png)
+        3. ![ Urban World](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Worlds_Urban.png)
+        1. ![ Natural World](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Worlds_Natural.png)
+        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Worlds_Combined.png)
         
-
-    - width: third
-      content: |
-        
-        1. ![ Row Houses on Quitman Street](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Quitman-St.jpg)
-        2. ![ Downtown from Harriman Street](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Harriman-Street.jpg)
-        3. ![ Union Pacific Rail Yards, Liberty District](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Union-Pacific-Yards.jpg)
-       
-        <br>
-        <h2>Urban Environment</h2>
-        
-        The inner city section of Houston called the Fifth Ward is frequently characterized as a blighted district. The Ward began as a “Freedman’s Town”  founded in 1866 by the regions freed slaves. It is located adjacent to Houston’s Central Business District yet it is a world apart from the corporate ethos that prevails downtown. For many decades the Fifth Ward served as the center of the Houston African-American community. With over one hundred churches and a concentration of Black-owned businesses, the district reached its population peak in the years leading up to the Second World War. With sizable rail yard and an active port on its southern boarder, the Fifth Ward was supported by good jobs all within walking distance. The Fifth Ward was a destination in Houston commonly referred to as “the Nickel.” Four members of Congress came from the Fifth Ward including Barbara Jordon and Mickey Leland. It was also the birthplace of George Forman and Dr. Ruth Simmons.
 
     - width: third
       content: |
@@ -43,3 +31,14 @@ content:
         
         The project will tie into Houston’s unique riverine ecosystem that permeates the entire city though seven east/west bayous running parallel within the city limits. These natural corridors have been recently assembled into a network of continuous PUBLIC spaces that together measure out to 150 miles. Known as Bayou Greenway 2020, the open space of the new district will merge with the bayou corridors (from which they draw water) in a reciprocal relationship of stimulus and re/development. As a green network, Bayou Greenway 2020 will serve as the engine of the next phase of Houston’s development in much the same way as the way the freeway network shaped the city in the past. 
 
+    - width: third
+      content: |
+        
+        1. ![ Row Houses on Quitman Street](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Quitman-St.jpg)
+        2. ![ Downtown from Harriman Street](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Harriman-Street.jpg)
+        3. ![ Union Pacific Rail Yards, Liberty District](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Union-Pacific-Yards.jpg)
+       
+        <br>
+        <h2>Urban Environment</h2>
+        
+        The inner city section of Houston called the Fifth Ward is frequently characterized as a blighted district. The Ward began as a “Freedman’s Town”  founded in 1866 by the regions freed slaves. It is located adjacent to Houston’s Central Business District yet it is a world apart from the corporate ethos that prevails downtown. For many decades the Fifth Ward served as the center of the Houston African-American community. With over one hundred churches and a concentration of Black-owned businesses, the district reached its population peak in the years leading up to the Second World War. With sizable rail yard and an active port on its southern boarder, the Fifth Ward was supported by good jobs all within walking distance. The Fifth Ward was a destination in Houston commonly referred to as “the Nickel.” Four members of Congress came from the Fifth Ward including Barbara Jordon and Mickey Leland. It was also the birthplace of George Forman and Dr. Ruth Simmons.
