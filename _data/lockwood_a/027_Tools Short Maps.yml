@@ -10,7 +10,7 @@ content:
   -
     - width: half
       content: |        
-        <h3>Sample Maps</h3>
+        <h2>Sample Maps</h>
         <br>
         
         1. ![<h4>Single-Family Residential</h4>](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Single-Family.png)
@@ -35,7 +35,7 @@ content:
 
     - width: half
       content: |  
-        <h3>Switch Maps</h3>
+        <h2>Switch Maps</h>
         <br>
         
         1. ![1629 Intersections, Continuity Index- 2.23</h4>](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_All.png)
