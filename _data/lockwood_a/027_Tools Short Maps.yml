@@ -13,8 +13,6 @@ layout:
 animation: stop
 animationFrames:
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/District_Streets2.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/District_Streets2.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/District_Streets2.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/District_Lockwood2.png
 
 content:
@@ -49,7 +47,7 @@ content:
         <h2>Switch Maps</h2>
         <br>
         
-        1. ![1629 Intersections, Continuity Index- 2.23</h4>](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_All.png)
+        1. ![<h4>1629 Intersections, Continuity Index- 2.23</h4>](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_All.png)
         2. ![<h4>520 Four-way Intersections, 32%</h4>](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_4.png)
         3. ![<h4>233 Three-way Intersections, 14%</h4>](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_3.png)
         4. ![<h4>374 Two-way Intersections, 23%</h4>](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_2.png)
