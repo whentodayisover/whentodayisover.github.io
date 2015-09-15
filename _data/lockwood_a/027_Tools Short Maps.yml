@@ -1,10 +1,22 @@
-title: 
+
+title: Tools
+
 section:
   - short
   
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Tools_Parcels.png
+
 layout:
   - full
   - dark
+
+animation: stop
+animationFrames:
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Tools_Blocks.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Tools_Structure.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Tools_Switch.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/District_Streets.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/District_Lockwood.png
 
 content:
   -
