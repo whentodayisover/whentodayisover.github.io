@@ -28,7 +28,7 @@ content:
         ![ Methodology](https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Grid_Rationalization.png)
         
         <div class="grid">
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
           
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Parcels.png)
           
@@ -38,7 +38,7 @@ content:
           </h6>
           </div>
           
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Blocks.png)
           
           <h4>Blocks</h4>
@@ -48,7 +48,7 @@ content:
           
           </div>
           
-          <div class="column sixth" markdown="1">
+          <div class="column third" markdown="1">
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Tool_Detail_Structure.png)
           
           <h4>Deep Structure</h4>
@@ -89,30 +89,42 @@ content:
           </div>
         </div>
         
+        <br>
+        
         <h3>Switch Maps</h3>
         
         Design at scale allows us to take a quantitative measurement of a district’s dis/continuity. Given that the principal difference between contemporary and traditional urbanism is a difference between continuous urban fabric and discontinuous urban enclaves, the significance of this measurement cannot be overstated. Inasmuch as discontinuous form is always countered by continuous space discontinuity is about the production of urban space. This method of quantification produces a study that is referred to as a Switch Map. A four way intersection gets the highest rating and the missing intersection gets the lowest rating. The switch is global, the intersection is local, the switch is invitro and the intersection is invivio. The switch is a form, the intersection is a place. The switch is a point in an abstract field, the intersection is a window onto a social world. The switch is quantity, the intersection is quality. Both functions of the switch and the intersection are in play in the spatial diagrams. 
         
-        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_4.png)
-        3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_3.png)
-        4. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_2.png)
-        5. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_1.png)
-        6. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_0.png)
-        7. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Null_Industrial.png)
-        8. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Null_Vacancy.png)
-        9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/4way_Residential.png)
-        10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/4way_UPA.png)
+        <div class="grid">
+          <div class="column half" markdown="1">
+          
+          2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_4.png)
+          3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_3.png)
+          4. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_2.png)
+          5. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_1.png)
+          6. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Switch_0.png)
+          
+          </div>
+          
+          <div class="column half" markdown="1">
+          
+          7. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Null_Industrial.png)
+          8. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/Null_Vacancy.png)
+          9. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/4way_Residential.png)
+          10. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/map_ward-assets/4way_UPA.png)
+          </div>
+        </div>
         
         <br>
         <h3>Lockwood District</h3>
         
         <div class="grid">
-          <div class="column sixth" markdown="1">
+          <div class="column half" markdown="1">
           <h6>Nulluptatibus suntiam des aspid moditat mossum volore pratusa ndesequid quia pror aut volor sum sit dolorat utemporit et prae ex eum quatem. Ut ende perehen ectaque. Tem excestiam in poritas earum expedit res alicae pressimillat enimenist, iunto mil ma consequo id unt esseque volorporrum lam, beri rehendu cipsam, consedi officto rerchicipsam autempe et quo dit vel mint es est vent, sequibus debitis quam evellitis nimperent asperun t Faciam lab iment vene nim sae moluptatiunt ut molori veniet dolore.
           </h6>
           </div>
           
-          <div class="column third" markdown="1">
+          <div class="column half" markdown="1">
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/District_2015a.png)
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Blank.png)
           </div>
