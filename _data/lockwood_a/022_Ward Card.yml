@@ -4,11 +4,10 @@ section:
 layout:
   - full
   - dark
-  - lede
 
 content:
   -
     - width: full
       content: |
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/New-House.jpg)
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Ward_Extents_Blank.png)
         Solutions
