@@ -1,13 +1,13 @@
 
-title: Holdout Catalogue
+title: Holdout Catalog
 section:
 
-background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalogue_1.png
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_1.png
 animation: fade
 animationFrames:
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalogue_2.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalogue_3.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalogue_4.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_2.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_3.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_4.png
 
 layout:
   - half
@@ -36,7 +36,7 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgogue1_FinniganCourt.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog1_FinniganCourt.png)
           
           </div>
         </div>
@@ -58,7 +58,7 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgogue1_FinniganCourt.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog1_FinniganCourt.png)
           
           </div>
         </div>
@@ -80,7 +80,7 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgogue1_FinniganCourt.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog1_FinniganCourt.png)
           
           </div>
         </div>
