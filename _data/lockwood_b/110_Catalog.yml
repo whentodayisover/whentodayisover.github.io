@@ -131,7 +131,9 @@ content:
           
           </div>
         </div>
+        
         <br>
+        
         ###6. Japhet Creek
         
         <div class="grid">
@@ -149,10 +151,29 @@ content:
           
           </div>
         </div>
-        
         <br>
         
-        ###7. Finnigan Park Place
+        ###7. Clinton Drive
+        
+        <div class="grid">
+          <div class="column half" markdown="1">
+          
+          1. ![1. 5300 Coke Street, Cleme Manor Apartments](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/ClemeManor_2.jpg)
+          2. ![2. 5300 Coke Street, Cleme Manor Apartments](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/ClemeManor_1.jpg)
+          3. ![3. 5300 Coke Street, Cleme Manor Apartments](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/ClemeManor_3.jpg)
+          4. ![4. 5300 Coke Street, Cleme Manor Apartments](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/ClemeManor_4.jpg)
+          
+          </div>
+          <div class="column half" markdown="1">
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog10_Clinton.png)
+          
+          </div>
+        </div>
+         
+        <br>
+        
+        ###8. Finnigan Park Place
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -176,7 +197,7 @@ content:
         
         <br>
         
-        ###8. Cleme Manor
+        ###9. Cleme Manor
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -196,7 +217,7 @@ content:
         
         <br>
         
-        ###9. Finnigan Park
+        ###10. Finnigan Park
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -214,23 +235,4 @@ content:
           </div>
         </div>
         
-        <br>
-        
-        ###10. Clinton Drive
-        
-        <div class="grid">
-          <div class="column half" markdown="1">
-          
-          1. ![1. 5300 Coke Street, Cleme Manor Apartments](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/ClemeManor_2.jpg)
-          2. ![2. 5300 Coke Street, Cleme Manor Apartments](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/ClemeManor_1.jpg)
-          3. ![3. 5300 Coke Street, Cleme Manor Apartments](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/ClemeManor_3.jpg)
-          4. ![4. 5300 Coke Street, Cleme Manor Apartments](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/ClemeManor_4.jpg)
-          
-          </div>
-          <div class="column half" markdown="1">
-          
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog10_Clinton.png)
-          
-          </div>
-        </div>
-        
+
