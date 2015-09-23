@@ -5,9 +5,17 @@ section:
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_1.png
 animation: fade
 animationFrames:
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_1.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_2.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_3.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_4.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_5.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_6.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_7.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_8.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_9.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_10.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_11.png
 
 layout:
   - half
@@ -19,7 +27,7 @@ content:
         
         <br>
         
-        ###A. Buck Street
+        ###1. Buck Street
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -36,14 +44,14 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog11_Buck.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog1_Buck.png)
           
           </div>
         </div>
         
         <br>
         
-        ###B. Hare Street
+        ###2. Hare Street
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -59,14 +67,14 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog7_Hare.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog2_Hare.png)
           
           </div>
         </div>
         
         <br>
         
-        ###C. Gunter Street
+        ###3. Gunter Street
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -83,14 +91,14 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog6_Gunter.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog3_Gunter.png)
           
           </div>
         </div>
         
         <br>
         
-        ###D. Emile Street
+        ###4. Emile Street
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -103,14 +111,14 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog3_JaphetCreek.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog4_JaphetCreek.png)
           
           </div>
         </div>
         
         <br>
         
-        ###E. Coke Street
+        ###5. Coke Street
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -135,7 +143,7 @@ content:
          
         <br>
         
-        ###F. Schweikhardt Street
+        ###6. Schweikhardt Street
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -149,14 +157,14 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog4_Edmund.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog6_Edmund.png)
           
           </div>
         </div>
         
         <br>
         
-        ###G. Japhet Creek
+        ###7. Japhet Creek
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -169,13 +177,13 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog3_JaphetCreek.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog7_JaphetCreek.png)
           
           </div>
         </div>
         <br>
         
-        ###H. Clinton Drive
+        ###8. Clinton Drive
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -188,14 +196,14 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog10_Clinton.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog8_Clinton.png)
           
           </div>
         </div>
          
         <br>
         
-        ###I. Finnigan Park Place
+        ###9. Finnigan Park Place
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -212,14 +220,14 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog1_FinniganCourt.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog9_FinniganCourt.png)
           
           </div>
         </div>
         
         <br>
         
-        ###J. Cleme Manor
+        ###10. Cleme Manor
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -232,14 +240,14 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog2_ClemeManor.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog10_ClemeManor.png)
           
           </div>
         </div>
         
         <br>
         
-        ###K. Finnigan Park
+        ###11. Finnigan Park
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -252,7 +260,7 @@ content:
           </div>
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog9_Park.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Catalgog11_Park.png)
           
           </div>
         </div>
