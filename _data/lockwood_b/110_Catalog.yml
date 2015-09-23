@@ -19,7 +19,7 @@ animationFrames:
 
 layout:
   - half
-  - light
+  - dark
 content:
   -
     - width: full
