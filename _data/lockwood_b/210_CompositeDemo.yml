@@ -1,0 +1,8 @@
+
+title: Lyons Transformed
+background: https://www.dropbox.com/s/qa077ypjsqhlog0/2015j_CompositeDemo.png
+animation: fade
+animationFrames:
+  - https://www.dropbox.com/s/qa077ypjsqhlog0/2020j_CompositeDemo.png
+  - https://www.dropbox.com/s/qa077ypjsqhlog0/2025j_CompositeDemo.png
+  - https://www.dropbox.com/s/qa077ypjsqhlog0/2030j_CompositeDemo.png
