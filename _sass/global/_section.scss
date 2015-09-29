@@ -39,8 +39,17 @@ section {
     padding-top: $base-spacing * 4;
 
     &.half,
-    &.third {
+    &.third,
+    &.sixth {
       float: left;
+    }
+
+    &.sixth {
+      width: 25%;
+
+      &.right {
+        margin-left: 75%;
+      }
     }
 
     &.half,
@@ -54,6 +63,14 @@ section {
   }
 
   @include media($large-screen-up) {
+    &.sixth {
+      width: 16.666%;
+
+      &.right {
+        margin-left: 83.333%;
+      }
+    }
+
     &.third {
       width: 33.333%;
 

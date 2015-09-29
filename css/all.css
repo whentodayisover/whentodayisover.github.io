@@ -761,8 +761,14 @@ section ul li {
     min-height: 100vh;
     padding-top: 9rem;
   }
-  section.half, section.third {
+  section.half, section.third, section.sixth {
     float: left;
+  }
+  section.sixth {
+    width: 25%;
+  }
+  section.sixth.right {
+    margin-left: 75%;
   }
   section.half, section.third {
     width: 50%;
@@ -772,6 +778,12 @@ section ul li {
   }
 }
 @media screen and (min-width: 1100px) {
+  section.sixth {
+    width: 16.666%;
+  }
+  section.sixth.right {
+    margin-left: 83.333%;
+  }
   section.third {
     width: 33.333%;
   }

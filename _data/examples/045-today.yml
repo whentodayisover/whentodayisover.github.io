@@ -1,0 +1,14 @@
+section:
+  - short
+background: lockwood/03.png
+layout:
+  - sixth
+content:
+  -
+    - width: full
+      content: |
+        ![Example Image](/images/fpo.png)
+
+        ![Example Image](/images/fpo.png)
+
+        ![Example Image](/images/fpo.png)
