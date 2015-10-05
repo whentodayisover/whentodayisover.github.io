@@ -1,0 +1,9 @@
+title: Lockwood Tomorrow
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_2015.png
+animation: fade
+animationFrames:
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_2015.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_2020.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_2025.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_2030.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Catalog_2035.png
