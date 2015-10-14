@@ -821,14 +821,14 @@ section ul li {
 }
 
 .frame-shim {
-  height: 33vh;
+  height: 33vw;
   margin: 0;
 }
 .frame-shim:nth-of-type(1) {
-  margin-top: 33vh;
+  margin-top: 33vw;
 }
 .frame-shim:last-of-type {
-  margin-bottom: -33vh;
+  margin-bottom: -33vw;
 }
 
 .caption {
