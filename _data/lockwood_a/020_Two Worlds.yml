@@ -1,12 +1,9 @@
 title: Two Contexts
 section:
   - short
-  
 layout:
   - full
-  - light
-
-content:
+content: |
   -
     - width: third
       content: |
