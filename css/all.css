@@ -950,19 +950,18 @@ section ul li {
 }
 
 .cover {
-  height: 75vw;
-  max-width: none;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center top;
-     object-position: center top;
-  overflow: hidden;
-  width: 100vw;
-}
-@media screen and (min-width: 700px) {
-  .cover {
-    height: 100vh;
-  }
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 .arrow-down {
@@ -1368,4 +1367,15 @@ section ol .cycle-slide {
   background-color: rgba(29, 32, 37, 0.9);
   background-position: center center;
   background-size: cover;
+}
+
+@media screen and (orientation: landscape) {
+  .video {
+    height: 100vh;
+  }
+}
+@media screen and (orientation: portrait) {
+  .video {
+    width: 100vw;
+  }
 }

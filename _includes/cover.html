@@ -1,6 +1,11 @@
-<header class="curtain">
-  <article class="short">
-    <img src="{{ page.cover }}" class="cover">
-    <svg class="icon arrow-down"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow"></use></svg>
-  </article>
-</header>
+<article class="short cover" style="background-image: url({{ page.cover }});">
+  <video autoplay class="video">
+    {% if page.ogg %}
+      <source src="{{ page.ogg }}" type="video/ogg">
+    {% endif %}
+    {% if page.mp4 %}
+      <source src="{{ page.mp4 }}" type="video/mp4">
+    {% endif %}
+  </video>
+  <svg class="icon arrow-down"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow"></use></svg>
+</article>

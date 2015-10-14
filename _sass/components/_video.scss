@@ -1,0 +1,9 @@
+.video {
+  @include media($landscape) {
+    height: 100vh;
+  }
+
+  @include media($portrait) {
+    width: 100vw;
+  }
+}

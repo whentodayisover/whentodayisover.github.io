@@ -13,3 +13,6 @@ $large-screen: 1100px;
 $small-screen-up: new-breakpoint(min-width $small-screen);
 $medium-screen-up: new-breakpoint(min-width $medium-screen);
 $large-screen-up: new-breakpoint(min-width $large-screen);
+
+$landscape: new-breakpoint(orientation landscape);
+$portrait: new-breakpoint(orientation portrait);
