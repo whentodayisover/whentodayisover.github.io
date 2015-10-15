@@ -1,7 +1,0 @@
-title: Blocks & Spines
-background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/bg-phase_block1.png
-animation: fade
-animationFrames:
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/bg-phase_block2.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/bg-phase_block3.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/bg-phase_block4.png
