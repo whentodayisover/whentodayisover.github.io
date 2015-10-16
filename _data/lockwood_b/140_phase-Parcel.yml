@@ -6,7 +6,7 @@ layout:
   - light
 content:
   -
-    - width: full
+    - width: third
       content: |
        
         <div class="grid">
