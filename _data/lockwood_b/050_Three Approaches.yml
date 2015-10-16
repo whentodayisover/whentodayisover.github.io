@@ -3,12 +3,12 @@ section:
 layout:
   - full
   - dark
-  - lede
+
 content:
   -
     - width: third
       content: |
-        ##Preserve
+        #Preserve
         
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_Holdout.png)
         
@@ -20,7 +20,7 @@ content:
         
     - width: third
       content: |
-        ##Connect
+        #Connect
         
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_Connection.png)
         
@@ -33,7 +33,7 @@ content:
     - width: third
       content: |
         
-        ##Build
+        #Build
         
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_Build.png)
         
