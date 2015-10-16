@@ -24,9 +24,9 @@ content:
         
     - width: sixth
       content: | 
-        <br>
+        <br></br>
         
-        <i><h3>Revealing the layers in the 5th ward —its infrastructure, regulatory systems, construction patterns, ecology, and open space— is a way to find new synergies waiting to be realized.</i></h3>
+        <h3><i>Revealing the layers in the 5th ward —its infrastructure, regulatory systems, construction patterns, ecology, and open space— is a way to find new synergies waiting to be realized.</h3></i>
 
     - width: third
       content: | 
