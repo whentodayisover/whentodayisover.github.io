@@ -4,7 +4,7 @@ section:
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2015e_Infrastructure.png
 layout:
   - third
-  - dark
+  - light
 content:
   -
     - width: full
