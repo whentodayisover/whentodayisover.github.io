@@ -10,9 +10,9 @@ content:
   -
     - width: full
       content: |
-        This is a paragraph. **The best way to communicate is compatible.**
+        <p class="big">This is a paragraph. The best way to communicate is compatible.
         Compatible communication is listening with open ears and an open mind,
-        and not being fearful or judgemental about what you're hearing.
+        and not being fearful or judgemental about what you're hearing.</p>
 
         > When you get lost in your imaginatory vagueness, your foresight will
         become a nimble vagrant.
