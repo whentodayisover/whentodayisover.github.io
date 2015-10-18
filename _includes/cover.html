@@ -1,11 +1,16 @@
 <article class="short cover" style="background-image: url({{ page.cover }});">
-  <video autoplay class="video">
-    {% if page.ogg %}
-      <source src="{{ page.ogg }}" type="video/ogg">
-    {% endif %}
-    {% if page.mp4 %}
+  {% if page.mp4 %}
+    <video autoplay class="video" id="video">
+      {% if page.ogg %}
+        <source src="{{ page.ogg }}" type="video/ogg">
+      {% endif %}
       <source src="{{ page.mp4 }}" type="video/mp4">
-    {% endif %}
-  </video>
+    </video>
+    <div class="video-button" id="video-button">
+      <svg class="icon">
+        <use xlink:href="#replay"></use>
+      </svg>
+    </div>
+  {% endif %}
   <svg class="icon arrow-down"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow"></use></svg>
 </article>

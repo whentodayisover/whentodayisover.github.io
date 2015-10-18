@@ -731,6 +731,8 @@ article::before {
 
 section {
   background-color: #f2f6ff;
+  background-position: center center;
+  background-size: cover;
   padding: 4.5rem 2.25rem;
   position: relative;
   z-index: 1;
@@ -1378,4 +1380,32 @@ section ol .cycle-slide {
   .video {
     width: 100vw;
   }
+}
+
+.video-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 2.6875rem;
+  width: 2.6875rem;
+  background-color: rgba(40, 44, 51, 0.888);
+  border-radius: 50%;
+  color: #cfd7e7;
+  cursor: pointer;
+  margin: auto;
+}
+.video-button.hidden {
+  display: none;
+}
+.video-button .icon {
+  height: 2rem;
+  width: 2rem;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
 }

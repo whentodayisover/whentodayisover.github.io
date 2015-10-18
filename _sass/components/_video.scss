@@ -7,3 +7,23 @@
     width: 100vw;
   }
 }
+
+.video-button {
+  @include position(absolute, 0);
+  @include size(rem(43));
+  background-color: rgba($dark-background-color, 0.888);
+  border-radius: 50%;
+  color: $dark-font-color;
+  cursor: pointer;
+  margin: auto;
+
+  &.hidden {
+    display: none;
+  }
+
+  .icon {
+    @include size(rem(32));
+    @include position(absolute, 0);
+    margin: auto;
+  }
+}

@@ -1,5 +1,7 @@
 section {
   background-color: $light-background-color;
+  background-position: center center;
+  background-size: cover;
   padding: ($base-spacing * 2) $base-spacing;
   position: relative;
   z-index: 1;
