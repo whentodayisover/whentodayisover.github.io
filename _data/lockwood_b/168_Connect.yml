@@ -24,6 +24,7 @@ content:
     - width: full
       content: |
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Blank.png)
+        
         <div class="grid">
           <div class="column half" markdown="1">
           
@@ -47,7 +48,7 @@ content:
         </div>
         
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Ward_Bands_Spines.gif)
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Blank.png)
+        
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -60,3 +61,5 @@ content:
           <h4>Spine Infrastructure</h4>
           </div>
         </div>
+        
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Blank.png)
