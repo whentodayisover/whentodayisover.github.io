@@ -4,7 +4,18 @@ section:
 layout:
   - half
   - dark
-background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/BG_Build.png
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Build-Tower_1.png
+animation: fade
+animationFrames:
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Build-Tower_2.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Build-Tower_3.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Build-Tower_4.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Build-Tower_5.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Build-Tower_6.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Build-Tower_7.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Build-Tower_8.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Build-Tower_9.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Build-Tower_10.png
 
 content:
   -
