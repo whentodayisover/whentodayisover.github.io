@@ -10,11 +10,37 @@ content:
   -
     - width: third
       content: |
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_Build.png)
-        
-        <br>
-        
         Impactful redevelopment and reduction of energy consumption cannot be achieved through preservation and house by house construction alone. It can only come from a holistic approach that alters our high energy lifestyles, lifestyles that are encoded in the form of our cities. New single family building stock that is both small in scale and disperse in footprint adds exponentially to energy expenditure and cannot serve the existing median income of the fifth ward at market prices. To recode our patterns of consumption, future building stock must be made of larger, more efficient buildings that decrease both our per capita footprint, and the per unit cost. This is can already be seen playing out in portions of lower Frenchtown, where dense new construction is sprouting up block by block. However, so far this development leaves little room for holdouts or open space, and unchecked could erase and displace the existing community fabric. Large scale buildings, open spaces, and smaller scale infill must all exist in tandem to to preserve and progress the ward.
-        
-        >Future construction must balance large buildings that decrease consumption and unit cost, with smaller infill that preserves the character of the ward today.
 
+    - width: sixth
+      content: |
+        
+        ><h2><i>Future construction must balance large buildings that decrease consumption and unit cost, with smaller infill that preserves the character of the ward today.</i></h>
+
+    - width: full
+      content: |
+        
+        
+        <div class="grid">
+          <div class="column half" markdown="1">
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Build_Construction.png)
+          
+          <h4>New Construction</h4>
+          
+          If “urban” and “forest” seem in opposition, it is due to a long history of conditioning ourselves to an antagonistic dialectic where the natural serves as an apologetic for the urban. Imposed separation lets us continue to think our urban patterns of development are far away from nature. Climate change strains that suspect distinction. Opposition between urban and natural grows increasingly irrelevant as the residue of one permeates the other. Abandoning categorization, urban forestry combines environmental remediation and building culture into a single integrated approach that would shift our perception of the city. Large scale plots of managed forest alongside large scale urban development pull carbon reduction strategies out of abstract technical approaches to render them livable.
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/BlankThird.png)
+          
+          </div>
+          
+          <div class="column half" markdown="1">
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Build_Redevelopment.png)
+          
+          <h4>Redevelopment</h4>
+          
+          The switch is global, the intersection is local, the switch is invitro and the intersection is invivio. The switch is a form, the intersection is a place. The switch is a point in an abstract field, the intersection is a window onto a social world. The switch is quantity, the intersection is quality. Both functions of the switch and the intersection are in play in the spatial diagrams. SWITCH. The switch is an experimental site or, to use the invitro analogy, a petri dish that opens the dynamic form up to specific experimentation. It is an abstraction capable of quantifying continuities in the form of a one, two, three and four way status. It allows for a controlled manipulation of spatial continuity.
+          
+          </div>
+        </div>
