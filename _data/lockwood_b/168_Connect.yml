@@ -9,7 +9,7 @@ animation: fade
 animationFrames:
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2020m_Connect.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2025m_Connect.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2035m_Connect.png
+
 content:
   -
     - width: third
@@ -28,7 +28,6 @@ content:
         <div class="grid">
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/BlankThird.png)
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Connect_Forest.png)
           
           <h4>Environment</h4>
@@ -41,7 +40,6 @@ content:
           
           <div class="column half" markdown="1">
           
-          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/BlankThird.png)
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Connect_Infrastructure.png)
           
           <h4>Infrastructure</h4>
@@ -66,4 +64,4 @@ content:
           </div>
         </div>
         
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/BlankThird.png)
+
