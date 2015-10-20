@@ -1,4 +1,4 @@
-title: Demolition
+title: Demolition2
 section:
   - short
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2015c_Demolition.png
@@ -13,13 +13,13 @@ content:
 
         <div class="grid">
           <div class="column half" markdown="1">
-          ![2035 ](/images/fpo.png)
+          ![2020 ](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Plan_2020c.png)
 
-          ![2055 ](/images/fpo.png)
+          ![2030 ](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Plan_2025c.png)
           </div>
           <div class="column half" markdown="1">
-          ![2045 ](/images/fpo.png)
+          ![2025 ](/images/fpo.png)
 
-          ![2055 ](/images/fpo.png)
+          ![2035 ](/images/fpo.png)
           </div>
         </div>
