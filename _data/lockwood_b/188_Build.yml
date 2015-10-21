@@ -17,6 +17,7 @@ animationFrames:
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_liberty-assets/Build-Tower_9.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_liberty-assets/Build-Tower_10.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_liberty-assets/Build-Tower_10.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_liberty-assets/Build-Tower_10.png
 
 
 content:
@@ -62,6 +63,32 @@ content:
         2. ![Tower Type B, Floor Plans](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/Plans_TypeB.png)
         3. ![Tower Type A, Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/Structure_TypeA.png)
         4. ![Tower Type B, Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/Structure_TypeB.png)
+        
+    - width: third
+      content: |
+        
+        ##Organization Types
+        
+        ####Cavity
+        
+        1. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/1_Cavity.png)
+        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/2_Cavity.png)
+        3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/3_Cavity.png)
+        
+        ####Balcony
+        
+        1. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/1_Balcony.png)
+        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/2_Balcony.png)
+        3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/3_Balcony.png)
+        
+        ####Spiral
+        
+        1. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/1_Spiral.png)
+        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/2_Spiral.png)
+        3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/3_Spiral.png)
+        
+     - width: full
+      content: |
         
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/BlankThird.png)
         
