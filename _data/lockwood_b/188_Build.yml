@@ -64,6 +64,7 @@ content:
         3. ![Tower Type A, Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/Structure_TypeA.png)
         4. ![Tower Type B, Structure](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/Structure_TypeB.png)
         
+ 
     - width: third
       content: |
         
@@ -87,7 +88,8 @@ content:
         2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/2_Spiral.png)
         3. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_liberty-assets/3_Spiral.png)
         
-     - width: full
+  
+    - width: full
       content: |
         
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/BlankThird.png)
