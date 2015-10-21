@@ -99,7 +99,9 @@ content:
         However, they offer a low per unit cost to their residents, and as such are poised to proliferate. While alternative models of development prototyped by Habitat for Humanity and the Fifth Ward Community Redevelopment Corporation have the capacity to maintain a neighborhood fabric, their impact is limited by the slow economics of house-by-house development. In twenty-five years of operation, less than 2% of building stock has been replaced. With this strategy alone, housing in the ward will deteriorate faster than it can be rebuilt. At risk is the complete collapse of the existing historic fabric, leaving the community vulnerable to tabula-rasa redevelopment. Systemic displacement of the existing population through market-based gentrification will follow. 
         
         <br>
-        
+
+    - width: full
+      content: |
         <div class="grid">
           <div class="column half" markdown="1">
           
