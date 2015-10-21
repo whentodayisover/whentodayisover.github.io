@@ -1,8 +1,7 @@
 title: Lockwood Tomorrow
-background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2015a_All.png
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2020a_All.png
 animation: fade
 animationFrames:
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2020a_All.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2025a_All.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2030a_All.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2035a_All.png
