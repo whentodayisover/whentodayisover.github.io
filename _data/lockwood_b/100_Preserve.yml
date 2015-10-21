@@ -11,6 +11,7 @@ animationFrames:
 layout:
   - half
   - dark
+  - lede
 content:
   -
     - width: third
@@ -68,7 +69,7 @@ content:
           </div>
           <div class="column sixth" markdown="1">
           
-          <h4>Holdouts</h4>
+          <h2>Holdouts</h2>
           
           Text about example holdout images to the left. Transformation of the Fifth Ward begins with a program of preservation. These holdouts contain and collect the historical and cultural richness of the Ward today. They are exempt from wholescale redevelopment and remain in the hands of their owners to develop into the future under preservation constraints that assure its anthropomorphic scale and public dimension are not compromised. 
           
