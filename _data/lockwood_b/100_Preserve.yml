@@ -48,22 +48,33 @@ content:
           </div>
         </div>
         
-        1. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Holdouts.png)
-        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Holdouts_Label.png)
+        1. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Holdouts_Label.png)
+        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Holdouts.png)
         
-        
+         <br>
 
-    - width: third
+    - width: half
       content: |
        
-        1. ![Holdout: Dallas TX](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Dallas.jpg)
-        2. ![Holdout: Chicago IL](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Chicago.jpg)
-        3. ![Holdout: Up, Disney](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Up.jpg)
-        4. ![Holdout vs Highway: Xian, China](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Highway.jpg)
-        5. ![Holdout Grave: Taiyuan, China](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Grave.jpg)
-        
-        Text about example holdout images above. Transformation of the Fifth Ward begins with a program of preservation. These holdouts contain and collect the historical and cultural richness of the Ward today. They are exempt from wholescale redevelopment and remain in the hands of their owners to develop into the future under preservation constraints that assure its anthropomorphic scale and public dimension are not compromised. 
-        
+        <div class="grid">
+          <div class="column third" markdown="1">
+         
+          1. ![Holdout: Dallas TX](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Dallas.jpg)
+          2. ![Holdout: Chicago IL](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Chicago.jpg)
+          3. ![Holdout: Up, Disney](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Up.jpg)
+          4. ![Holdout vs Highway: Xian, China](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Highway.jpg)
+          5. ![Holdout Grave: Taiyuan, China](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Grave.jpg)
+          
+          </div>
+          <div class="column sixth" markdown="1">
+          
+          <h4>Holdouts</h4>
+          
+          Text about example holdout images to the left. Transformation of the Fifth Ward begins with a program of preservation. These holdouts contain and collect the historical and cultural richness of the Ward today. They are exempt from wholescale redevelopment and remain in the hands of their owners to develop into the future under preservation constraints that assure its anthropomorphic scale and public dimension are not compromised. 
+          
+          </div>
+        </div>
+       
         ##If we do Nothing
         
         To the West of the Lockwood district, a series of closely packed townhomes and apartment complexes along Clinton Drive offers a glimpse of what the entire Ward may look like if present redevelopment strategies continue unexamined. Based purely in market efficiencies, these zero lot line housing clusters can only exist as carbon intensive air conditioned terminals in a car centered urban world. Lacking natural ventilation, landscape, or open space of any kind, development of this kind can create neighborhoods about as well as sardines in a can. 
