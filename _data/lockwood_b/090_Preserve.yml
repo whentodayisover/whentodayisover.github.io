@@ -43,9 +43,7 @@ content:
         2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Holdouts.png)
         
         <br>
-        
-        ##Holdouts
-        
+
     - width: third
       content: |
         
@@ -59,11 +57,14 @@ content:
        
     - width: sixth
       content: |
+        ####Holdouts
         
-        ><h2><i>The holdout is less about preserving specific buildings, zones, or designations; instead it focuses on the human scale and rhythm of the existing fabric.</i></h2>
+        The precise location of the holdouts is flexible, an area based preservation strategy is less about specific buildings, zones, or designations; instead it focuses on the scale and rhythm of the existing fabric. Selective preservation allows the footprint of communities to survive in the face of extreme development pressure. As population and density grows around the holdouts, new amenities such as grocery stores will appear, ensuring that preservation does not lead to stagnation. As the holdouts fill in, they maintain a continuity with the past that can enrich the potential of the future.
         
     - width: half
       content: |
+        ##If Nothing Changes
+        
         >To the West of the Lockwood district, a series of closely packed townhomes and apartment complexes along Clinton Drive offers a glimpse of what the entire Ward may look like if present redevelopment strategies continue unexamined. Based purely in market efficiencies, these zero lot line housing clusters can only exist as carbon intensive air conditioned terminals in a car centered urban world. Lacking natural ventilation, landscape, or open space of any kind, development of this kind can create neighborhoods about as well as sardines in a can.
         
     - width: third
@@ -72,15 +73,15 @@ content:
         
     - width: sixth
       content: |
+        ####The Market Model
         
-        ><h2><i>Based purely in market efficiencies, these zero lot line housing clusters can only exist as carbon intensive air conditioned terminals in a car centered urban world.</i></h2>
+        However, they offer a low per unit cost to their residents, and as such are poised to proliferate. While alternative models of development prototyped by Habitat for Humanity and the Fifth Ward Community Redevelopment Corporation have the capacity to maintain a neighborhood fabric, their impact is limited by the slow economics of house-by-house development. In twenty-five years of operation, less than 2% of building stock has been replaced. With this strategy alone, housing in the ward will deteriorate faster than it can be rebuilt. At risk is the complete collapse of the existing historic fabric, leaving the community vulnerable to tabula-rasa redevelopment. Systemic displacement of the existing population through market-based gentrification will follow. 
         
         <br>
         
         
     - width: full
       content: |
-        >However, they offer a low per unit cost to their residents, and as such are poised to proliferate. While alternative models of development prototyped by Habitat for Humanity and the Fifth Ward Community Redevelopment Corporation have the capacity to maintain a neighborhood fabric, their impact is limited by the slow economics of house-by-house development. In twenty-five years of operation, less than 2% of building stock has been replaced. With this strategy alone, housing in the ward will deteriorate faster than it can be rebuilt. At risk is the complete collapse of the existing historic fabric, leaving the community vulnerable to tabula-rasa redevelopment. Systemic displacement of the existing population through market-based gentrification will follow. 
         
         <div class="grid">
           <div class="column half" markdown="1">
