@@ -66,6 +66,7 @@ content:
         
     - width: full
       content: |
+        >Holdouts are a way to concentrate neighborhood models of development and strengthen existing communities. They then become anchors for a new model of scalable block-by-block development more consistent with the realities of development today.
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -81,9 +82,5 @@ content:
           
           <h4>Market-driven development in Clinton</h4></div>
           
+          </div>
         </div>
-        
-        <br>
-        
-        >Holdouts are a way to concentrate neighborhood models of development and strengthen existing communities. They then become anchors for a new model of scalable block-by-block development more consistent with the realities of development today.
-        
