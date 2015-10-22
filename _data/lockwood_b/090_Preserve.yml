@@ -61,17 +61,17 @@ content:
         
         <br>
        
-        ##If Nothing Changes
+    - width: half
+      content: |
+        >To the West of the Lockwood district, a series of closely packed townhomes and apartment complexes along Clinton Drive offers a glimpse of what the entire Ward may look like if present redevelopment strategies continue unexamined. Based purely in market efficiencies, these zero lot line housing clusters can only exist as carbon intensive air conditioned terminals in a car centered urban world. Lacking natural ventilation, landscape, or open space of any kind, development of this kind can create neighborhoods about as well as sardines in a can.
         
-        
+    - width: third
+      content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Clinton_Zero-Lot-Line.jpg)
        
         <h4>The Market Model</h4>
         
         However, they offer a low per unit cost to their residents, and as such are poised to proliferate. While alternative models of development prototyped by Habitat for Humanity and the Fifth Ward Community Redevelopment Corporation have the capacity to maintain a neighborhood fabric, their impact is limited by the slow economics of house-by-house development. In twenty-five years of operation, less than 2% of building stock has been replaced. With this strategy alone, housing in the ward will deteriorate faster than it can be rebuilt. At risk is the complete collapse of the existing historic fabric, leaving the community vulnerable to tabula-rasa redevelopment. Systemic displacement of the existing population through market-based gentrification will follow. 
-        
-        
-        >To the West of the Lockwood district, a series of closely packed townhomes and apartment complexes along Clinton Drive offers a glimpse of what the entire Ward may look like if present redevelopment strategies continue unexamined. Based purely in market efficiencies, these zero lot line housing clusters can only exist as carbon intensive air conditioned terminals in a car centered urban world. Lacking natural ventilation, landscape, or open space of any kind, development of this kind can create neighborhoods about as well as sardines in a can.
         
     - width: full
       content: |
