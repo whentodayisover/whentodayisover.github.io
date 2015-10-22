@@ -14,18 +14,9 @@ animationFrames:
 
 content:
   -
-    - width: third
-      content: |
-        Linking together holdouts, new construction, and the city at large is a task that involves many more modes of connection that streets and sidewalks. Transportation, infrastructure, and open space must be choreographed into a livable network balancing the need to get from place to place quickly and efficiently with the quality of the places themselves. This means that the spaces where streets stop can be as important to the city as where they connect, and given the state of the street grid across the ward, in many instances removing a crumbling street and openning up the space left behind may do more for a neighborhood than updating the infratstructure in place. By focusing the city’s efforts on a series of spines spread across the ward, over the course of 50 years a leaner, more compact road system may serve a much larger population. Where these streets end, an extensive network of walkable open space will stitch neighborhoods together, and expand the reach of today’s Bayou Greenway network well beyond the banks of the Buffalo.
-
-    - width: sixth
-      content: |
-        
-        ><h2><i>Spaces where streets stop can be as important as where they connect, expanding the reach of the Bayou Greenway network up into the city itself.</i></h>
-
     - width: full
       content: |
-        
+        ><i>"It will be a system that connects Houston’s parks along its major bayous with varying widths of continuous public greenspaces; it will also be a system that threads together major employment centers, major institutions, diverse neighborhoods -- a system that embraces the cultural and socioeconomic diversity of a city that spans nearly 650 square miles."</i>
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -34,8 +25,7 @@ content:
           
           <h4>Environment</h4>
           
-          If “urban” and “forest” seem in opposition, it is due to a long history of conditioning ourselves to an antagonistic dialectic where the natural serves as an apologetic for the urban. Imposed separation lets us continue to think our urban patterns of development are far away from nature. Climate change strains that suspect distinction. Opposition between urban and natural grows increasingly irrelevant as the residue of one permeates the other. Abandoning categorization, urban forestry combines environmental remediation and building culture into a single integrated approach that would shift our perception of the city. Large scale plots of managed forest alongside large scale urban development pull carbon reduction strategies out of abstract technical approaches to render them livable.
-          
+         
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/BlankThird.png)
           
           </div>
@@ -46,10 +36,10 @@ content:
           
           <h4>Infrastructure</h4>
           
-          The switch is global, the intersection is local, the switch is invitro and the intersection is invivio. The switch is a form, the intersection is a place. The switch is a point in an abstract field, the intersection is a window onto a social world. The switch is quantity, the intersection is quality. Both functions of the switch and the intersection are in play in the spatial diagrams. SWITCH. The switch is an experimental site or, to use the invitro analogy, a petri dish that opens the dynamic form up to specific experimentation. It is an abstraction capable of quantifying continuities in the form of a one, two, three and four way status. It allows for a controlled manipulation of spatial continuity.
-          
           </div>
         </div>
+        
+        >Linking together holdouts, new construction, and the city at large is a task that involves many more modes of connection that streets and sidewalks. Transportation, infrastructure, and open space must be choreographed into a livable network balancing the need to get from place to place quickly and efficiently with the quality of the places themselves. This means that the spaces where streets stop can be as important to the city as where they connect, and given the state of the street grid across the ward, in many instances removing a crumbling street and openning up the space left behind may do more for a neighborhood than updating the infratstructure in place. By focusing the city’s efforts on a series of spines spread across the ward, over the course of 50 years a leaner, more compact road system may serve a much larger population. Where these streets end, an extensive network of walkable open space will stitch neighborhoods together, and expand the reach of today’s Bayou Greenway network well beyond the banks of the Buffalo.
         
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/GIF/Ward_Bands_Spines.gif)
         
@@ -66,8 +56,10 @@ content:
           </div>
         </div>
         
-        1. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Connect_Aerial.png)
-        1. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Connect_Japhet.png)
+        >Spaces where streets stop can be as important as where they connect, expanding the reach of the Bayou Greenway network up into the city itself.
         
-        ####The First Step: Connecting Japhet Creek
+        1. ![Lockwood Today](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Connect_Aerial.png)
+        2. ![The First Step: Connect Japhet Creek](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Connect_Japhet.png)
+        
+
 
