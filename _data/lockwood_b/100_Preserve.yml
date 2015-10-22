@@ -20,6 +20,8 @@ content:
       content: |
         Two Transformation of the Fifth Ward begins with a program of preservation. These holdouts contain and collect the historical and cultural richness of the Ward today. They are exempt from wholescale redevelopment and remain in the hands of their owners to develop into the future under preservation constraints that assure its anthropomorphic scale and public dimension are not compromised. The precise location of the holdouts is flexible, an area based preservation strategy is less about specific buildings, zones, or designations; instead it focuses on the scale and rhythm of the existing fabric. Selective preservation allows the footprint of communities to survive in the face of extreme development pressure. As population and density grows around the holdouts, new amenities such as grocery stores will appear, ensuring that preservation does not lead to stagnation. As the holdouts fill in, they maintain a continuity with the past that can enrich the potential of the future.
         
+        <br>
+        
         <div class="grid">
           <div class="column half" markdown="1">
           
@@ -39,7 +41,7 @@ content:
         
         <br>
         
-        ><h2><i><font color="c3cfe6">The holdout is less about preserving specific buildings, zones, or designations; instead it focuses on the human scale and rhythm of the existing fabric.</i></h>
+        >The holdout is less about preserving specific buildings, zones, or designations; instead it focuses on the human scale and rhythm of the existing fabric.
         
         <br>
         
@@ -64,7 +66,7 @@ content:
           <div class="column sixth" markdown="1">
           <h2>Holdouts</h2>
           
-          ><font color="c3cfe6">Text about example holdout images to the left. Transformation of the Fifth Ward begins with a program of preservation. These holdouts contain and collect the historical and cultural richness of the Ward today. They are exempt from wholescale redevelopment and remain in the hands of their owners to develop into the future under preservation constraints that assure its anthropomorphic scale and public dimension are not compromised. </font>
+          Text about example holdout images to the left. Transformation of the Fifth Ward begins with a program of preservation. These holdouts contain and collect the historical and cultural richness of the Ward today. They are exempt from wholescale redevelopment and remain in the hands of their owners to develop into the future under preservation constraints that assure its anthropomorphic scale and public dimension are not compromised.
           
           </div>
         </div>
