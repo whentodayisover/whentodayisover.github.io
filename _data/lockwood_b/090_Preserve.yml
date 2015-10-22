@@ -17,8 +17,8 @@ content:
   -
     - width: full
       content: |
-        <h3><i>“What preservation is really all about is the retention and active relationship of buildings of the past to the community’s functioning present. The accumulation is called culture.”</i></h3>
-        <i>- Ada Louise Huxtable</i>
+        ><i>“What preservation is really all about is the retention and active relationship of buildings of the past to the community’s functioning present. The accumulation is called culture.”</i>
+        <h3><i>- Ada Louise Huxtable</i></h3>
         
         <div class="grid">
           <div class="column half" markdown="1">
