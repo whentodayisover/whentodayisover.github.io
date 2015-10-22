@@ -54,8 +54,6 @@ content:
         
         <p style="font-size:1.125rem; line-height=1.5">The precise location of the holdouts is flexible, an area based preservation strategy is less about specific buildings, zones, or designations; instead it focuses on the scale and rhythm of the existing fabric. Selective preservation allows the footprint of communities to survive in the face of extreme development pressure. As population and density grows around the holdouts, new amenities such as grocery stores will appear, ensuring that preservation does not lead to stagnation. As the holdouts fill in, they maintain a continuity with the past that can enrich the potential of the future.</p>
         
-    - width: third
-      content: |
         1. ![Holdout: Dallas TX](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Dallas.jpg)
         2. ![Holdout: Chicago IL](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Chicago.jpg)
         3. ![Holdout: Up, Disney](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Up.jpg)
@@ -63,18 +61,14 @@ content:
         5. ![Holdout: Taiyuan, China](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Grave.jpg)
         
         <br>
-       
-    - width: half
-      content: |
+        
         >To the West of the Lockwood district, a series of closely packed townhomes and apartment complexes along Clinton Drive offers a glimpse of what the entire Ward may look like if present redevelopment strategies continue unexamined. Lacking natural ventilation, landscape, or open space of any kind, these zero lot line housing clusters can only exist as carbon intensive air conditioned terminals in a car centered urban world.
         
-    - width: third
-      content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Clinton_Zero-Lot-Line.jpg)
        
         <h4>The Market Model</h4>
         
-        However, they offer a low per unit cost to their residents, and as such are poised to proliferate. While alternative models of development prototyped by Habitat for Humanity and the Fifth Ward Community Redevelopment Corporation have the capacity to maintain a neighborhood fabric, their impact is limited by the slow economics of house-by-house development. In twenty-five years of operation, less than 2% of building stock has been replaced. With this strategy alone, housing in the ward will deteriorate faster than it can be rebuilt. At risk is the complete collapse of the existing historic fabric, leaving the community vulnerable to tabula-rasa redevelopment. Systemic displacement of the existing population through market-based gentrification will follow. 
+        <p style="font-size:1.125rem; line-height=1.5">However, they offer a low per unit cost to their residents, and as such are poised to proliferate. While alternative models of development prototyped by Habitat for Humanity and the Fifth Ward Community Redevelopment Corporation have the capacity to maintain a neighborhood fabric, their impact is limited by the slow economics of house-by-house development. In twenty-five years of operation, less than 2% of building stock has been replaced. With this strategy alone, housing in the ward will deteriorate faster than it can be rebuilt. At risk is the complete collapse of the existing historic fabric, leaving the community vulnerable to tabula-rasa redevelopment. Systemic displacement of the existing population through market-based gentrification will follow. </p>
         
     - width: full
       content: |
@@ -94,8 +88,6 @@ content:
           <h4>Market-driven development in Clinton</h4></div>
           
         </div>
-        
-        <br>
         
         >Holdouts are a way to concentrate neighborhood models of development and strengthen existing communities. They then become anchors for a new model of scalable block-by-block development more consistent with the realities of development today.
         
