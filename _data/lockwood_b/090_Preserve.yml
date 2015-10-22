@@ -1,0 +1,106 @@
+title: Preserve
+section:
+  - short
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Detail_2015h_Holdout.png
+animation: fade
+animationFrames:
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Detail_2020h_Holdout.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Detail_2025h_Holdout.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Detail_2030h_Holdout.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/Detail_2035h_Holdout.png
+ 
+layout:
+  - half
+  - dark
+
+content:
+  -
+    - width: full
+      content: |
+        
+        <div class="grid">
+          <div class="column half" markdown="1">
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Preserve_Parcel.png)
+          
+          <h4>Land Ownership and Policy</h4>
+          
+          </div>
+          <div class="column half" markdown="1">
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Layer_Change.png)
+          
+          <h4>Selective Demolition</h4>
+          
+          </div>
+        </div>
+        
+        >Transformation of the Fifth Ward begins with a program of preservation. These holdouts contain and collect the historical and cultural richness of the Ward today. They are exempt from wholescale redevelopment and remain in the hands of their owners to develop into the future under preservation constraints that assure its anthropomorphic scale and public dimension are not compromised. The precise location of the holdouts is flexible, an area based preservation strategy is less about specific buildings, zones, or designations; instead it focuses on the scale and rhythm of the existing fabric. Selective preservation allows the footprint of communities to survive in the face of extreme development pressure. As population and density grows around the holdouts, new amenities such as grocery stores will appear, ensuring that preservation does not lead to stagnation. As the holdouts fill in, they maintain a continuity with the past that can enrich the potential of the future.
+
+        <br>
+        
+        1. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Holdouts_Label.png)
+        2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Holdouts.png)
+        
+        <br>
+        
+        ##Holdouts
+        
+    - width: third
+      content: |
+        
+        1. ![Holdout: Dallas TX](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Dallas.jpg)
+        2. ![Holdout: Chicago IL](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Chicago.jpg)
+        3. ![Holdout: Up, Disney](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Up.jpg)
+        4. ![Holdout vs Highway: Xian, China](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Highway.jpg)
+        5. ![Holdout: Taiyuan, China](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Grave.jpg)
+        
+        <br>
+       
+        <h2>If we do Nothing</h2>
+        
+        To the West of the Lockwood district, a series of closely packed townhomes and apartment complexes along Clinton Drive offers a glimpse of what the entire Ward may look like if present redevelopment strategies continue unexamined. Based purely in market efficiencies, these zero lot line housing clusters can only exist as carbon intensive air conditioned terminals in a car centered urban world. Lacking natural ventilation, landscape, or open space of any kind, development of this kind can create neighborhoods about as well as sardines in a can.
+        
+    - width: sixth
+      content: |
+        
+        ><h2><i>The holdout is less about preserving specific buildings, zones, or designations; instead it focuses on the human scale and rhythm of the existing fabric.</i></h2>
+        
+    - width: third
+      content: |
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Clinton_Zero-Lot-Line.jpg)
+        
+    - width: sixth
+      content: |
+        
+        ><h2><i>Based purely in market efficiencies, these zero lot line housing clusters can only exist as carbon intensive air conditioned terminals in a car centered urban world.</i></h2>
+        
+        <br>
+        
+        
+    - width: third
+      content: |
+        However, they offer a low per unit cost to their residents, and as such are poised to proliferate. While alternative models of development prototyped by Habitat for Humanity and the Fifth Ward Community Redevelopment Corporation have the capacity to maintain a neighborhood fabric, their impact is limited by the slow economics of house-by-house development. In twenty-five years of operation, less than 2% of building stock has been replaced. With this strategy alone, housing in the ward will deteriorate faster than it can be rebuilt. At risk is the complete collapse of the existing historic fabric, leaving the community vulnerable to tabula-rasa redevelopment. Systemic displacement of the existing population through market-based gentrification will follow. 
+        
+    - width: full
+      content: |
+        <div class="grid">
+          <div class="column half" markdown="1">
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_5400-Arapahoe.png)
+          
+          <h4>Deteriorating Lockwood Fabric</h4>
+          
+          </div>
+          <div class="column half" markdown="1">
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_3010-Baron.png)
+          
+          <h4>Market-driven development in Clinton</h4></div>
+          
+        </div>
+        
+        <br>
+        
+        >Holdouts are a way to concentrate neighborhood models of development and strengthen existing communities. They then become anchors for a new model of scalable block-by-block development more consistent with the realities of development today.
+        
