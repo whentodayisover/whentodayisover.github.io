@@ -20,9 +20,7 @@ content:
       content: |
         Transformation of the Fifth Ward begins with a program of preservation. These holdouts contain and collect the historical and cultural richness of the Ward today. They are exempt from wholescale redevelopment and remain in the hands of their owners to develop into the future under preservation constraints that assure its anthropomorphic scale and public dimension are not compromised. The precise location of the holdouts is flexible, an area based preservation strategy is less about specific buildings, zones, or designations; instead it focuses on the scale and rhythm of the existing fabric. Selective preservation allows the footprint of communities to survive in the face of extreme development pressure. As population and density grows around the holdouts, new amenities such as grocery stores will appear, ensuring that preservation does not lead to stagnation. As the holdouts fill in, they maintain a continuity with the past that can enrich the potential of the future.
         
-        <br>
-        
-        ##Layers
+        ###Layers
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -41,22 +39,22 @@ content:
           </div>
         </div>
         
-        <br>
-        
-        ><h2>The holdout is less about preserving specific buildings, zones, or designations; instead it focuses on the human scale and rhythm of the existing fabric.</h2>
+        ##The holdout is less about preserving specific buildings, zones, or designations; instead it focuses on the human scale and rhythm of the existing fabric.
         
         <br>
         
         1. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Holdouts_Label.png)
         2. ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Holdouts.png)
         
-        <br>
+        
         
     - width: half
       content: |
        
         <div class="grid">
           <div class="column third" markdown="1">
+          
+          <br>
           
           1. ![Holdout: Dallas TX](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Dallas.jpg)
           2. ![Holdout: Chicago IL](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Chicago.jpg)
@@ -92,28 +90,27 @@ content:
         
         <br>
         
-        >Based purely in market efficiencies, these zero lot line housing clusters can only exist as carbon intensive air conditioned terminals in a car centered urban world.
+        ##Based purely in market efficiencies, these zero lot line housing clusters can only exist as carbon intensive air conditioned terminals in a car centered urban world.
         
+    - width: third
+      content: |
         However, they offer a low per unit cost to their residents, and as such are poised to proliferate. While alternative models of development prototyped by Habitat for Humanity and the Fifth Ward Community Redevelopment Corporation have the capacity to maintain a neighborhood fabric, their impact is limited by the slow economics of house-by-house development. In twenty-five years of operation, less than 2% of building stock has been replaced. With this strategy alone, housing in the ward will deteriorate faster than it can be rebuilt. At risk is the complete collapse of the existing historic fabric, leaving the community vulnerable to tabula-rasa redevelopment. Systemic displacement of the existing population through market-based gentrification will follow. 
         
-        <br>
 
     - width: full
       content: |
         <div class="grid">
           <div class="column half" markdown="1">
           
-          ![Deteriorating Lockwood Fabric](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_5400-Arapahoe.png)
+          ![<h4>Deteriorating Lockwood Fabric</h4>](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_5400-Arapahoe.png)
           
           </div>
           <div class="column half" markdown="1">
           
-          ![Market-based future in Clinton](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_3010-Baron.png)
+          ![<h4>Market-driven development in Clinton</h4>](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_3010-Baron.png)
           </div>
         </div>
         
-        <br>
-        
-        >Holdouts are a way to concentrate neighborhood models of development and strengthen existing communities. They then become anchors for a new model of scalable block-by-block development more consistent with the realities of development today.
+        ##Holdouts are a way to concentrate neighborhood models of development and strengthen existing communities. They then become anchors for a new model of scalable block-by-block development more consistent with the realities of development today.
         
         
