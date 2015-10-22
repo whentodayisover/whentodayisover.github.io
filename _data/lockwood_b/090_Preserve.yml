@@ -17,8 +17,8 @@ content:
   -
     - width: full
       content: |
-        <p style="font-size:1.5rem; line-height=3"><i>“What preservation is really all about is the retention and active relationship of buildings of the past to the community’s functioning present. The accumulation is called culture.”</i></p>
-        <h3><i><p align="right">- Ada Louise Huxtable</p></i></h3>
+        ><i>“What preservation is really all about is the retention and active relationship of buildings of the past to the community’s functioning present. The accumulation is called culture.”</i></p>
+        ><h3><i><p align="right">- Ada Louise Huxtable</p></i></h3>
         
         <div class="grid">
           <div class="column half" markdown="1">
@@ -60,13 +60,9 @@ content:
         5. ![Holdout: Taiyuan, China](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Holdout_Grave.jpg)
         
         <br>
-       
-    - width: half
-      content: |
+        
         >To the West of the Lockwood district, a series of closely packed townhomes and apartment complexes along Clinton Drive offers a glimpse of what the entire Ward may look like if present redevelopment strategies continue unexamined. Lacking natural ventilation, landscape, or open space of any kind, these zero lot line housing clusters can only exist as carbon intensive air conditioned terminals in a car centered urban world.
         
-    - width: third
-      content: | 
         ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Clinton_Zero-Lot-Line.jpg)
        
         <h4>The Market Model</h4>
