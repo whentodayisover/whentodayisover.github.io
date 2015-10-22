@@ -1,6 +1,6 @@
 title: Connect
 section:
-  - short
+  - long
 layout:
   - half
   - dark
@@ -9,6 +9,8 @@ animation: fade
 animationFrames:
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2020m_Connect.png
   - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2025m_Connect.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2030m_Connect.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lockwood-assets/2035m_Connect.png
 
 content:
   -
