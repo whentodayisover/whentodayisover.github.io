@@ -57,7 +57,7 @@ content:
         
         <br>
        
-    - width: third
+    - width: half
       content: |
         ####Holdouts
         
@@ -72,12 +72,12 @@ content:
     - width: full
       content: |
         <div class="grid">
-          <div class="column half" markdown="1">
+          <div class="column third" markdown="1">
           
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/Clinton_Zero-Lot-Line.jpg)
           
           </div>
-          <div class="column half" markdown="1">
+          <div class="column sixth" markdown="1">
           
           <h4>The Market Model</h4>
           
