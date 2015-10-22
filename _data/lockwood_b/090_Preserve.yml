@@ -17,22 +17,22 @@ content:
   -
     - width: full
       content: |
-        ><i>“What preservation is really all about is the retention and active relationship of buildings of the past to the community’s functioning present. The accumulation is called culture.”</i>
-        ><h3><i><p align="right">- Ada Louise Huxtable</p></i></h3>
+        <p style="font-size:150%"><i>“What preservation is really all about is the retention and active relationship of buildings of the past to the community’s functioning present. The accumulation is called culture.”</i></p>
+        <h3><i><p align="right">- Ada Louise Huxtable</p></i></h3>
         
         <div class="grid">
           <div class="column half" markdown="1">
           
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Preserve_Parcel.png)
           
-          <h4>Land Ownership and Policy</h4>
+          <h4><center>Land Ownership and Policy</center></h4>
           
           </div>
           <div class="column half" markdown="1">
           
           ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Layer_Change.png)
           
-          <h4>Selective Demolition</h4>
+          <h4><center>Selective Demolition</center></h4>
           
           </div>
         </div>
