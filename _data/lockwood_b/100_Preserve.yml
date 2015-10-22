@@ -83,6 +83,8 @@ content:
           </div>
         </div>
         
+    - width: full
+      content: |
         <div class="grid">
           <div class="column third" markdown="1">
           
@@ -118,6 +120,8 @@ content:
           </div>
         </div>
         
-        ##Holdouts are a way to concentrate neighborhood models of development and strengthen existing communities. They then become anchors for a new model of scalable block-by-block development more consistent with the realities of development today.
+        <br>
+        
+        >Holdouts are a way to concentrate neighborhood models of development and strengthen existing communities. They then become anchors for a new model of scalable block-by-block development more consistent with the realities of development today.
         
         
