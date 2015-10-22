@@ -100,13 +100,16 @@ content:
         <div class="grid">
           <div class="column half" markdown="1">
           
-          ![<h4>Deteriorating Lockwood Fabric</h4>](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_5400-Arapahoe.png)
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_5400-Arapahoe.png)
+          
+          <h4>Deteriorating Lockwood Fabric</h4>
           
           </div>
           <div class="column half" markdown="1">
           
-          ![<h4>Market-driven development in Clinton</h4>](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_3010-Baron.png)
-          </div>
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lockwood-assets/Detail_3010-Baron.png)
+          
+          <h4>Market-driven development in Clinton</h4></div>
         </div>
         
         <br>
