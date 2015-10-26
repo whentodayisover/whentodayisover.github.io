@@ -9,7 +9,7 @@ layout:
 
 content:
   -
-    - width: full
+    - width: third
       content: |
 
         ##Economies of Scale
