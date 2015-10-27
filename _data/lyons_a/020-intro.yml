@@ -1,4 +1,4 @@
-title: The Carbon Cycle
+title: Inhabiting the Carbon Cycle
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/bg-phase_all3.png
 sectionBackground: https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lyons-assets/BG_Plantation-Aerial.jpg
 
@@ -22,5 +22,18 @@ content:
         
         ######Greater Fifth Ward, Houston Texas
         
-
+    - width: full
+      content: |
+        <div class="grid">
+          <div class="column half" markdown="1">
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lyons-assets/theme-pathway_wood1.png)
+          
+          </div>
+          <div class="column half" markdown="1">
+          
+          ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lyons-assets/theme-pathway_wood2.png)
+          
+          </div>
+        </div>
 
