@@ -4,20 +4,20 @@ section:
 background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/bg-ana_res.png
 layout:
   - third
-  - dark
+  - light
 content:
   -
     - width: full
       content: |
-        ### Residential Redevelopment
-        
+
         Two competing models to replenish the predominant but deteriorating stock of pre-1950 single family residences operate in the in Lockwood today. Habitat for Humanity or other community centered organizations may redevelop a street house by house, while market driven forces may replace whole neighborhoods block by block. The first strategy, while doing its best to preserve the scale of the existing fabric, does not scale to effect the entire ward beyond occasional alcoves like the one in Lockwood: Finnegan Park Place. Along Clinton drive to the west, the second strategy results in closely packed multi-family complexes where larger, more efficient buildings can consistently offer units at market rates. Their apparent success is visible in multi-family occupancy rates exceeding 90%<sup><A HREF="https://dl.dropboxusercontent.com/u/21832022/wtio-images/References/EMERSON_5th%20Ward%20Housing%20Study.pdf#page=85" style="color:rgb(195,207,230)"><font color="c3cfe6">[1]</font></a></sup>, a far cry from the overall prevalence of  vacancy in the ward. Despite a lack of open space and connection to the existing fabric, these newer constructions are less of a departure from the historical fabric than one might think. The majority of housing across the ward is rental, despite having a nearly 25% larger share of single family residences than the City of Houston at large <sup><A HREF="https://dl.dropboxusercontent.com/u/21832022/wtio-images/References/EMERSON_5th%20Ward%20Housing%20Study.pdf#page=56" style="color:rgb(195,207,230)"><font color="c3cfe6">[2]</font></a></sup>. Many detached homes are in fact rented, keeping the overall homeowner to renter ratio comparable to that rest of the Houston. 
         
         > The plan tries to take the better elements from each of these existing development models, seeking to produce market priced multi-family units while preserving pockets of the existing fabric, holdouts. 
         
-        1. ![Residential ](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lyons-assets/Sample_Residential.png)
+        ####Housing Stock
+        
+        1. ![Residential Grid](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lyons-assets/Sample_Residential.png)
         2. ![Multi Family](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_lyons-assets/Sample_Multi-Family.png)
         
-        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_gregg-assets/Key_Residential.png)
-        
+
 
