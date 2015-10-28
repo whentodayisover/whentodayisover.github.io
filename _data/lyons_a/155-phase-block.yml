@@ -1,8 +1,0 @@
-title: Blocks & Spines
-background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2020b_Block.png
-animation: fade
-animationFrames:
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2030b_Block.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2040b_Block.png
-  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2050b_Block.png
-  
