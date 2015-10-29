@@ -1,0 +1,7 @@
+title: Urban Forestry
+background: https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2020d_Plantation.png
+animation: fade
+animationFrames:
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2030d_Plantation.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2040d_Plantation.png
+  - https://dl.dropboxusercontent.com/u/21832022/wtio-images/bg_lyons-assets/Lyons_2050d_Plantation.pn
