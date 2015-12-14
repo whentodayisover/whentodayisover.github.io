@@ -6,7 +6,7 @@ layout:
   - light
 content:
   -
-    - width: third
+    - width: half
       content: |
         
         ##Focused Buildings
@@ -28,7 +28,7 @@ content:
           
         </div>
         
-    - width: third
+    - width: half
       content: |
         
         ##Focused Plantation
