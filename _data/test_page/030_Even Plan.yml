@@ -1,31 +1,62 @@
-title: Distributed Growth
+title: Phasing
 section:
   - short
-background: https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/151213_Phasing%20Focused_2025.png
 layout:
-  - half
-  - light
+  - full
+  - dark
 content:
   -
-    - width: full
+    - width: third
       content: |
         
-        ###Even Buildings
+        ##Focused Buildings
         
-        ###Even Plantation
         
         <div class="grid">
           
           <div class="column half" markdown="1">
-          ![2025 ](/images/fpo.png)
+          ![2025 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2025%20Buildings.png)
           
-          ![2035 ](/images/fpo.png)
+          ![2025 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2025%20Plantation.png)
           </div>
           
           <div class="column half" markdown="1">
-          ![2045 ](/images/fpo.png)
+         ![2035 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2035%20Buildings.png)
+         
+         ![2035 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2035%20Plantation.png)
+
           
-          ![2055 ](/images/fpo.png)
           </div>
           
         </div>
+        
+        ##Focused Plantation
+    - width: third
+      content: |
+        
+        <br>
+        
+        <div class="grid">
+          
+          <div class="column half" markdown="1">
+          ![2045 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2045%20Buildings.png)
+         
+          ![2045 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2045%20Plantation.png)
+          </div>
+          
+          <div class="column half" markdown="1">
+          ![2055 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2055%20Buildings.png)
+          
+          ![2055 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2055%20Plantation.png)
+          </div>
+          
+        </div>
+        
+    - width: third
+      content: |
+        
+        ##2055
+        
+        
+        ![](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2055%20Combined.png)
+
