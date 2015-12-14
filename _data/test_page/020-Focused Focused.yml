@@ -1,0 +1,30 @@
+title: Phasing
+section:
+  - short
+background: https://www.dropbox.com/s/z2x9oy6zykcc017/151213_Phasing%20Focused_2025.png?dl=0
+layout:
+  - half
+  - light
+content:
+  -
+    - width: full
+      content: |
+        
+        ##Focused Buildings
+        ##Focused Plantation
+        
+        <div class="grid">
+          
+          <div class="column half" markdown="1">
+          ![2035 ](/images/fpo.png)
+          
+          ![2055 ](/images/fpo.png)
+          </div>
+          
+          <div class="column half" markdown="1">
+          ![2045 ](/images/fpo.png)
+          
+          ![2065 ](/images/fpo.png)
+          </div>
+          
+        </div>
