@@ -1,4 +1,4 @@
-title: Phasing
+title: Option 2
 section:
   - short
 layout:
@@ -9,7 +9,7 @@ content:
     - width: third
       content: |
         
-        ##Focused Buildings
+        ##Distributed Buildings
         
         
         <div class="grid">
@@ -30,7 +30,7 @@ content:
           
         </div>
         
-        ##Focused Plantation
+        ##Distributed Plantation
     - width: third
       content: |
         
@@ -47,7 +47,7 @@ content:
           <div class="column half" markdown="1">
           ![2055 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20Even-assets/2055%20Buildings.png)
           
-          ![2055 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_15121402_Plan%20Phasing%20Even-assets/2055%20Plantation.png)
+          ![2055 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20Even-assets/2055%20Plantation.png)
           </div>
           
         </div>
