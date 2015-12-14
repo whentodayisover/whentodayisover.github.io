@@ -30,10 +30,13 @@ content:
           
         </div>
         
+        ##Focused Plantation
     - width: third
       content: |
         
-        ##Focused Plantation
+        <br>
+        <br>
+
         
         
         <div class="grid">
@@ -56,6 +59,8 @@ content:
       content: |
         
         ##2055
+        
+        <br>
         
         ![](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2055%20Combined.png)
 
