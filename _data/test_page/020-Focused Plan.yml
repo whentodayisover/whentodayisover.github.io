@@ -17,12 +17,16 @@ content:
           <div class="column half" markdown="1">
           ![2025 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2025%20Buildings.png)
           
+          <h2>Concentrated Plantation
+          
           ![2025 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2025%20Plantation.png)
           </div>
           
           <div class="column half" markdown="1">
          ![2035 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2035%20Buildings.png)
-         
+          
+          <h2><br>
+          
          ![2035 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2035%20Plantation.png)
 
           
@@ -34,18 +38,22 @@ content:
     - width: third
       content: |
         
-        <br>
+        <h2><br>
         
         <div class="grid">
           
           <div class="column half" markdown="1">
           ![2045 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2045%20Buildings.png)
-         
+          
+          <h2><br>
+          
           ![2045 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2045%20Plantation.png)
           </div>
           
           <div class="column half" markdown="1">
           ![2055 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2055%20Buildings.png)
+         
+          <h2><br>
           
           ![2055 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2055%20Plantation.png)
           </div>
@@ -66,10 +74,25 @@ content:
         3. ![2045 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2045%20Combined.png)
         4. ![2055 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing-assets/2055%20Combined.png)
 
+    - width: sixth
+      content: | 
+        ![](https://dl.dropboxusercontent.com/u/21832022/wtio-images/graphics_ward-assets/BlankSixth.png)
         
-        <br>
+    - width: half
+      content: |
         
-        <i>Graphic notes: Trees below thin in an irregular, 1 out of every 8 trees is removed after 10 years, and 1/2 of the remaing trees are thinned after 20 years. Plantations shift from a regularized, farmm like early stage, to a more forest like mature stage.
- 
-
-
+        >-Buildings in the Southwest are phased by height, exception waterfront band, which comes in faster
+        
+        >-Buildings in the Northwest are phased by band, with short buildings of following band starting as tall buildings in previous band complete
+        
+        >-Buildings in Residential quadrants are phased to preserve the existing fabric up to 2055
+        
+        >-Residential buildings form clusters, particularly the central cluster in 2035 around a subway stop
+        
+        >-Waterfront residential district fills out fastest, followed by the Post Office district. Northern districts fill out slower
+        
+        >-Buildings in all quadrants cling to central axes and major spines first
+        
+        >-Plantation is evenly distributed across all quadrants, creating the most diverse patchwork in later phases.
+        
+        >-Graphics: Trees are thinned in rows to reinforce band, appearing more regular in later phases
