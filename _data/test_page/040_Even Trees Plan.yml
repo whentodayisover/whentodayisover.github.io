@@ -9,7 +9,6 @@ content:
     - width: full
       content: |
         
-        ##Concentrated Buildings
         
     - width: third
       content: |
@@ -19,11 +18,15 @@ content:
           <div class="column half" markdown="1">
           ![2025 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20EvenTrees-assets/2025%20Buildings.png)
           
+          <h2>Concentrated Buildings</h2>
+          
           ![2025 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20EvenTrees-assets/2025%20Plantation.png)
           </div>
           
           <div class="column half" markdown="1">
          ![2035 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20EvenTrees-assets/2035%20Buildings.png)
+         
+          <h2><br></h2>
          
          ![2035 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20EvenTrees-assets/2035%20Plantation.png)
 
@@ -41,11 +44,15 @@ content:
           <div class="column half" markdown="1">
           ![2045 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20EvenTrees-assets/2045%20Buildings.png)
          
+          <h2><br></h2>
+         
           ![2045 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20EvenTrees-assets/2045%20Plantation.png)
           </div>
           
           <div class="column half" markdown="1">
           ![2055 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20EvenTrees-assets/2055%20Buildings.png)
+          
+          <h2><br></h2>
           
           ![2055 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20EvenTrees-assets/2055%20Plantation.png)
           </div>
