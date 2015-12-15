@@ -65,16 +65,19 @@ content:
         
         
         
-        ###-Buildings in the Southwest are phased by height, lowest (lightest) come first
+    - width: half
+      content: |
         
-        ###-Buildings in the Northwest are phased by pairs, "twin" buildings come first, regardless of height
+        >-Buildings in the Southwest are phased by height, lowest (lightest) come first
         
-        ###-Buildings in Residential quadrants are phased to preserve the existing fabric
+        >-Buildings in the Northwest are phased by pairs, "twin" buildings come first, regardless of height
         
-        ###-Waterfront is privaleged
+        >-Buildings in Residential quadrants are phased to preserve the existing fabric
         
-        ###-Few building clusters in early stages
+        >-Waterfront is privaleged
         
-        ###-Even dispersment within the quadrants
+        >-Few building clusters in early stages
         
-        ###-Even development across the quadrants overall
+        >-Even dispersment within the quadrants
+        
+        >-Even development across the quadrants overall
