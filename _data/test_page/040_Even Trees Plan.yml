@@ -11,10 +11,12 @@ content:
         
         <div class="grid">
           
+          ##Concetrated Buildings
+          
           <div class="column half" markdown="1">
           ![2025 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20EvenTrees-assets/2025%20Buildings.png)
           
-          <h2>Concentrated Buildings</h2>
+          <h2>Distributed Plantation</h2>
           
           ![2025 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20EvenTrees-assets/2025%20Plantation.png)
           </div>
@@ -31,9 +33,9 @@ content:
           
         </div>
         
-        ##Distributed Plantation
     - width: third
       content: |
+        <h2><br></h2>
         
         <div class="grid">
           
