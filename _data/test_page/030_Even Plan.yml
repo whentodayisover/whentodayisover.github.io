@@ -77,6 +77,7 @@ content:
     - width: half
       content: |
         <br>
+        
         >-Buildings in the Southwest are phased by height, lowest (lightest) come first
         
         >-Buildings in the Northwest are phased by pairs, "twin" buildings come first, regardless of height
