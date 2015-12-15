@@ -6,11 +6,13 @@ layout:
   - dark
 content:
   -
-    - width: third
+   - width: full
       content: |
         
-        ##Concentrated Buildings>>
+        ##Concentrated Buildings
         
+    - width: third
+      content: |
         
         <div class="grid">
           
@@ -34,8 +36,6 @@ content:
     - width: third
       content: |
         
-        <br>
-        
         <div class="grid">
           
           <div class="column half" markdown="1">
@@ -55,7 +55,6 @@ content:
     - width: third
       content: |
         
-
         ##Concentrated Building and Distributed Plantation Growth
         
         1. ![2025 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/15121402_Plan%20Phasing%20EvenTrees-assets/2025%20Combined.png)
@@ -66,7 +65,7 @@ content:
     - width: half
       content: |
         
-        ###-Buildings in the Southwest are phased by height, lowest (lightest) come first
+        >-Buildings in the Southwest are phased by height, lowest (lightest) come first
         
         ###-Buildings in the Northwest are phased by pairs, "twin" buildings come first, regardless of height
         
