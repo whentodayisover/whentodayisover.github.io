@@ -6,7 +6,7 @@ layout:
   - dark
 content:
   -
-   - width: full
+    - width: full
       content: |
         
         ##Concentrated Buildings
