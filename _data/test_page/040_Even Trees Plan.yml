@@ -68,7 +68,7 @@ content:
         
     - width: half
       content: | 
-        ![](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/151210_Phasing%20Even%20Trees_2065.png)
+        ![<p align="right">Complete form, never quite reached</p>](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/151210_Phasing%20Even%20Trees_2065.png)
         
     - width: half
       content: |
@@ -87,4 +87,6 @@ content:
         
         >-Plantation is evenly distributed across all quadrants, creating the most diverse patchwork in later phases.
         
-        >-Graphics: Trees are thinned in rows to reinforce band, appearing more regular in later phases
+        ><h4><i>Graphics</h4>
+        
+        >-Trees are thinned in regular rows, reinforcing the band, appearing more regular and tree farm like in later phases
