@@ -71,17 +71,28 @@ content:
           
         </div>
         
+
+    - width: half
+      content: | 
+        ![<p align="right">Complete form, never quite reached</p>](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151217_Option4_rotated_2065.png)
+        
+    - width: sixth
+      content: |
+        <br>
+        
+        >-Faster Southwest District
+        >-More Tree plantations
+        >-Higher Density South East
+        >-Taller buildings around Subway stops
+        >-Tall, small courtyard along on residential edges
+        
     - width: third
       content: |
         
-        1. ![<h4>(Click to advance)</h4> 2025 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/151216_Plan%20Phasing%20Option%204_250%20Blocks-assets/2020%20Combined.png)
+        1. ![<h4>(Click to advance)</h4>2025 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/151216_Plan%20Phasing%20Option%204_250%20Blocks-assets/2020%20Combined.png)
         2. ![2035 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/151216_Plan%20Phasing%20Option%204_250%20Blocks-assets/2030%20Combined.png)
         3. ![2045 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/151216_Plan%20Phasing%20Option%204_250%20Blocks-assets/2040%20Combined.png)
         4. ![2055 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/151216_Plan%20Phasing%20Option%204_250%20Blocks-assets/2050%20Combined.png)
         5. ![2065 ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/151216_Plan%20Phasing%20Option%204_250%20Blocks-assets/2060%20Combined.png)
         6. ![Deep Structure ](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/Archive/151216_Plan%20Phasing%20Option%204_250%20Blocks-assets/2065%20Combined.png)
-        
-    - width: half
-      content: | 
-        ![<p align="right">Complete form, never quite reached</p>](https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151217_Option4_rotated_2065.png)
         
