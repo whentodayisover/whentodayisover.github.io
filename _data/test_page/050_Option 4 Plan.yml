@@ -80,15 +80,15 @@ content:
       content: |
         <h2><br></h2>
         
-        >-Faster Southwest District
+        ><h3>-Faster Southwest District</h3>
         
-        >-More Tree plantations
+        ><h3>-More Tree plantations</h3>
         
-        >-Higher Density South East
+        ><h3>-Higher Density South East</h3>
         
-        >-Taller buildings around Subway stops
+        ><h3>-Taller buildings around Subway stops</h3>
         
-        >-Tall, small courtyard along on residential edges
+        ><h3>-Tall, small courtyard along on residential edges</h3>
         
     - width: third
       content: |
