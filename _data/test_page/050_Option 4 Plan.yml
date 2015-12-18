@@ -38,6 +38,9 @@ content:
           
         </div>
         
+        <h2><br></h2>
+        <h2><br></h2>
+        
     - width: half
       content: |
         <div class="grid">
