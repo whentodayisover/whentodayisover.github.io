@@ -78,12 +78,16 @@ content:
         
     - width: sixth
       content: |
-        <br>
+        <h2><br></h2>
         
         >-Faster Southwest District
+        
         >-More Tree plantations
+        
         >-Higher Density South East
+        
         >-Taller buildings around Subway stops
+        
         >-Tall, small courtyard along on residential edges
         
     - width: third
