@@ -1,0 +1,9 @@
+title: Option 4 Phasing
+background: https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151217_Option4_2020.png
+animation: fade
+animationFrames:
+  - https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151217_Option4_2020.png
+  - https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151217_Option4_2030.png
+  - https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151217_Option4_2040.png
+  - https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151217_Option4_2050.png
+  - https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151217_Option4_2060.png
