@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  {% include svg.html %}
+  
+  <body id="top">
+    {{ content }}
+
+ 
+
+    <div id="fixed"></div>
+
+    <script src="js/all.js?bust={{ site.time | date: '%s' }}"></script>
+  </body>
+</html>
