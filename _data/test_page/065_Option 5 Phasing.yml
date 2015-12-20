@@ -1,0 +1,10 @@
+title: Option 5 Phasing
+background: https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151220_Option5_2015.png
+animation: fade
+animationFrames:
+  - https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151220_Option5_2015.png
+  - https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151220_Option5_2025.png
+  - https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151220_Option5_2035.png
+  - https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151220_Option5_2045.png
+  - https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151220_Option5_2055.png
+  - https://dl.dropboxusercontent.com/u/21832022/Present%20Future%20Web/250_Block_Phasing-assets/151220_Option5_2065.png
